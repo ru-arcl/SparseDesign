@@ -1,0 +1,9 @@
+[ 37%] Building CXX object CMakeFiles/derna.dir/src/utils.cpp.o
+[ 37%] Building CXX object CMakeFiles/derna.dir/src/main.cpp.o
+[ 37%] Building CXX object CMakeFiles/derna.dir/src/Nussinov.cpp.o
+[ 75%] Building CXX object CMakeFiles/derna.dir/src/NussinovAlgorithm.cpp.o
+[ 75%] Building CXX object CMakeFiles/derna.dir/src/ZukerAlgorithm.cpp.o
+[ 87%] Building CXX object CMakeFiles/derna.dir/src/Zuker.cpp.o
+[ 87%] Building CXX object CMakeFiles/derna.dir/src/default.cpp.o
+[100%] Linking CXX executable derna
+[100%] Built target derna

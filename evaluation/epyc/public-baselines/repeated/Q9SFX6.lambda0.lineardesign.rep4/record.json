@@ -1,0 +1,49 @@
+{
+  "aa_length": 310,
+  "accession": "Q9SFX6",
+  "command": [
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/baseline-sources/lineardesign/bin/LinearDesign_2D",
+    "0",
+    "1",
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/data/codon_usage_freq_table_human.csv"
+  ],
+  "common_cai": 0.7989978951485623,
+  "common_codon_penalty": 69.56305994873853,
+  "elapsed_observer_seconds": 24.715536706149578,
+  "executable_sha256": "2908a87e5a2ba88b80e2bff31de233c3c8872ca051f0e77b44f4e18a9f656969",
+  "exit_status": 0.0,
+  "host_loadavg_started": "9.11 9.84 11.88 9/7774 2928052",
+  "input_fasta_sha256": "49e5d6b03ecca2721057c485df728c6c1d704327d1d3652688353d94470a622c",
+  "label": "Q9SFX6.lambda0.lineardesign.rep4",
+  "lambda_value": 0.0,
+  "max_rss_kib": 2984636.0,
+  "native_mfe": -583.8,
+  "native_mfe_kind": "native reported folding score",
+  "native_temporary_bin_bytes": 0,
+  "raw_file_sha256": {
+    "stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "stdout.txt": "24486486a0f4b88a6c29dceaa371c66300c83557e51788fa7b099d922208e306",
+    "time.txt": "877df682d39dab07ac7f600b7daf2d90147058ea9947aaa68c7eb2221ee27b39"
+  },
+  "repetition": 4,
+  "returncode": 0,
+  "rna": "AUGAAGCAGAUAUCAUCGGGCGAGGUCUGGAGAUGGAACAAGGAGGUGGAGAUGAACAGCAUCAGGGACUGCUUGAAGCACUGCAGCUCCAUUGCGAUCGACACUGAGUUUCCCGGGUGCCUGAAGGAGACUCCGAUGGACGCAUCGGAGGAGAUCAGGUACCGGGACAUGAAAUUCAAUGUCGAUAACACGCACCUGAUACAGCUGGGGUUCACCCUCUUCGACCGACGUGGUUUCGCGAAGACUUGGGAGAUCAAUCUGUCAGACUUCGAUGAGCACAAGUGCUUCAAGAACGACAAGAGCAUUGCGUUCUUGAAGUCGAACGGUCUCAAUCUGGAUAAGAUCCGGGAAGAAGGCAUCGGGAUCGAUGAAUUCUUCCGGGAUUUUAGCCAGAUCUUGACCGAGAAGGAUGGUAAGAUCACCUGGGUGAACUUCCAGGGAUCUUACGAUAACGCCUACUUGGUCAAGGGUCUCACGGGAGGGAAGCCCCUCCCGGAGACCAAGGAAGAGUUCCAUGAGACCGUUCAGCAGCUCCUCGGCAAGUUCGUCUUCGACGUGAAGAAGAUUGCCGAGAGCUGCUCGGGCCUCAGCUCGCAGUUCGGCCUGCAGCGCAUUGCCGACGUGCUUCAGAUGAAGCGCGUCGGCAAGGCGCACCAUGCAGGCUCGGACAGCGAGCUGACGGCCCGUGUGUUCACGAAGCUGACAUUUGAUCUCCUAAAUUCGCGAAAGCAGUCGGUGAGGAGGGUGGACCACCAGCAGUUUCAGCUGGAGCAGCAGCAGCAUCAGCAGUUCAUGAUGACCCGCUGUUACAUCCCCAUCCCUAUGCCCAUCCCCAGACCUCGCCCGGUGAUGUUUGCUGCCCACCACCAGAAUCCGUAUUUUGGUGGUGGGUACUUCAGGAUGCCAGUUCAGGGCAUGAACUACGUCCUG",
+  "source_commit": "f0126ca89a8b853088b4bccfd2cc8c378d3678be",
+  "status": "ok",
+  "structure": "....((((((((((((((((((((((((((.(((((....(((.(((((.((((((((((((((.((((((((.((.((.((((.((((((.(((((((((((.((((((((((.(((((((((......((((((((....))))))))....))))))))).))....)))))))).)))))))....)))).((((.((.(((((((((((((((((((.((((((.((.(((((((((...((((((((((((..((((((.(((((.((((((((...((((((((((((.(((.....))))))))))))))).(((((((((((((((((.((((((((.(((((((..(((((....)))))..))))))).)))))))).))))))((((((((((.(((((.((((((((.((((((......)))))))))))))).))....))).))))))))))((((((.((((((((....))))))))))))))..((((...)))).)))))))))))((((((((.(((((((..((.(((((.....))))).)))))))))))))))))(((((((((((((((.((((((((((((((((.(((((((((((((((....))))))))))))))).))))....))))))).))))).))))))))).))))))))))))))))))))))))).)))))))))))).))))))))).)))))))))))))))))))))).))))).)).)))).)))))).))))..)).)))))))))).)))).....)))))).)))).))))))))....))))).))))))))))))))))))))))))))(((((((((((((((....)))))))))))))))....(((((((..((((((.....)))))).)))))))",
+  "system_seconds": 1.42,
+  "table_sha256": "e6c4a49036fe21f3266e7e53130011bd7725c62ebeabbe442f7f8f1cdf5890c4",
+  "tool": "lineardesign",
+  "translation_valid": true,
+  "unix_started": 1790361137.1556973,
+  "user_seconds": 22.95,
+  "validation_checks": {
+    "canonical_pairs_and_minimum_hairpin": true,
+    "dot_bracket_balanced": true,
+    "rna_length": true,
+    "structure_length": true,
+    "translation": true
+  },
+  "wall_seconds": 24.7,
+  "wrapper_sha256": "94b79eb0ef22681b1364d19e461fa76baec7ae064f45382855f8c0ab84a94f45"
+}

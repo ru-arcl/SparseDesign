@@ -1,0 +1,13 @@
+g++ -std=c++11 -O3 -flto -Wall -fopenmp -DLDCLEAN_SQUARE_MEMOS src/main.cc src/fold_turner.cc src/energy.cc src/dfa.cc src/codon_table.cc -o lineardesign-clean
+lto-wrapper: warning: using serial compilation of 2 LTRANS jobs
+lto-wrapper: note: see the ‘-flto’ option documentation for more information
+thread-report requested=1 reported=1 observed=1 OK
+thread-report requested=2 reported=2 observed=2 OK
+thread-report requested=4 reported=4 observed=4 OK
+protein=MFL lambda=0.00 ML_BASE37=0 dense_ref=0.000000000 sparse=0.000000000 dense_wave_j1=0.000000000 dense_wave_j2=0.000000000 dense_wave_j4=0.000000000 OK
+protein=SSSS lambda=100.00 ML_BASE37=0 dense_ref=-102.669426189 sparse=-102.669426189 dense_wave_j1=-102.669426189 dense_wave_j2=-102.669426189 dense_wave_j4=-102.669426189 OK
+protein=MSWFWFM lambda=300.00 ML_BASE37=0 dense_ref=-520.000000000 sparse=-520.000000000 dense_wave_j1=-520.000000000 dense_wave_j2=-520.000000000 dense_wave_j4=-520.000000000 OK
+protein=WIPKKSAWCFEQQLCNLYSQLFMGV lambda=400.00 ML_BASE37=0 dense_ref=-3217.900333371 sparse=-3217.900333371 dense_wave_j1=-3217.900333371 dense_wave_j2=-3217.900333371 dense_wave_j4=-3217.900333371 OK
+protein=WIPKKSAWCFEQQLCNLYSQGFMGV lambda=400.00 ML_BASE37=37 dense_ref=-3028.364060760 sparse=-3028.364060760 dense_wave_j1=-3028.364060760 dense_wave_j2=-3028.364060760 dense_wave_j4=-3028.364060760 OK
+protein=SSSS constrained=yes lambda=100.00 dense_ref=-102.669426189 sparse=-102.669426189 dense_wave_j1=-102.669426189 dense_wave_j2=-102.669426189 dense_wave_j4=-102.669426189 OK
+dense-wavefront equivalence: 6 cases, 0 failures

@@ -1,0 +1,51 @@
+{
+  "aa_length": 619,
+  "accession": "A8MTY0",
+  "command": [
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/baseline-sources/linearcdsfold/LinearCDSfold",
+    "-m",
+    "exact",
+    "-O",
+    "LD",
+    "-l",
+    "4",
+    "-c",
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/data/codon_usage_freq_table_human.csv",
+    "-o",
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/public-baselines/chains/linearcdsfold-l4/feasibility/A8MTY0.lambda4.linearcdsfold.rep1/native-result.txt",
+    "-f",
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/public-baselines/chains/linearcdsfold-l4/feasibility/A8MTY0.lambda4.linearcdsfold.rep1/native-result.csv",
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/inputs/A8MTY0.fasta"
+  ],
+  "elapsed_observer_seconds": 240.00529382005334,
+  "executable_sha256": "3b474cd3ae725a7065299b840aff4041c10880d5d4b62a255b53a1da45bdbedc",
+  "host_loadavg_started": "9.10 11.17 14.51 11/7738 2904132",
+  "input_fasta_sha256": "3431c6a13be7f9e34d0aa36af34448537ecb0d020816d9bc3e88bb3fe62db2cc",
+  "label": "A8MTY0.lambda4.linearcdsfold.rep1",
+  "lambda_value": 4.0,
+  "native_mfe_kind": "native reported folding score",
+  "native_temporary_bin_bytes": 0,
+  "raw_file_sha256": {
+    "native-result.csv": "3c0ff259964ff35726a88625ef9bbcf66798108091fc34a61051ec9857961265",
+    "native-result.txt": "4a91827278b21afab25de7d3470b3e87cab3f08d377968ea14411ded575cdde7",
+    "stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "stdout.txt": "679024086091bfc71d56fd1c551f51967361af1d24e9e96f66d1fb8084d1cc3a",
+    "time.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "repetition": 1,
+  "returncode": -15,
+  "source_commit": "de1db7e6c8d0a4360bf4f1c9270f11525ad51ff6",
+  "status": "timeout",
+  "table_sha256": "e6c4a49036fe21f3266e7e53130011bd7725c62ebeabbe442f7f8f1cdf5890c4",
+  "tool": "linearcdsfold",
+  "translation_valid": false,
+  "unix_started": 1790360392.1350179,
+  "validation_checks": {
+    "canonical_pairs_and_minimum_hairpin": true,
+    "dot_bracket_balanced": true,
+    "rna_length": false,
+    "structure_length": true,
+    "translation": false
+  },
+  "wrapper_sha256": "94b79eb0ef22681b1364d19e461fa76baec7ae064f45382855f8c0ab84a94f45"
+}

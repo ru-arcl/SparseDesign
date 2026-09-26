@@ -1,0 +1,12 @@
+{
+  "excluded": [
+    "Restricted upstream source repositories",
+    "All native executables and shared libraries",
+    "Temporary native DP-array dumps",
+    "Duplicated per-chain raw records"
+  ],
+  "historical_i9": "../../public-baselines remains unchanged; this new EPYC evidence supplies primary native results.",
+  "raw_records": "Copied unchanged from canonical feasibility/ and repeated/; source/executable hashes and per-chain metadata are retained.",
+  "schema": "sparsedesign-epyc-native-export-v1",
+  "source_campaign": "research/results/epyc-node1-2026-09"
+}

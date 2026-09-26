@@ -1,0 +1,24 @@
+{
+  "cpu_base": 16,
+  "memory_node": 1,
+  "cap_factor": 2,
+  "original_caps": {
+    "ablation": 900,
+    "pilot": 600,
+    "profile": 900,
+    "scaling": 900,
+    "workstation": 1800
+  },
+  "before_sha256": {
+    "source/publication_campaign_final.py": "d02eea27ad26d10c697dec173ff59580200459db7d64694b582cdf3239a1d68f",
+    "protocol.json": "82cabb4ce151ba7f29b23257c75218f3f37676fedc75923a2c883af79f801744",
+    "build.json": "1cc4e3243e017e40d6acc6a508de8bd55c0f0334e300df111392ede3a424a8b9"
+  },
+  "after_sha256": {
+    "source/publication_campaign_final.py": "cd01a38e88d848f456dc9296b7102e0265240fe2eddb43fc5dfdd3f728231b18",
+    "protocol.json": "d8101f9d7f5965bd14989be8ed99512cbe356e4b02e0a579769a6e51026cca92",
+    "build.json": "65964375dfdb4b7a74608e86d57196a6579b4b09fd15a2c48568df869d285eb7"
+  },
+  "analyzer_source_sha256": "e2adebf625d6c633d7a91f0d64aa0fa73b24b48730475fb64bb56ed29a153573",
+  "analyzer_node1_sha256": "f082c43dd0cf9effd29d24c5eb3c2e9e744367b70838d7be2518b40d8fff468e"
+}

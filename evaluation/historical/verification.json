@@ -1,0 +1,33 @@
+{
+  "checks": [
+    {
+      "command": [
+        "python3",
+        "analyze.py",
+        "--check"
+      ],
+      "exit_status": 0,
+      "output": "PASS: historical input/source hashes, 24 ablation pairs, 27 July13 runs, 2 July23 runs, 5 packed runs, and generated claims\n"
+    },
+    {
+      "command": [
+        "python3",
+        "test_historical.py"
+      ],
+      "exit_status": 0,
+      "output": "....\n----------------------------------------------------------------------\nRan 4 tests in 0.061s\n\nOK\n"
+    },
+    {
+      "command": [
+        "python3",
+        "standalone-code/evaluation/historical/analyze.py",
+        "--check"
+      ],
+      "exit_status": 0,
+      "output": "PASS: historical input/source hashes, 24 ablation pairs, 27 July13 runs, 2 July23 runs, 5 packed runs, and generated claims\n",
+      "working_directory": "temporary relocated tree with no original repository"
+    }
+  ],
+  "python": "3.10.12 (main, Jun 22 2026, 18:55:27) [GCC 11.4.0]",
+  "status": "pass"
+}

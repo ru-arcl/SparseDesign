@@ -1,0 +1,96 @@
+{
+  "campaign_id": "sparse-balanced-codon-panel-2026-07-16",
+  "created_utc": "2026-07-19T22:58:05+00:00",
+  "plan_sha256": "5a12973b30d30dcb0d5a090ed7a9a3a65b368b2844fdd7ce012ce1bc8b497c03",
+  "products": [
+    {
+      "codon_table_sha256": "e6c4a49036fe21f3266e7e53130011bd7725c62ebeabbe442f7f8f1cdf5890c4",
+      "lambda": "0",
+      "objective_id": "human-lambda0",
+      "path": "/common/home/jy512/dev/rna/research/results/sparse-balanced-codon-panel-2026-07-16/merged/human-lambda0.csv",
+      "rows": 2000,
+      "sha256": "e3182361bd6723de37af0f57bc84cbb46af1f9b3b2be5564be8b4278f4e560d8"
+    },
+    {
+      "codon_table_sha256": "e6c4a49036fe21f3266e7e53130011bd7725c62ebeabbe442f7f8f1cdf5890c4",
+      "lambda": "4",
+      "objective_id": "human-lambda4",
+      "path": "/common/home/jy512/dev/rna/research/results/sparse-balanced-codon-panel-2026-07-16/merged/human-lambda4.csv",
+      "rows": 2000,
+      "sha256": "eceac0cafe81dbb52ad3073852a259f198ef2239fdfa7e157c2a0480a462e10f"
+    },
+    {
+      "codon_table_sha256": "14fffb18aadc8931c5645cc7308913b33d195f53b074b5cd4575f77e68ddcc44",
+      "lambda": "4",
+      "objective_id": "yeast-lambda4",
+      "path": "/common/home/jy512/dev/rna/research/results/sparse-balanced-codon-panel-2026-07-16/merged/yeast-lambda4.csv",
+      "rows": 400,
+      "sha256": "508cfead3fd91649bf1c8b6258d7a91712fc9be6cde6f93c27d3dc98f0a284bb"
+    },
+    {
+      "codon_table_sha256": "f19dd94f656158ad86a602f8298d8c624fb89e211e283f323e232fe7f88bc5b2",
+      "lambda": "4",
+      "objective_id": "mouse-lambda4",
+      "path": "/common/home/jy512/dev/rna/research/results/sparse-balanced-codon-panel-2026-07-16/merged/mouse-lambda4.csv",
+      "rows": 400,
+      "sha256": "52f5b57186209736566af293e5d98f525f67e311dd9ec17c970bf6744178efa5"
+    },
+    {
+      "codon_table_sha256": "feb9ba0160a66046cb6ab4b42f9849f8ad4142ba4b4a6b006c4c0a064306b931",
+      "lambda": "4",
+      "objective_id": "zebrafish-lambda4",
+      "path": "/common/home/jy512/dev/rna/research/results/sparse-balanced-codon-panel-2026-07-16/merged/zebrafish-lambda4.csv",
+      "rows": 400,
+      "sha256": "e9939ee881ce85f2e220f49ffa8dc6108207d688349e1aaaacae70413c5d6d0e"
+    },
+    {
+      "codon_table_sha256": "4c8279e928a48c54d6ab3c7653ee010e22dd744afeeb8fa73b4c014e383a1ed8",
+      "lambda": "4",
+      "objective_id": "drosophila-lambda4",
+      "path": "/common/home/jy512/dev/rna/research/results/sparse-balanced-codon-panel-2026-07-16/merged/drosophila-lambda4.csv",
+      "rows": 400,
+      "sha256": "e80fa6c5a32a91adfd2e40407df9113ca9b35f9c425982c0794c4c447258aefd"
+    },
+    {
+      "codon_table_sha256": "e3feb242d8876e7f62f26f52a0fc99fd60aa8ae99a2e4e6e5a76e65b3448c2ce",
+      "lambda": "4",
+      "objective_id": "celegans-lambda4",
+      "path": "/common/home/jy512/dev/rna/research/results/sparse-balanced-codon-panel-2026-07-16/merged/celegans-lambda4.csv",
+      "rows": 400,
+      "sha256": "ec44f2c267861ad24aecdd7fb35c6e24992784491ccdeac5ece16e26380be46a"
+    },
+    {
+      "codon_table_sha256": "412a6e6bd20d5fed54338c2b744f0521715b599b463dafa55b9b93507371aa22",
+      "lambda": "4",
+      "objective_id": "arabidopsis-lambda4",
+      "path": "/common/home/jy512/dev/rna/research/results/sparse-balanced-codon-panel-2026-07-16/merged/arabidopsis-lambda4.csv",
+      "rows": 400,
+      "sha256": "451af52081f263a380c7574707f03bd434b0fdd2f441981898913754d87d4fb4"
+    },
+    {
+      "codon_table_sha256": "7f5b16220c9afdeb6a0499146bd4b45a66fa5cb9bddb7d9e022f0912b6911b41",
+      "lambda": "4",
+      "objective_id": "ecoli-o157-edl933-lambda4",
+      "path": "/common/home/jy512/dev/rna/research/results/sparse-balanced-codon-panel-2026-07-16/merged/ecoli-o157-edl933-lambda4.csv",
+      "rows": 400,
+      "sha256": "440c3fca8bd192c24550734594e2a559d021496ec89baca027bf9fe15bfbb733"
+    },
+    {
+      "codon_table_sha256": "367c34f5ed8f705293803d8ede69a7c588cc948b6cb95f42be551cbe94471d0c",
+      "lambda": "4",
+      "objective_id": "bsubtilis-species-lambda4",
+      "path": "/common/home/jy512/dev/rna/research/results/sparse-balanced-codon-panel-2026-07-16/merged/bsubtilis-species-lambda4.csv",
+      "rows": 400,
+      "sha256": "0e07f7fae2665f26967d290e579eff52472702ee0d65efc5913997dc69e3e86b"
+    },
+    {
+      "codon_table_sha256": "c4851e770f98726fb585d1058ae4458694b798ee865a12ba3f4b3352d5014b7b",
+      "lambda": "4",
+      "objective_id": "paeruginosa-pao1-lambda4",
+      "path": "/common/home/jy512/dev/rna/research/results/sparse-balanced-codon-panel-2026-07-16/merged/paeruginosa-pao1-lambda4.csv",
+      "rows": 400,
+      "sha256": "8fd6f00ec5cf4441a5d830de5288c8c3988197915dfeaa98112d9e0d722ebcb0"
+    }
+  ],
+  "schema_version": "sparse-balanced-campaign-merge-v1"
+}

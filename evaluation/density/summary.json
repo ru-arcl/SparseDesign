@@ -1,0 +1,964 @@
+{
+  "bootstrap": {
+    "calibration": "Whole-cluster resampling uses one multiplicity per cluster across both lambdas and all strata, then calibrates each resampled stratum to its original sequence count. Equal-cluster fits use weight 1/cluster-size; a separately reported variant also calibrates these weights within length strata.",
+    "replicates": 10000,
+    "schema": "paired-whole-cluster-stratum-calibration-v1",
+    "whole_cluster_seed": 20260717,
+    "within_stratum_seed": 20260716
+  },
+  "clusters": {
+    "count": 1565,
+    "cross_stratum_clusters": 24,
+    "definition": "MMseqs2 operational sequence-similarity groups at 30% alignment identity and 80% bidirectional coverage, plus recorded heuristics/E-value; not asserted biological families.",
+    "largest": 20,
+    "singletons": 1328,
+    "size_distribution": {
+      "1": 1328,
+      "2": 155,
+      "3": 45,
+      "4": 21,
+      "5": 3,
+      "6": 5,
+      "7": 1,
+      "8": 1,
+      "10": 1,
+      "12": 1,
+      "13": 2,
+      "15": 1,
+      "20": 1
+    }
+  },
+  "hosts": {
+    "arabidopsis-lambda4": {
+      "candidate_allocation_mib": {
+        "max": 13.022834777832031,
+        "median": 0.5098381042480469,
+        "min": 0.001953125,
+        "p05": 0.005931091308593751,
+        "p95": 7.896481323242173
+      },
+      "codon_table_sha256": "412a6e6bd20d5fed54338c2b744f0521715b599b463dafa55b9b93507371aa22",
+      "density": {
+        "max": 0.13333333333333333,
+        "median": 0.007039462692397853,
+        "min": 0.0027296595201693062,
+        "p05": 0.0038208565568506694,
+        "p95": 0.06916315545826174
+      },
+      "fit": {
+        "beta": 1.4406487845281868,
+        "coefficient": 0.5422074381708542,
+        "intercept_ln": -0.6121066235113855,
+        "n": 400,
+        "r_squared": 0.9947036222797409,
+        "rmse_log": 0.17405551013804788,
+        "sse_log": 12.118128243766435,
+        "weight_sum": 400.0
+      },
+      "frequency_precision": "full within-synonymous precision from archived Kazusa counts",
+      "median_paired_candidate_ratio_to_human": 0.8556527030574567,
+      "retention": {
+        "max": 0.3715170278637771,
+        "median": 0.01786191822215155,
+        "min": 0.008029444152917628,
+        "p05": 0.009528533703817291,
+        "p95": 0.1871564673695841
+      },
+      "rows": 400
+    },
+    "bsubtilis-species-lambda4": {
+      "candidate_allocation_mib": {
+        "max": 16.655487060546875,
+        "median": 0.5686111450195312,
+        "min": 0.0017242431640625,
+        "p05": 0.006202316284179688,
+        "p95": 8.64091339111328
+      },
+      "codon_table_sha256": "367c34f5ed8f705293803d8ede69a7c588cc948b6cb95f42be551cbe94471d0c",
+      "density": {
+        "max": 0.13555555555555557,
+        "median": 0.008070931937218428,
+        "min": 0.0026200195240714138,
+        "p05": 0.003783096560956984,
+        "p95": 0.072581516447761
+      },
+      "fit": {
+        "beta": 1.4444736414008867,
+        "coefficient": 0.573068227157118,
+        "intercept_ln": -0.5567504992734467,
+        "n": 400,
+        "r_squared": 0.9906595530318533,
+        "rmse_log": 0.23222997151754457,
+        "sse_log": 21.572303868415826,
+        "weight_sum": 400.0
+      },
+      "frequency_precision": "full within-synonymous precision from archived Kazusa counts",
+      "median_paired_candidate_ratio_to_human": 0.9301022163763148,
+      "retention": {
+        "max": 0.3357142857142857,
+        "median": 0.01963480279855017,
+        "min": 0.00676949634471566,
+        "p05": 0.009565436916110658,
+        "p95": 0.19585436401366763
+      },
+      "rows": 400
+    },
+    "celegans-lambda4": {
+      "candidate_allocation_mib": {
+        "max": 11.30096435546875,
+        "median": 0.43390655517578125,
+        "min": 0.0018768310546875,
+        "p05": 0.005662918090820313,
+        "p95": 6.298883056640618
+      },
+      "codon_table_sha256": "e3feb242d8876e7f62f26f52a0fc99fd60aa8ae99a2e4e6e5a76e65b3448c2ce",
+      "density": {
+        "max": 0.13777777777777778,
+        "median": 0.006063461177259187,
+        "min": 0.001897680500604943,
+        "p05": 0.0028871839381378584,
+        "p95": 0.06895485380116957
+      },
+      "fit": {
+        "beta": 1.3947011043691182,
+        "coefficient": 0.639370426106286,
+        "intercept_ln": -0.44727129599679216,
+        "n": 400,
+        "r_squared": 0.9923250449409781,
+        "rmse_log": 0.20308559661153533,
+        "sse_log": 16.4975038204253,
+        "weight_sum": 400.0
+      },
+      "frequency_precision": "full within-synonymous precision from archived Kazusa counts",
+      "median_paired_candidate_ratio_to_human": 0.7125028753788785,
+      "retention": {
+        "max": 0.3684210526315789,
+        "median": 0.014802832371414665,
+        "min": 0.005752800631560698,
+        "p05": 0.007221522890497892,
+        "p95": 0.17254033671136226
+      },
+      "rows": 400
+    },
+    "drosophila-lambda4": {
+      "candidate_allocation_mib": {
+        "max": 16.742294311523438,
+        "median": 0.5622482299804688,
+        "min": 0.0016632080078125,
+        "p05": 0.005843734741210938,
+        "p95": 9.362110900878896
+      },
+      "codon_table_sha256": "4c8279e928a48c54d6ab3c7653ee010e22dd744afeeb8fa73b4c014e383a1ed8",
+      "density": {
+        "max": 0.11666666666666667,
+        "median": 0.007992695465731114,
+        "min": 0.0028862612947766477,
+        "p05": 0.0042230232563169445,
+        "p95": 0.06585731245406741
+      },
+      "fit": {
+        "beta": 1.4832577945979484,
+        "coefficient": 0.43076221093698447,
+        "intercept_ln": -0.8421990558923582,
+        "n": 400,
+        "r_squared": 0.9926940281972064,
+        "rmse_log": 0.21068565393402428,
+        "sse_log": 17.755377909442974,
+        "weight_sum": 400.0
+      },
+      "frequency_precision": "full within-synonymous precision from archived Kazusa counts",
+      "median_paired_candidate_ratio_to_human": 0.9246679947600541,
+      "retention": {
+        "max": 0.3308270676691729,
+        "median": 0.01951490718539773,
+        "min": 0.007667055752940071,
+        "p05": 0.01073711268981586,
+        "p95": 0.1780008326889906
+      },
+      "rows": 400
+    },
+    "ecoli-o157-edl933-lambda4": {
+      "candidate_allocation_mib": {
+        "max": 15.732925415039062,
+        "median": 0.5239181518554688,
+        "min": 0.0017242431640625,
+        "p05": 0.00598297119140625,
+        "p95": 8.302138519287103
+      },
+      "codon_table_sha256": "7f5b16220c9afdeb6a0499146bd4b45a66fa5cb9bddb7d9e022f0912b6911b41",
+      "density": {
+        "max": 0.12196180555555555,
+        "median": 0.007475932528653896,
+        "min": 0.002343054574773473,
+        "p05": 0.003529237999281484,
+        "p95": 0.06564840236686387
+      },
+      "fit": {
+        "beta": 1.4483933196662901,
+        "coefficient": 0.5114447862615223,
+        "intercept_ln": -0.6705156441646665,
+        "n": 400,
+        "r_squared": 0.9906542131889018,
+        "rmse_log": 0.23292732366247432,
+        "sse_log": 21.702055243425225,
+        "weight_sum": 400.0
+      },
+      "frequency_precision": "full within-synonymous precision from archived Kazusa counts",
+      "median_paired_candidate_ratio_to_human": 0.8515441363268486,
+      "retention": {
+        "max": 0.33746130030959753,
+        "median": 0.018105547883512547,
+        "min": 0.006126104997627579,
+        "p05": 0.009024957676042797,
+        "p95": 0.17312554872695293
+      },
+      "rows": 400
+    },
+    "human-lambda4": {
+      "candidate_allocation_mib": {
+        "max": 18.416580200195312,
+        "median": 0.6221694946289062,
+        "min": 0.0016326904296875,
+        "p05": 0.005870437622070313,
+        "p95": 9.965763092040996
+      },
+      "codon_table_sha256": "e6c4a49036fe21f3266e7e53130011bd7725c62ebeabbe442f7f8f1cdf5890c4",
+      "density": {
+        "max": 0.11888888888888889,
+        "median": 0.008651417911855114,
+        "min": 0.002604709196985234,
+        "p05": 0.004595271132286043,
+        "p95": 0.06616102846648297
+      },
+      "fit": {
+        "beta": 1.492344373200146,
+        "coefficient": 0.4347521277834616,
+        "intercept_ln": -0.8329792314906896,
+        "n": 400,
+        "r_squared": 0.9926319054167213,
+        "rmse_log": 0.2128823067198106,
+        "sse_log": 18.127550605739003,
+        "weight_sum": 400.0
+      },
+      "frequency_precision": "rounded two-decimal synonymous frequencies",
+      "median_paired_candidate_ratio_to_human": 1.0,
+      "retention": {
+        "max": 0.32706766917293234,
+        "median": 0.021113386997985803,
+        "min": 0.00756441378208035,
+        "p05": 0.011613241315574188,
+        "p95": 0.18368901110945599
+      },
+      "rows": 400
+    },
+    "mouse-lambda4": {
+      "candidate_allocation_mib": {
+        "max": 19.489120483398438,
+        "median": 0.6446533203125,
+        "min": 0.001678466796875,
+        "p05": 0.005904006958007813,
+        "p95": 10.253124999999978
+      },
+      "codon_table_sha256": "f19dd94f656158ad86a602f8298d8c624fb89e211e283f323e232fe7f88bc5b2",
+      "density": {
+        "max": 0.12,
+        "median": 0.009008392668195666,
+        "min": 0.002925747178558734,
+        "p05": 0.004782226649418909,
+        "p95": 0.06728703397612487
+      },
+      "fit": {
+        "beta": 1.4966652151512185,
+        "coefficient": 0.4350130963016567,
+        "intercept_ln": -0.8323791419060527,
+        "n": 400,
+        "r_squared": 0.9925875786525686,
+        "rmse_log": 0.21414469995313212,
+        "sse_log": 18.343181007206795,
+        "weight_sum": 400.0
+      },
+      "frequency_precision": "full within-synonymous precision from archived Kazusa counts",
+      "median_paired_candidate_ratio_to_human": 1.0307172223796282,
+      "retention": {
+        "max": 0.3157894736842105,
+        "median": 0.021900418989881133,
+        "min": 0.007559422610728476,
+        "p05": 0.012050965859773905,
+        "p95": 0.19005523813806302
+      },
+      "rows": 400
+    },
+    "paeruginosa-pao1-lambda4": {
+      "candidate_allocation_mib": {
+        "max": 14.32708740234375,
+        "median": 0.4877510070800781,
+        "min": 0.00152587890625,
+        "p05": 0.00550079345703125,
+        "p95": 7.680415725707999
+      },
+      "codon_table_sha256": "c4851e770f98726fb585d1058ae4458694b798ee865a12ba3f4b3352d5014b7b",
+      "density": {
+        "max": 0.10848126232741617,
+        "median": 0.006998769415639751,
+        "min": 0.0021023120302955693,
+        "p05": 0.003337493129842951,
+        "p95": 0.05881427236322337
+      },
+      "fit": {
+        "beta": 1.4572067396339219,
+        "coefficient": 0.4535961805276584,
+        "intercept_ln": -0.7905479469575329,
+        "n": 400,
+        "r_squared": 0.9916913007930768,
+        "rmse_log": 0.22084444100326786,
+        "sse_log": 19.508906848818345,
+        "weight_sum": 400.0
+      },
+      "frequency_precision": "full within-synonymous precision from archived Kazusa counts",
+      "median_paired_candidate_ratio_to_human": 0.8066629803988355,
+      "retention": {
+        "max": 0.30451127819548873,
+        "median": 0.01707665266644221,
+        "min": 0.005759224543433334,
+        "p05": 0.008769792883265463,
+        "p95": 0.16394085925573462
+      },
+      "rows": 400
+    },
+    "yeast-lambda4": {
+      "candidate_allocation_mib": {
+        "max": 9.348136901855469,
+        "median": 0.39776611328125,
+        "min": 0.00177001953125,
+        "p05": 0.005506134033203125,
+        "p95": 5.468124389648413
+      },
+      "codon_table_sha256": "14fffb18aadc8931c5645cc7308913b33d195f53b074b5cd4575f77e68ddcc44",
+      "density": {
+        "max": 0.1388888888888889,
+        "median": 0.0053558621726573375,
+        "min": 0.001830937389369342,
+        "p05": 0.0025282690717908216,
+        "p95": 0.06429354863514025
+      },
+      "fit": {
+        "beta": 1.376508242792317,
+        "coefficient": 0.6661196450788611,
+        "intercept_ln": -0.4062859773108283,
+        "n": 400,
+        "r_squared": 0.9924884560103262,
+        "rmse_log": 0.19827489376722943,
+        "sse_log": 15.725173399362447,
+        "weight_sum": 400.0
+      },
+      "frequency_precision": "rounded two-decimal synonymous frequencies",
+      "median_paired_candidate_ratio_to_human": 0.6460946365089655,
+      "retention": {
+        "max": 0.38699690402476783,
+        "median": 0.013513191721854157,
+        "min": 0.005372584922651964,
+        "p05": 0.0063861086140750605,
+        "p95": 0.17264358355282403
+      },
+      "rows": 400
+    },
+    "zebrafish-lambda4": {
+      "candidate_allocation_mib": {
+        "max": 19.1131591796875,
+        "median": 0.6439552307128906,
+        "min": 0.0018463134765625,
+        "p05": 0.006278610229492188,
+        "p95": 10.45189590454101
+      },
+      "codon_table_sha256": "feb9ba0160a66046cb6ab4b42f9849f8ad4142ba4b4a6b006c4c0a064306b931",
+      "density": {
+        "max": 0.12,
+        "median": 0.00908110859608443,
+        "min": 0.002975052225680848,
+        "p05": 0.004691591177065875,
+        "p95": 0.07008905417814505
+      },
+      "fit": {
+        "beta": 1.4893291238114927,
+        "coefficient": 0.4640638336548668,
+        "intercept_ln": -0.7677331636860742,
+        "n": 400,
+        "r_squared": 0.9928564760751168,
+        "rmse_log": 0.20916582678932535,
+        "sse_log": 17.50013723858482,
+        "weight_sum": 400.0
+      },
+      "frequency_precision": "full within-synonymous precision from archived Kazusa counts",
+      "median_paired_candidate_ratio_to_human": 1.0394825073346448,
+      "retention": {
+        "max": 0.3233082706766917,
+        "median": 0.022179238024415494,
+        "min": 0.007686814919527198,
+        "p05": 0.011865482017785487,
+        "p95": 0.1864120641809418
+      },
+      "rows": 400
+    }
+  },
+  "human": {
+    "human-lambda0": {
+      "bootstrap_95_ci": {
+        "calibrated_equal_cluster": [
+          1.5182045222038572,
+          1.5321049758684908
+        ],
+        "cluster": [
+          1.5198727205071345,
+          1.5334567299319082
+        ],
+        "equal_cluster": [
+          1.5113040463787366,
+          1.526485399524459
+        ],
+        "within": [
+          1.5210090092033575,
+          1.5323178244840279
+        ]
+      },
+      "candidate_allocation_mib": {
+        "max": 37.26286315917969,
+        "median": 0.9907569885253906,
+        "min": 0.00200653076171875,
+        "p05": 0.007545089721679688,
+        "p95": 18.83446235656738
+      },
+      "continuous_hinge_fits": {
+        "100": {
+          "hinge_coefficient": 0.23285780677952025,
+          "intercept_ln": 0.23845871387683204,
+          "knot_aa": 100,
+          "lower_slope": 1.3553813530523173,
+          "n": 2000,
+          "r_squared": 0.9941786305224846,
+          "sse_log": 74.88594941061189,
+          "sse_reduction_fraction": 0.14612762438553617,
+          "upper_slope": 1.5882391598318375
+        },
+        "1000": {
+          "hinge_coefficient": 0.3529000125157617,
+          "intercept_ln": -0.2535764954184396,
+          "knot_aa": 1000,
+          "lower_slope": 1.4656650851804132,
+          "n": 2000,
+          "r_squared": 0.9948578595673648,
+          "sse_log": 66.14836419297906,
+          "sse_reduction_fraction": 0.2457562290254437,
+          "upper_slope": 1.818565097696175
+        },
+        "400": {
+          "hinge_coefficient": 0.25758683274402044,
+          "intercept_ln": -0.04811448432634058,
+          "knot_aa": 400,
+          "lower_slope": 1.4239944776141038,
+          "n": 2000,
+          "r_squared": 0.9948224138385224,
+          "sse_log": 66.60433715040193,
+          "sse_reduction_fraction": 0.2405570866571498,
+          "upper_slope": 1.6815813103581243
+        }
+      },
+      "cutoffs": {
+        "0": {
+          "beta": 1.5267017207248172,
+          "coefficient": 0.5517435133859753,
+          "intercept_ln": -0.5946719903512356,
+          "n": 2000,
+          "r_squared": 0.993182389261245,
+          "rmse_log": 0.20940579235603252,
+          "sse_log": 87.70157174451562,
+          "weight_sum": 2000.0
+        },
+        "100": {
+          "beta": 1.6102856497603326,
+          "coefficient": 0.27996308419032634,
+          "intercept_ln": -1.2730975266822373,
+          "n": 1500,
+          "r_squared": 0.9869176427458223,
+          "rmse_log": 0.18056698341954494,
+          "sse_log": 48.906653251851324,
+          "weight_sum": 1500.0
+        },
+        "1000": {
+          "beta": 1.7939638152944202,
+          "coefficient": 0.05728775932696789,
+          "intercept_ln": -2.8596683023935725,
+          "n": 747,
+          "r_squared": 0.9420452484714543,
+          "rmse_log": 0.17264634771666462,
+          "sse_log": 22.265650750787888,
+          "weight_sum": 747.0
+        },
+        "400": {
+          "beta": 1.6992362776956547,
+          "coefficient": 0.13173705023344484,
+          "intercept_ln": -2.0269473868397245,
+          "n": 1167,
+          "r_squared": 0.9766405560258052,
+          "rmse_log": 0.1692643456951369,
+          "sse_log": 33.435038650444476,
+          "weight_sum": 1167.0
+        }
+      },
+      "density": {
+        "max": 0.22865013774104684,
+        "median": 0.01434124716419399,
+        "min": 0.002719973032886755,
+        "p05": 0.007947174069174346,
+        "p95": 0.09537221261053438
+      },
+      "disjoint_length_band_fits": {
+        "10-99": {
+          "beta": 1.418140049107507,
+          "coefficient": 0.9733504481455584,
+          "intercept_ln": -0.027011088831320862,
+          "n": 500,
+          "r_squared": 0.9515945818764479,
+          "rmse_log": 0.2182571783522678,
+          "sse_log": 23.818097951146818,
+          "weight_sum": 500.0
+        },
+        "100-399": {
+          "beta": 1.4329749048360974,
+          "coefficient": 0.9276444644602303,
+          "intercept_ln": -0.07510673979894555,
+          "n": 333,
+          "r_squared": 0.91654490224126,
+          "rmse_log": 0.16264114518105957,
+          "sse_log": 8.808563321233564,
+          "weight_sum": 333.0
+        },
+        "1000-3999": {
+          "beta": 1.7939638152944202,
+          "coefficient": 0.05728775932696789,
+          "intercept_ln": -2.8596683023935725,
+          "n": 747,
+          "r_squared": 0.9420452484714543,
+          "rmse_log": 0.17264634771666462,
+          "sse_log": 22.265650750787888,
+          "weight_sum": 747.0
+        },
+        "400-999": {
+          "beta": 1.5945857798025764,
+          "coefficient": 0.2956000839931904,
+          "intercept_ln": -1.218747805763373,
+          "n": 420,
+          "r_squared": 0.8945442497730908,
+          "rmse_log": 0.15158986577022515,
+          "sse_log": 9.651384709778648,
+          "weight_sum": 420.0
+        }
+      },
+      "equal_cluster_fit": {
+        "beta": 1.5188123729959415,
+        "coefficient": 0.5764018648710267,
+        "intercept_ln": -0.5509501794854827,
+        "n": 2000,
+        "r_squared": 0.9927960384263815,
+        "rmse_log": 0.2111820760664926,
+        "sse_log": 69.79566537899481,
+        "weight_sum": 1565.0
+      },
+      "fit": {
+        "beta": 1.5267017207248172,
+        "coefficient": 0.5517435133859753,
+        "intercept_ln": -0.5946719903512356,
+        "n": 2000,
+        "r_squared": 0.993182389261245,
+        "rmse_log": 0.20940579235603252,
+        "sse_log": 87.70157174451562,
+        "weight_sum": 2000.0
+      },
+      "retention": {
+        "max": 0.43795620437956206,
+        "median": 0.035282359078841044,
+        "min": 0.008880859170866642,
+        "p05": 0.020240743596858214,
+        "p95": 0.26702011024159045
+      },
+      "rows": 2000,
+      "stratum_calibrated_equal_cluster_fit": {
+        "beta": 1.5251767048208014,
+        "coefficient": 0.5568614603596445,
+        "intercept_ln": -0.5854387946604653,
+        "n": 2000,
+        "r_squared": 0.9928447782952008,
+        "rmse_log": 0.21557119583566992,
+        "sse_log": 92.94188094804151,
+        "weight_sum": 2000.0000000000002
+      }
+    },
+    "human-lambda4": {
+      "bootstrap_95_ci": {
+        "calibrated_equal_cluster": [
+          1.47785565897496,
+          1.4924109851065706
+        ],
+        "cluster": [
+          1.479701122632573,
+          1.494699742337827
+        ],
+        "equal_cluster": [
+          1.4692835956115762,
+          1.4856530112311546
+        ],
+        "within": [
+          1.4813780677526536,
+          1.493134189070481
+        ]
+      },
+      "candidate_allocation_mib": {
+        "max": 23.215774536132812,
+        "median": 0.6151924133300781,
+        "min": 0.00159454345703125,
+        "p05": 0.005660629272460938,
+        "p95": 10.949131011962889
+      },
+      "continuous_hinge_fits": {
+        "100": {
+          "hinge_coefficient": 0.28290357438566965,
+          "intercept_ln": 0.21625070376599043,
+          "knot_aa": 100,
+          "lower_slope": 1.2791474698189802,
+          "n": 2000,
+          "r_squared": 0.9929959660534965,
+          "sse_log": 85.65716643826056,
+          "sse_reduction_fraction": 0.18088963499021393,
+          "upper_slope": 1.5620510442046498
+        },
+        "1000": {
+          "hinge_coefficient": 0.3989506849016319,
+          "intercept_ln": -0.41033056537167883,
+          "knot_aa": 1000,
+          "lower_slope": 1.4182865514095693,
+          "n": 2000,
+          "r_squared": 0.9937015457290503,
+          "sse_log": 77.0281454817663,
+          "sse_reduction_fraction": 0.26340602911405664,
+          "upper_slope": 1.8172372363112013
+        },
+        "400": {
+          "hinge_coefficient": 0.30083125980959136,
+          "intercept_ln": -0.1576211654785178,
+          "knot_aa": 400,
+          "lower_slope": 1.3673379532364307,
+          "n": 2000,
+          "r_squared": 0.9938021464807172,
+          "sse_log": 75.7978294388747,
+          "sse_reduction_fraction": 0.2751711232080425,
+          "upper_slope": 1.668169213046022
+        }
+      },
+      "cutoffs": {
+        "0": {
+          "beta": 1.4872879872013707,
+          "coefficient": 0.45115860099954425,
+          "intercept_ln": -0.7959363361117084,
+          "n": 2000,
+          "r_squared": 0.9914492182669183,
+          "rmse_log": 0.22866286639229202,
+          "sse_log": 104.57341293347838,
+          "weight_sum": 2000.0
+        },
+        "100": {
+          "beta": 1.5860608111712131,
+          "coefficient": 0.2024855935961512,
+          "intercept_ln": -1.5970865377013634,
+          "n": 1500,
+          "r_squared": 0.9835939379564135,
+          "rmse_log": 0.19950186581390134,
+          "sse_log": 59.701491694841835,
+          "weight_sum": 1500.0
+        },
+        "1000": {
+          "beta": 1.7725797594170114,
+          "coefficient": 0.0405065538404673,
+          "intercept_ln": -3.206291494740194,
+          "n": 747,
+          "r_squared": 0.9219194376878014,
+          "rmse_log": 0.20015472196828443,
+          "sse_log": 29.92624880647233,
+          "weight_sum": 747.0
+        },
+        "400": {
+          "beta": 1.6773451540595852,
+          "coefficient": 0.09349853678885423,
+          "intercept_ln": -2.3698094921270147,
+          "n": 1167,
+          "r_squared": 0.9695620286107729,
+          "rmse_log": 0.19142133179447224,
+          "sse_log": 42.761361352386324,
+          "weight_sum": 1167.0
+        }
+      },
+      "density": {
+        "max": 0.1715131109070503,
+        "median": 0.008756632342111971,
+        "min": 0.00159061366050686,
+        "p05": 0.004557871598067922,
+        "p95": 0.07079312865497077
+      },
+      "disjoint_length_band_fits": {
+        "10-99": {
+          "beta": 1.3474949333970332,
+          "coefficient": 0.9297313256466265,
+          "intercept_ln": -0.07285963172782228,
+          "n": 500,
+          "r_squared": 0.9475670806914502,
+          "rmse_log": 0.2162980403070741,
+          "sse_log": 23.39242112034033,
+          "weight_sum": 500.0
+        },
+        "100-399": {
+          "beta": 1.3625122842210813,
+          "coefficient": 0.9020888288721634,
+          "intercept_ln": -0.10304228386572056,
+          "n": 333,
+          "r_squared": 0.9040668120051327,
+          "rmse_log": 0.16694248674002227,
+          "sse_log": 9.280641361687854,
+          "weight_sum": 333.0
+        },
+        "1000-3999": {
+          "beta": 1.7725797594170114,
+          "coefficient": 0.0405065538404673,
+          "intercept_ln": -3.206291494740194,
+          "n": 747,
+          "r_squared": 0.9219194376878014,
+          "rmse_log": 0.20015472196828443,
+          "sse_log": 29.92624880647233,
+          "weight_sum": 747.0
+        },
+        "400-999": {
+          "beta": 1.5539790865060048,
+          "coefficient": 0.24147524773530907,
+          "intercept_ln": -1.4209883049920151,
+          "n": 420,
+          "r_squared": 0.8741748971255274,
+          "rmse_log": 0.16323666531989364,
+          "sse_log": 11.191407739998768,
+          "weight_sum": 420.0
+        }
+      },
+      "equal_cluster_fit": {
+        "beta": 1.4774239923053585,
+        "coefficient": 0.4770000342032103,
+        "intercept_ln": -0.740238716388955,
+        "n": 2000,
+        "r_squared": 0.9909840098169332,
+        "rmse_log": 0.23002539835430377,
+        "sse_log": 82.80678528480786,
+        "weight_sum": 1565.0
+      },
+      "fit": {
+        "beta": 1.4872879872013707,
+        "coefficient": 0.45115860099954425,
+        "intercept_ln": -0.7959363361117084,
+        "n": 2000,
+        "r_squared": 0.9914492182669183,
+        "rmse_log": 0.22866286639229202,
+        "sse_log": 104.57341293347838,
+        "weight_sum": 2000.0
+      },
+      "retention": {
+        "max": 0.3722627737226277,
+        "median": 0.02154379935035481,
+        "min": 0.005193439693490607,
+        "p05": 0.011627290412816084,
+        "p95": 0.19443563912603207
+      },
+      "rows": 2000,
+      "stratum_calibrated_equal_cluster_fit": {
+        "beta": 1.4851488925238012,
+        "coefficient": 0.45676485912722564,
+        "intercept_ln": -0.7835865519549348,
+        "n": 2000,
+        "r_squared": 0.9910530197661765,
+        "rmse_log": 0.23494136527511364,
+        "sse_log": 110.39489023466875,
+        "weight_sum": 2000.0000000000002
+      }
+    }
+  },
+  "limitations": [
+    "Archived CSVs lack emitted sequences/structures and do not establish global design optimality.",
+    "Candidate inventories and allocation are not actual split work or whole-process RSS.",
+    "Bootstrap intervals are conditional panel sensitivities; cluster assignments are heuristic and do not establish independent biological families.",
+    "Finite-range curvature and cutoff sensitivity preclude extrapolating a single power-law exponent.",
+    "Host fits use the same 400 proteins and report point fits only."
+  ],
+  "paired_human": {
+    "median_allocation_ratio": 0.6212910277889785,
+    "median_cai_lambda0": 0.726,
+    "median_cai_lambda4": 0.946,
+    "median_candidate_ratio": 0.6091660771318625,
+    "median_mfe_change_per_nt": 0.10866780308900255,
+    "strictly_fewer_candidates_at_lambda4": 2000
+  },
+  "provenance": {
+    "bundle_sha256": "978431af388b74ec17cc15c1338e80aacee8f09bc86662a298b234958307eddf",
+    "checks": [
+      {
+        "codon_table_sha256": "e6c4a49036fe21f3266e7e53130011bd7725c62ebeabbe442f7f8f1cdf5890c4",
+        "objective": "human-lambda0",
+        "rows": 2000,
+        "sha256": "e3182361bd6723de37af0f57bc84cbb46af1f9b3b2be5564be8b4278f4e560d8"
+      },
+      {
+        "codon_table_sha256": "e6c4a49036fe21f3266e7e53130011bd7725c62ebeabbe442f7f8f1cdf5890c4",
+        "objective": "human-lambda4",
+        "rows": 2000,
+        "sha256": "eceac0cafe81dbb52ad3073852a259f198ef2239fdfa7e157c2a0480a462e10f"
+      },
+      {
+        "codon_table_sha256": "14fffb18aadc8931c5645cc7308913b33d195f53b074b5cd4575f77e68ddcc44",
+        "objective": "yeast-lambda4",
+        "rows": 400,
+        "sha256": "508cfead3fd91649bf1c8b6258d7a91712fc9be6cde6f93c27d3dc98f0a284bb"
+      },
+      {
+        "codon_table_sha256": "f19dd94f656158ad86a602f8298d8c624fb89e211e283f323e232fe7f88bc5b2",
+        "objective": "mouse-lambda4",
+        "rows": 400,
+        "sha256": "52f5b57186209736566af293e5d98f525f67e311dd9ec17c970bf6744178efa5"
+      },
+      {
+        "codon_table_sha256": "feb9ba0160a66046cb6ab4b42f9849f8ad4142ba4b4a6b006c4c0a064306b931",
+        "objective": "zebrafish-lambda4",
+        "rows": 400,
+        "sha256": "e9939ee881ce85f2e220f49ffa8dc6108207d688349e1aaaacae70413c5d6d0e"
+      },
+      {
+        "codon_table_sha256": "4c8279e928a48c54d6ab3c7653ee010e22dd744afeeb8fa73b4c014e383a1ed8",
+        "objective": "drosophila-lambda4",
+        "rows": 400,
+        "sha256": "e80fa6c5a32a91adfd2e40407df9113ca9b35f9c425982c0794c4c447258aefd"
+      },
+      {
+        "codon_table_sha256": "e3feb242d8876e7f62f26f52a0fc99fd60aa8ae99a2e4e6e5a76e65b3448c2ce",
+        "objective": "celegans-lambda4",
+        "rows": 400,
+        "sha256": "ec44f2c267861ad24aecdd7fb35c6e24992784491ccdeac5ece16e26380be46a"
+      },
+      {
+        "codon_table_sha256": "412a6e6bd20d5fed54338c2b744f0521715b599b463dafa55b9b93507371aa22",
+        "objective": "arabidopsis-lambda4",
+        "rows": 400,
+        "sha256": "451af52081f263a380c7574707f03bd434b0fdd2f441981898913754d87d4fb4"
+      },
+      {
+        "codon_table_sha256": "7f5b16220c9afdeb6a0499146bd4b45a66fa5cb9bddb7d9e022f0912b6911b41",
+        "objective": "ecoli-o157-edl933-lambda4",
+        "rows": 400,
+        "sha256": "440c3fca8bd192c24550734594e2a559d021496ec89baca027bf9fe15bfbb733"
+      },
+      {
+        "codon_table_sha256": "367c34f5ed8f705293803d8ede69a7c588cc948b6cb95f42be551cbe94471d0c",
+        "objective": "bsubtilis-species-lambda4",
+        "rows": 400,
+        "sha256": "0e07f7fae2665f26967d290e579eff52472702ee0d65efc5913997dc69e3e86b"
+      },
+      {
+        "codon_table_sha256": "c4851e770f98726fb585d1058ae4458694b798ee865a12ba3f4b3352d5014b7b",
+        "objective": "paeruginosa-pao1-lambda4",
+        "rows": 400,
+        "sha256": "8fd6f00ec5cf4441a5d830de5288c8c3988197915dfeaa98112d9e0d722ebcb0"
+      }
+    ],
+    "cluster_provenance": {
+      "binary_sha256": "8ce4939c4114cc0fcfa63e2cf55574b4eaec5cccd0b223cbe3a9a79446a55995",
+      "clustering": "One-step greedy sequence-length clustering (--cluster-mode 2); operational similarity groups, not annotated biological families.",
+      "clusters_tsv_sha256": "e4d8b1492e4deaaa1776f86f20da2381ff380baa4b412d51ed87ae6e734ed694",
+      "command": [
+        "/tmp/sparsedesign-mmseqs/mmseqs/bin/mmseqs",
+        "easy-cluster",
+        "/tmp/sparsedesign-density-cluster-wjgb57pp/panel.fasta",
+        "/tmp/sparsedesign-density-cluster-wjgb57pp/cluster",
+        "/tmp/sparsedesign-density-cluster-wjgb57pp/work",
+        "--min-seq-id",
+        "0.3",
+        "-c",
+        "0.8",
+        "--cov-mode",
+        "0",
+        "--cluster-mode",
+        "2",
+        "--single-step-clustering",
+        "1",
+        "--alignment-mode",
+        "3",
+        "--seq-id-mode",
+        "0",
+        "-e",
+        "0.001",
+        "-s",
+        "7.5",
+        "--max-seqs",
+        "3000",
+        "--threads",
+        "4",
+        "--split-memory-limit",
+        "4G",
+        "--dbtype",
+        "1",
+        "--createdb-mode",
+        "0",
+        "--remove-tmp-files",
+        "1"
+      ],
+      "coverage": "At least 0.8 of both query and target (--cov-mode 0)",
+      "documentation": "https://github.com/soedinglab/MMseqs2/wiki",
+      "identity_definition": "Identical aligned residues divided by alignment length (--alignment-mode 3 --seq-id-mode 0)",
+      "input_fasta_sha256": "c67798bc2f3cc7a52b3cda0ec21501c3712917a15d00456543e83178d1642273",
+      "options": [
+        "--min-seq-id",
+        "0.3",
+        "-c",
+        "0.8",
+        "--cov-mode",
+        "0",
+        "--cluster-mode",
+        "2",
+        "--single-step-clustering",
+        "1",
+        "--alignment-mode",
+        "3",
+        "--seq-id-mode",
+        "0",
+        "-e",
+        "0.001",
+        "-s",
+        "7.5",
+        "--max-seqs",
+        "3000",
+        "--threads",
+        "4",
+        "--split-memory-limit",
+        "4G",
+        "--dbtype",
+        "1",
+        "--createdb-mode",
+        "0",
+        "--remove-tmp-files",
+        "1"
+      ],
+      "returncode": 0,
+      "script_sha256": "75afdfbd152bc1dc5078c8cee786bacaf6b0824b63a4f226ebbf02c4ff6e1ead",
+      "sensitivity_limitations": "Heuristic prefilter sensitivity 7.5; default low-complexity masking and composition-bias correction; E-value <=0.001 also required. Missing homology and order/algorithm effects remain possible.",
+      "source_url": "https://github.com/soedinglab/MMseqs2",
+      "version": "eec9c354be4276d2373996af2e50808b1390d527",
+      "wall_seconds": 16.739289238117635
+    },
+    "plan_sha256": "5a12973b30d30dcb0d5a090ed7a9a3a65b368b2844fdd7ce012ce1bc8b497c03",
+    "solver_sha256": "3772e1e1109711b266c8eabf52eb0dab2c9e60689e1d0f9fd99ceeec9d71f885"
+  },
+  "schema": "publication-density-v1",
+  "scope": "Read-only analysis of archived candidate counts; no new optimization. These are unweighted length-balanced panel descriptions, not Swiss-Prot population estimates or complexity bounds.",
+  "source_script_sha256": "5bfe23790ddcee817e327761b3f9d67e1ecb560df1b6651e6a7006b7fc15994b",
+  "summed_instrumented_task_wall_hours": 149.97970165527738,
+  "total_rows": 7600
+}

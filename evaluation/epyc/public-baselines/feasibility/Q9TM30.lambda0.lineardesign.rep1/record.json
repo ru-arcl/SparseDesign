@@ -1,0 +1,49 @@
+{
+  "aa_length": 82,
+  "accession": "Q9TM30",
+  "command": [
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/baseline-sources/lineardesign/bin/LinearDesign_2D",
+    "0",
+    "1",
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/data/codon_usage_freq_table_human.csv"
+  ],
+  "common_cai": 0.7546272675888132,
+  "common_codon_penalty": 23.085569629790065,
+  "elapsed_observer_seconds": 3.221737176179886,
+  "executable_sha256": "2908a87e5a2ba88b80e2bff31de233c3c8872ca051f0e77b44f4e18a9f656969",
+  "exit_status": 0.0,
+  "host_loadavg_started": "4.58 12.73 15.67 9/7729 2898198",
+  "input_fasta_sha256": "17bb0aa6ad8b72f30ac1d5352fdee25925b46732fb5f130f13edd3412be83aa0",
+  "label": "Q9TM30.lambda0.lineardesign.rep1",
+  "lambda_value": 0.0,
+  "max_rss_kib": 217264.0,
+  "native_mfe": -188.1,
+  "native_mfe_kind": "native reported folding score",
+  "native_temporary_bin_bytes": 0,
+  "raw_file_sha256": {
+    "stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "stdout.txt": "680ba325c4e6bf884a6c6155b233103d6725255ff2f0eec9d709d473f7e5a578",
+    "time.txt": "d0e922a0a0ccef4fd3562573a12d08ba0b04273ba39dc51518c2bef5e48dcf71"
+  },
+  "repetition": 1,
+  "returncode": 0,
+  "rna": "AUGGACCCGAUCAUCAGUGCGGCGUCCGUGAUCGCCGCCGGCCUCGCGGUGGGGCUGGCGGCGAUCGGGCCUGGCAUAGGGCAGGGGAGCGCCGCCGCCAACGCCGUAGAGGGUCUGGCUCGCCAGCCGGAGGCCGAGGGCAAGAUCAGGGGGACCCUGCUCUUGUCCUUGGCCUUCAUGGAGAGCCUGACCAUCUACGGGUUGGUGGUGGCGCUCUCCCUGCUCUUUGCCAACCCCUUCAUCAAG",
+  "source_commit": "f0126ca89a8b853088b4bccfd2cc8c378d3678be",
+  "status": "ok",
+  "structure": "(((((((((..(....)..))).))))))((((((((((((((((.....))))))))))))))))(((..(((((.(((((((((((((((((((((((((.(((((((.((((.(((((.(((...(((((((((((((((((.(((((...))))).))))))))))))))))).))).))))).)))).))))))))))))))))))))))).))))))))).)))))..))).........",
+  "system_seconds": 0.09,
+  "table_sha256": "e6c4a49036fe21f3266e7e53130011bd7725c62ebeabbe442f7f8f1cdf5890c4",
+  "tool": "lineardesign",
+  "translation_valid": true,
+  "unix_started": 1790360201.6044636,
+  "user_seconds": 3.08,
+  "validation_checks": {
+    "canonical_pairs_and_minimum_hairpin": true,
+    "dot_bracket_balanced": true,
+    "rna_length": true,
+    "structure_length": true,
+    "translation": true
+  },
+  "wall_seconds": 3.18,
+  "wrapper_sha256": "94b79eb0ef22681b1364d19e461fa76baec7ae064f45382855f8c0ab84a94f45"
+}

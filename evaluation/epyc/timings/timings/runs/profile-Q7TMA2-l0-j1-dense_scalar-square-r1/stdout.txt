@@ -1,0 +1,1 @@
+mode=dense_scalar lambda=0 threads_requested=1 threads_effective=1 protein_aa=652 rna_nt=1956 lattice_nodes=2283 objective_units=-172030 solve_seconds=120.725262141 profiled=1 construction_seconds=0.17239447699999999 closed_seconds=113.19715048100001 multiloop_seconds=6.5802604359999943 external_seconds=0.22678493099999986 split_visits=1288760022 split_eligible=1288513976

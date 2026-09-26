@@ -1,0 +1,227 @@
+{
+  "schema": "sparsedesign-publication-panel-v2",
+  "selection": "Within each prespecified AA band, minimum and maximum archived human-lambda0 candidate/direct ratios among the listed model-organism taxids; accession breaks ties. Mechanistic diversity panel, not a random population sample. New timing panel selected before final timing collection.",
+  "allowed_taxids": [
+    "10090",
+    "2771",
+    "3702",
+    "44689",
+    "4896",
+    "4932",
+    "559292",
+    "6239",
+    "7227",
+    "9606"
+  ],
+  "bands": [
+    [
+      80,
+      120
+    ],
+    [
+      250,
+      350
+    ],
+    [
+      500,
+      700
+    ],
+    [
+      900,
+      1100
+    ],
+    [
+      1400,
+      1600
+    ],
+    [
+      1800,
+      2000
+    ]
+  ],
+  "panel": [
+    {
+      "accession": "Q54J90",
+      "aa_length": 95,
+      "sequence_sha256": "fbf0172120cb428e9bb0e990053014c9ce07110f382cb0982a4449d610343618",
+      "fasta_path": "inputs/Q54J90.fasta",
+      "fasta_sha256": "e7c5d096a8e4dfefda96d768b926afb5c3bcbbc700fbea3eafb828179b4de1c8",
+      "length_band": [
+        80,
+        120
+      ],
+      "density_extreme": "low",
+      "archived_retention_lambda0": 0.0703675034,
+      "description": "Q54J90 entry=Y7835_DICDI protein=Uncharacterized protein DDB_G0288213 OS=Dictyostelium discoideum (Social amoeba) OX=44689",
+      "organism_id": "44689"
+    },
+    {
+      "accession": "Q9TM30",
+      "aa_length": 82,
+      "sequence_sha256": "0ce8b12276d394f82929c805ff739f6f34bdec547ee51e546c62338a9820f545",
+      "fasta_path": "inputs/Q9TM30.fasta",
+      "fasta_sha256": "17bb0aa6ad8b72f30ac1d5352fdee25925b46732fb5f130f13edd3412be83aa0",
+      "length_band": [
+        80,
+        120
+      ],
+      "density_extreme": "high",
+      "archived_retention_lambda0": 0.136425084,
+      "description": "Q9TM30 entry=ATPH_CYACA protein=ATP synthase subunit c, chloroplastic (ATP synthase F(0) sector subunit c) (ATPase subunit III) (F-type ATPase subunit c) (F-ATPase subunit c) (Lipid-binding protein) OS=Cyanidium caldarium (Red alga) OX=2771",
+      "organism_id": "2771"
+    },
+    {
+      "accession": "Q9SFX6",
+      "aa_length": 310,
+      "sequence_sha256": "c2759e86b77f326b514a89733080137e06af3412a18677a414a14d27632a6de6",
+      "fasta_path": "inputs/Q9SFX6.fasta",
+      "fasta_sha256": "49e5d6b03ecca2721057c485df728c6c1d704327d1d3652688353d94470a622c",
+      "length_band": [
+        250,
+        350
+      ],
+      "density_extreme": "low",
+      "archived_retention_lambda0": 0.0414582526,
+      "description": "Q9SFX6 entry=CAF1C_ARATH protein=Putative CCR4-associated factor 1 homolog 3 (EC 3.1.13.4) OS=Arabidopsis thaliana (Mouse-ear cress) OX=3702",
+      "organism_id": "3702"
+    },
+    {
+      "accession": "P08311",
+      "aa_length": 255,
+      "sequence_sha256": "7ee6096e97c03c5b6c621324556b4737a85b60c6a11bcc10062a06f4e7e21e26",
+      "fasta_path": "inputs/P08311.fasta",
+      "fasta_sha256": "1bddce09569996e47dde4da33bad9b6fbd8e8238bc10cc7403967a8d7c4ee770",
+      "length_band": [
+        250,
+        350
+      ],
+      "density_extreme": "high",
+      "archived_retention_lambda0": 0.0643830579,
+      "description": "P08311 entry=CATG_HUMAN protein=Cathepsin G (CG) (EC 3.4.21.20) [Cleaved into: Cathepsin G, C-terminal truncated form] OS=Homo sapiens (Human) OX=9606",
+      "organism_id": "9606"
+    },
+    {
+      "accession": "A8MTY0",
+      "aa_length": 619,
+      "sequence_sha256": "9df3a8bf80c2b4b21bf50549826b89f14fbe69ce9006a118049df57915e6d54e",
+      "fasta_path": "inputs/A8MTY0.fasta",
+      "fasta_sha256": "3431c6a13be7f9e34d0aa36af34448537ecb0d020816d9bc3e88bb3fe62db2cc",
+      "length_band": [
+        500,
+        700
+      ],
+      "density_extreme": "low",
+      "archived_retention_lambda0": 0.0282829236,
+      "description": "A8MTY0 entry=ZN724_HUMAN protein=Zinc finger protein 724 OS=Homo sapiens (Human) OX=9606",
+      "organism_id": "9606"
+    },
+    {
+      "accession": "Q7TMA2",
+      "aa_length": 652,
+      "sequence_sha256": "2405531a1b048e1cd11d0fd374254e2c6777a4641dfc88446841366bd90c24bf",
+      "fasta_path": "inputs/Q7TMA2.fasta",
+      "fasta_sha256": "39a8bdc2966e9ebf4e01e7779522c15985c830b740bcff8366374b511e02d9b5",
+      "length_band": [
+        500,
+        700
+      ],
+      "density_extreme": "high",
+      "archived_retention_lambda0": 0.051399968,
+      "description": "Q7TMA2 entry=ZN503_MOUSE protein=Zinc finger protein 503 (Zinc finger protein Nolz-1) OS=Mus musculus (Mouse) OX=10090",
+      "organism_id": "10090"
+    },
+    {
+      "accession": "Q54TT4",
+      "aa_length": 925,
+      "sequence_sha256": "14e78d58c73feda8833374b3a08f0418fcda15029625a0c6aac6304db49a1dfd",
+      "fasta_path": "inputs/Q54TT4.fasta",
+      "fasta_sha256": "ed23d8ebc14ec2a5fe0015f178304e8e01773b5a2539ffb6ff1f3ea8e4710cc8",
+      "length_band": [
+        900,
+        1100
+      ],
+      "density_extreme": "low",
+      "archived_retention_lambda0": 0.0214484791,
+      "description": "Q54TT4 entry=COG3_DICDI protein=Conserved oligomeric Golgi complex subunit 3 (COG complex subunit 3) (Component of oligomeric Golgi complex 3) OS=Dictyostelium discoideum (Social amoeba) OX=44689",
+      "organism_id": "44689"
+    },
+    {
+      "accession": "Q9ERV7",
+      "aa_length": 915,
+      "sequence_sha256": "7094e0265585d989f059a6766a7fd5add2bd953e208cde99984f20ce664bbd92",
+      "fasta_path": "inputs/Q9ERV7.fasta",
+      "fasta_sha256": "22f08a08b6a129ebbb56dcb5ab098e067659dbfd668976549f15c9fde2044424",
+      "length_band": [
+        900,
+        1100
+      ],
+      "density_extreme": "high",
+      "archived_retention_lambda0": 0.0357979892,
+      "description": "Q9ERV7 entry=PIDD1_MOUSE protein=p53-induced death domain-containing protein 1 (EC 3.4.21.-) (Leucine-rich repeat and death domain-containing protein) [Cleaved into: PIDD-N; PIDD-C; PIDD-CC] OS=Mus musculus (Mouse) OX=10090",
+      "organism_id": "10090"
+    },
+    {
+      "accession": "P19524",
+      "aa_length": 1574,
+      "sequence_sha256": "5b1c02cfff7e1295665e4d95b0a1d9c9c81de0347b9e6c6b9ca61fe860b496b0",
+      "fasta_path": "inputs/P19524.fasta",
+      "fasta_sha256": "c6db892a990e6a24d899be7441e57e82abff6e852c673958c2d994973aa8e01f",
+      "length_band": [
+        1400,
+        1600
+      ],
+      "density_extreme": "low",
+      "archived_retention_lambda0": 0.0204432531,
+      "description": "P19524 entry=MYO2_YEAST protein=Myosin-2 (Cell division control protein 66) (Class V unconventional myosin MYO2) (Type V myosin heavy chain MYO2) (Myosin V MYO2) OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast) OX=559292",
+      "organism_id": "559292"
+    },
+    {
+      "accession": "E9Q3G8",
+      "aa_length": 1462,
+      "sequence_sha256": "15bd185bd50a8ce7c06c2f3fc56b896668bbcccb39b67e303c989023b4b2485e",
+      "fasta_path": "inputs/E9Q3G8.fasta",
+      "fasta_sha256": "d27d21d808e61df4e0d3b3b11616e7f4216829d8dbe1ed604fb496f0399ed675",
+      "length_band": [
+        1400,
+        1600
+      ],
+      "density_extreme": "high",
+      "archived_retention_lambda0": 0.0305839488,
+      "description": "E9Q3G8 entry=NU153_MOUSE protein=Nuclear pore complex protein Nup153 (153 kDa nucleoporin) (Nucleoporin Nup153) OS=Mus musculus (Mouse) OX=10090",
+      "organism_id": "10090"
+    },
+    {
+      "accession": "Q61879",
+      "aa_length": 1976,
+      "sequence_sha256": "24c74db470060a521d53ec6a0041f885c4f144e210ef16a9662d2a7e98ed3449",
+      "fasta_path": "inputs/Q61879.fasta",
+      "fasta_sha256": "63382cbca8cd2ed6a0c9669148762a96aff478ee5977f7e0604f0dd9b504d7a4",
+      "length_band": [
+        1800,
+        2000
+      ],
+      "density_extreme": "low",
+      "archived_retention_lambda0": 0.0192028443,
+      "description": "Q61879 entry=MYH10_MOUSE protein=Myosin-10 (Cellular myosin heavy chain, type B) (Myosin heavy chain 10) (Myosin heavy chain, non-muscle IIb) (Non-muscle myosin heavy chain B) (NMMHC-B) (Non-muscle myosin heavy chain IIb) (NMMHC II-b) (NMMHC-IIB) OS=Mus musculus (Mouse) OX=10090",
+      "organism_id": "10090"
+    },
+    {
+      "accession": "Q8VIM6",
+      "aa_length": 1809,
+      "sequence_sha256": "338144e6e5b669d9fa87b20275de445d9bc9d4f4cd31e41b1b5cc36b9a6f4323",
+      "fasta_path": "inputs/Q8VIM6.fasta",
+      "fasta_sha256": "761e03290b9d5d991ec2a06b1c52ca09160f644fa4a8c4d4a26b832cff618db6",
+      "length_band": [
+        1800,
+        2000
+      ],
+      "density_extreme": "high",
+      "archived_retention_lambda0": 0.0293426729,
+      "description": "Q8VIM6 entry=STRC_MOUSE protein=Stereocilin OS=Mus musculus (Mouse) OX=10090",
+      "organism_id": "10090"
+    }
+  ],
+  "source_csv_sha256": "e3182361bd6723de37af0f57bc84cbb46af1f9b3b2be5564be8b4278f4e560d8",
+  "source_metadata_sha256": "f65051eb2a8d3e87d502cdcd6b45284773629743d63b284f802c50c8be36736d",
+  "preflight_note": "Supersedes the unrun broad-taxonomy planning panel of September 6. September 6 short wrapper pilots are development evidence only, excluded from final timing estimates."
+}

@@ -1,0 +1,2 @@
+# Preserve the bytes identified by the source and experimental manifests on every OS.
+* -text

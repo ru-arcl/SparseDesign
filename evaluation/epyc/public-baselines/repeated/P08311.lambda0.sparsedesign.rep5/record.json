@@ -1,0 +1,53 @@
+{
+  "aa_length": 255,
+  "accession": "P08311",
+  "command": [
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/bin/sparsedesign-square",
+    "-l",
+    "0",
+    "-c",
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/data/codon_usage_freq_table_human.csv",
+    "-j",
+    "1",
+    "--diagnostics"
+  ],
+  "common_cai": 0.7064044506409003,
+  "common_codon_penalty": 88.62966896077954,
+  "elapsed_observer_seconds": 12.89985579624772,
+  "executable_sha256": "4a6dd03966c716fda9d46a58fc058716160a5bd85209c1e18c664d28aa76c729",
+  "exit_status": 0.0,
+  "host_loadavg_started": "10.76 10.26 12.49 9/7783 2921469",
+  "input_fasta_sha256": "1bddce09569996e47dde4da33bad9b6fbd8e8238bc10cc7403967a8d7c4ee770",
+  "label": "P08311.lambda0.sparsedesign.rep5",
+  "lambda_value": 0.0,
+  "max_rss_kib": 117352.0,
+  "native_mfe": -576.9,
+  "native_mfe_kind": "native reported folding score",
+  "native_temporary_bin_bytes": 0,
+  "raw_file_sha256": {
+    "stderr.txt": "c1d36a455e595bc2cf0c3341e0c64ddd314b571e0a10a8a5bed9f4098f1ed109",
+    "stdout.txt": "f898029ea4a2d5c1ca627bf60947ba9baeab6de94f85c70f4285ec95b6d4dce7",
+    "time.txt": "18e7bd7e1dcdcdf8e88717eccce5ba1e148d287c9a8f3f276a3d7ab5fc4b05b5"
+  },
+  "repetition": 5,
+  "returncode": 0,
+  "rna": "AUGCAGCCCCUGUUGCUCUUGCUGGCCUUUCUGCUCCCCACGGGAGCAGAGGCCGGCGAGAUCAUCGGGGGCCGCGAGUCCCGCCCCCACUCCCGACCGUACAUGGCGUACCUGCAAAUACAGAGUCCCGCGGGCCAGAGCCGCUGCGGCGGCUUUCUGGUCCGCGAGGACUUUGUGCUCACGGCGGCUCACUGCUGGGGGAGCAACAUUAAUGUCACUCUGGGUGCGCACAAUAUACAGCGGAGGGAGAAUACCCAGCAGCAUAUAACUGCUCGCCGGGCUAUUCGCCAUCCGCAGUAUAACCAGCGCACCAUACAGAAUGACAUUAUGCUCCUCCAGCUGAGCCGCCGUGUGCGGCGCAACCGGAACGUAAAUCCGGUUGCGCUGCCGCGGGCCCAAGAGGGCCUGCGGCCAGGUACGCUAUGUACGGUCGCGGGGUGGGGGCGGGUCUCGAUGCGCCGUGGGACCGAUACCUUGCGCGAGGUUCAGUUGCGCGUGCAGCGGGACCGCCAGUGUCUCCGCAUCUUCGGCUCCUACGAUCCCCGACGCCAAAUAUGCGUCGGGGAUCGUAGGGAGCGGAAGGCUGCAUUCAAAGGAGACAGUGGCGGCCCGCUGCUGUGCAACAACGUCGCGCAUGGUAUCGUGUCCUACGGCAAGUCGAGCGGGGUCCCUCCAGAAGUUUUUACGAGGGUAUCGUCGUUCUUACCAUGGAUAAGAACGACGAUGCGCUCGUUUAAACUUCUGGACCAAAUGGAGACCCCGCUC",
+  "source_commit": null,
+  "status": "ok",
+  "structure": "..((.(((((((.((.(((((((((((..(((((((((...)))))))))))))))))))).)).))))))).))(((.(((((((((((((((((((((((((((((((((((.....(((((((((((((((((((((((((....)))))..))))))))))).)))))))))((.((((((((((((..((((((((((((....((((((((.(((((((((((....(((((.(((((.((.((((((((.((((((......)))).)).))).))))).)).))))).)))))....)))))))...)))).)))))))))))))))))))))))))))))))).))((((((((((((.......))))))))))))(((((((((((....)))))))))))))))))))))))))))))))).)))))))))))))).)))(((..(((((((((((((((((.(((((((.(((..((((((((.((((((((.((((((.(((((((((((((((.((((((((((((((((((((.......))))))))))))))))).))).))))).))).......))))))).))))))))))))))))))))))))).))))))).))))))).))))))))))..)))(((((((((((((((((((((((..(((((.(((((((((((((((.......))))))))))))))).)))))..)))))))))))......)).))))))))))",
+  "system_seconds": 0.09,
+  "table_sha256": "e6c4a49036fe21f3266e7e53130011bd7725c62ebeabbe442f7f8f1cdf5890c4",
+  "tool": "sparsedesign",
+  "translation_valid": true,
+  "unix_started": 1790360926.5310528,
+  "user_seconds": 12.57,
+  "validation_checks": {
+    "canonical_pairs_and_minimum_hairpin": true,
+    "dot_bracket_balanced": true,
+    "rna_length": true,
+    "structure_length": true,
+    "translation": true
+  },
+  "wall_seconds": 12.83,
+  "wrapper_sha256": "94b79eb0ef22681b1364d19e461fa76baec7ae064f45382855f8c0ab84a94f45"
+}

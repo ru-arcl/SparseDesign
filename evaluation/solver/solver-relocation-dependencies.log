@@ -1,0 +1,3 @@
+relocated frontend defaults resolve entirely within standalone tree: PASS
+standalone inverse-lambda end-to-end: PASS (3 cases; prior relocated execution)
+changed parameter header schedules executable rebuild: PASS

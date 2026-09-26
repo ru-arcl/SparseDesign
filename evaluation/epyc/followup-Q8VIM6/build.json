@@ -1,0 +1,107 @@
+{
+  "commands": [
+    [
+      "g++",
+      "-std=c++11",
+      "-O3",
+      "-flto",
+      "-Wall",
+      "-fopenmp",
+      "-DLDCLEAN_SQUARE_MEMOS",
+      "-I",
+      "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/src",
+      "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/publication_bench.cc",
+      "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/src/fold_turner.cc",
+      "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/src/energy.cc",
+      "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/src/dfa.cc",
+      "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/src/codon_table.cc",
+      "-o",
+      "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/bin/publication-bench"
+    ],
+    [
+      "g++",
+      "-std=c++11",
+      "-O3",
+      "-flto",
+      "-Wall",
+      "-fopenmp",
+      "-DLDCLEAN_SQUARE_MEMOS",
+      "-I",
+      "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/src",
+      "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/src/main.cc",
+      "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/src/fold_turner.cc",
+      "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/src/energy.cc",
+      "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/src/dfa.cc",
+      "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/src/codon_table.cc",
+      "-o",
+      "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/bin/sparsedesign-square"
+    ],
+    [
+      "g++",
+      "-std=c++11",
+      "-O3",
+      "-flto",
+      "-Wall",
+      "-fopenmp",
+      "-I",
+      "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/src",
+      "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/src/main.cc",
+      "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/src/fold_turner.cc",
+      "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/src/energy.cc",
+      "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/src/dfa.cc",
+      "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/src/codon_table.cc",
+      "-o",
+      "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/bin/sparsedesign-packed"
+    ]
+  ],
+  "source_sha256": {
+    "publication_campaign_final.py": "cd01a38e88d848f456dc9296b7102e0265240fe2eddb43fc5dfdd3f728231b18",
+    "publication_campaign.py": "8bac37e9e5acc59db755b98b148b12be2b0b16bdfd4a833503e17bf33d4297f3",
+    "publication_bench.cc": "5a0e6390645a741de18df26c03d27e30839ab5ea6792e4824fdaef5faf07b3ca",
+    "run_publication_study.py": "cfa542d14e1187bea9de1c935d6ec3134a0eeb7eca7e3707c454739d6a8c5ce3",
+    "src/energy.cc": "b3b873789af2f2b42f41978a5d6aca5015596b787f1548f48d728c6d46d35793",
+    "src/fold_simple.h": "7d57fe31f03ff62e968560be1ecebdef7bbb1dd9c4855b04006980aa5016f183",
+    "src/dfa.cc": "5c9cf51c5bde337431e7cd1877ff14bfcae3d72a7eb1f0ad8e3dd8235291876b",
+    "src/energy.h": "fc4780fc0a6aba4416b17a0c4a1b700863d894868763694bc0ba053fcfba8fbb",
+    "src/fold_turner.cc": "19eeecb55cb29bd47173dc14da868f0b534bd10e025313f15131f4985a31cd86",
+    "src/codon_table.cc": "c789d7d0a686cfc9a7769ce74ed7527f558b6ba372df6e97d8ada2985dd680c1",
+    "src/dfa.h": "82633367764bd7d785bef3482c3d06ba39170b2667918be917599776b2a6f2cf",
+    "src/fold_turner.h": "7a62c3c69015adfa3f162ef0ab14d5c5658aa063fa2db361728641cf5fdd29d1",
+    "src/codon_table.h": "67151333ca26eea8b33f61aa62e2d3afe1971b9ab58619faf3259394b086f7c4",
+    "src/fold_simple.cc": "a9443f7c7b13fe67ec354a2432b9afa607a97ccdf586056df0663b5206147184",
+    "src/main.cc": "703930f7f69d74655d1080459d44e0b127e077cf684033515a14528b972ae8df",
+    "src/vienna/energy_parameter.h": "683320cdf6b722db4768bf104ce31e4b86881b94477df5829d0e44806b129ff0",
+    "src/vienna/intl22.h": "84391186f9ac8d95cb9a7f845263fd32fb1562f31d0b60f628a071ecdaa09310",
+    "src/vienna/intl21.h": "1541c220cb712a4f9a56150db5a640e6c383a6795e602fc32cc8ce97c18e763a",
+    "src/vienna/intl11.h": "cd4f90e995096066834bf742f930cc5c512be69f2346c03bd9966e0b7e296e9b",
+    "data/codon_usage_freq_table_human.csv": "e6c4a49036fe21f3266e7e53130011bd7725c62ebeabbe442f7f8f1cdf5890c4",
+    "data/codon_usage_freq_table_yeast.csv": "14fffb18aadc8931c5645cc7308913b33d195f53b074b5cd4575f77e68ddcc44"
+  },
+  "binary_sha256": {
+    "sparsedesign-packed": "764cf57785617105b1ece84d69ffcfc5112c2a7c4b411c80e0c1cea26e5d218d",
+    "publication-bench": "9f059f1599032d496a4250919a6ce973f07da34c3353e1197c721ecec32ed1ab",
+    "sparsedesign-square": "4a6dd03966c716fda9d46a58fc058716160a5bd85209c1e18c664d28aa76c729"
+  },
+  "compiler": "g++ (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0\nCopyright (C) 2021 Free Software Foundation, Inc.\nThis is free software; see the source for copying conditions.  There is NO\nwarranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n\n",
+  "uname": {
+    "system": "Linux",
+    "node": "arrakis.cs.rutgers.edu",
+    "release": "5.15.0-173-generic",
+    "version": "#183-Ubuntu SMP Fri Mar 6 13:29:34 UTC 2026",
+    "machine": "x86_64",
+    "processor": "x86_64"
+  },
+  "lscpu": "Architecture:                            x86_64\nCPU op-mode(s):                          32-bit, 64-bit\nAddress sizes:                           48 bits physical, 48 bits virtual\nByte Order:                              Little Endian\nCPU(s):                                  32\nOn-line CPU(s) list:                     0-31\nVendor ID:                               AuthenticAMD\nModel name:                              AMD EPYC 7313 16-Core Processor\nCPU family:                              25\nModel:                                   1\nThread(s) per core:                      1\nCore(s) per socket:                      16\nSocket(s):                               2\nStepping:                                1\nFrequency boost:                         enabled\nCPU max MHz:                             3730.7351\nCPU min MHz:                             1500.0000\nBogoMIPS:                                6000.06\nFlags:                                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf rapl pni pclmulqdq monitor ssse3 fma cx16 pcid sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 invpcid_single hw_pstate ssbd mba ibrs ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 invpcid cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr rdpru wbnoinvd amd_ppin arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold v_vmsave_vmload vgif v_spec_ctrl umip pku ospke vaes vpclmulqdq rdpid overflow_recov succor smca ibpb_exit_to_user\nVirtualization:                          AMD-V\nL1d cache:                               1 MiB (32 instances)\nL1i cache:                               1 MiB (32 instances)\nL2 cache:                                16 MiB (32 instances)\nL3 cache:                                256 MiB (8 instances)\nNUMA node(s):                            2\nNUMA node0 CPU(s):                       0-15\nNUMA node1 CPU(s):                       16-31\nVulnerability Gather data sampling:      Not affected\nVulnerability Indirect target selection: Not affected\nVulnerability Itlb multihit:             Not affected\nVulnerability L1tf:                      Not affected\nVulnerability Mds:                       Not affected\nVulnerability Meltdown:                  Not affected\nVulnerability Mmio stale data:           Not affected\nVulnerability Reg file data sampling:    Not affected\nVulnerability Retbleed:                  Not affected\nVulnerability Spec rstack overflow:      Mitigation; safe RET\nVulnerability Spec store bypass:         Mitigation; Speculative Store Bypass disabled via prctl and seccomp\nVulnerability Spectre v1:                Mitigation; usercopy/swapgs barriers and __user pointer sanitization\nVulnerability Spectre v2:                Mitigation; Retpolines; IBPB conditional; IBRS_FW; STIBP disabled; RSB filling; PBRSB-eIBRS Not affected; BHI Not affected\nVulnerability Srbds:                     Not affected\nVulnerability Tsa:                       Vulnerable: Clear CPU buffers attempted, no microcode\nVulnerability Tsx async abort:           Not affected\nVulnerability Vmscape:                   Mitigation; IBPB before exit to userspace\n",
+  "meminfo": "MemTotal:       1056502252 kB\nMemFree:        72893568 kB\nMemAvailable:   835512212 kB\nBuffers:         1123672 kB\nCached:         811438616 kB\nSwapCached:        37896 kB\nActive:         510098536 kB\nInactive:       327642380 kB\nActive(anon):   111832744 kB\nInactive(anon): 86282196 kB\nActive(file):   398265792 kB\nInactive(file): 241360184 kB\nUnevictable:       28408 kB\nMlocked:           28408 kB\nSwapTotal:      33554428 kB\nSwapFree:       33261820 kB\nDirty:               100 kB\nWriteback:           312 kB\nAnonPages:      25189692 kB\nMapped:          3260116 kB\nShmem:          172929696 kB\nKReclaimable:   129316376 kB\nSlab:           142094620 kB\nSReclaimable:   129316376 kB\nSUnreclaim:     12778244 kB\nKernelStack:      115120 kB\nPageTables:       259792 kB\nNFS_Unstable:          0 kB\nBounce:                0 kB\nWritebackTmp:          0 kB\nCommitLimit:    561805552 kB\nCommitted_AS:   255837360 kB\nVmallocTotal:   34359738367 kB\nVmallocUsed:      855080 kB\nVmallocChunk:          0 kB\nPercpu:           241408 kB\nHardwareCorrupted:     0 kB\nAnonHugePages:         0 kB\nShmemHugePages:        0 kB\nShmemPmdMapped:        0 kB\nFileHugePages:         0 kB\nFilePmdMapped:         0 kB\nHugePages_Total:       0\nHugePages_Free:        0\nHugePages_Rsvd:        0\nHugePages_Surp:        0\nHugepagesize:       2048 kB\nHugetlb:               0 kB\nDirectMap4k:    252809588 kB\nDirectMap2M:    622612480 kB\nDirectMap1G:    198180864 kB\n",
+  "execution_wrappers": {
+    "pilot": "source/publication_campaign_final.py",
+    "final_timings": "source/publication_campaign_final.py"
+  },
+  "reproduction": {
+    "template_protocol_sha256": "82cabb4ce151ba7f29b23257c75218f3f37676fedc75923a2c883af79f801744",
+    "template_build_sha256": "60a72b1ac69cb0ac45a0e6e8d83d9b2ed5a03aee8f8b985e6bbefb5757ad86c6",
+    "created_utc": "2026-09-24T03:07:26.830113+00:00",
+    "builder_sha256": "8db92338842b23d16961425eb3eedfc6f874358695e19b7371296f71a0302c1d"
+  },
+  "epyc_node1_adaptation": "see epyc-node1-adaptation.json"
+}

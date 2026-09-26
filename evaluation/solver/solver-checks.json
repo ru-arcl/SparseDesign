@@ -1,0 +1,89 @@
+{
+  "schema": "sparsedesign-solver-verification-v1",
+  "date": "2026-09-07",
+  "base_commit": "b41b34a0cd93aaf7a0590f5fc2d960378b73f587",
+  "source_state": "modified source; identify exact release with publication/code/SOURCE_SHA256SUMS",
+  "primary_compiler": "GCC 14.3.0",
+  "second_compiler_version": "GCC 15.2.0",
+  "production_cell_cases": 72,
+  "production_intervals_per_layout": 181344,
+  "checks": [
+    {
+      "name": "normal",
+      "command": "make test",
+      "status": "PASS",
+      "exit_code": 0,
+      "log": "solver-normal-tests.log"
+    },
+    {
+      "name": "layouts",
+      "command": "make test-layouts",
+      "status": "PASS",
+      "exit_code": 0,
+      "log": "solver-test-layouts.log"
+    },
+    {
+      "name": "asan-square",
+      "command": "make test-asan",
+      "status": "PASS",
+      "exit_code": 0,
+      "log": "solver-test-asan.log"
+    },
+    {
+      "name": "asan-packed",
+      "command": "make test-lowmem-asan",
+      "status": "PASS",
+      "exit_code": 0,
+      "log": "solver-test-lowmem-asan.log"
+    },
+    {
+      "name": "ubsan-square",
+      "command": "make test-ubsan",
+      "status": "PASS",
+      "exit_code": 0,
+      "log": "solver-test-ubsan.log"
+    },
+    {
+      "name": "ubsan-packed",
+      "command": "make test-lowmem-ubsan",
+      "status": "PASS",
+      "exit_code": 0,
+      "log": "solver-test-lowmem-ubsan.log"
+    },
+    {
+      "name": "gcc15",
+      "command": "GCC15.2 fresh right-normal-cell/CLI builds; CLI and inverse-lambda checks",
+      "status": "PASS",
+      "exit_code": 0,
+      "log": "solver-gcc15.log"
+    },
+    {
+      "name": "parameters",
+      "command": "generator --check plus numeric-header and source-digest negative controls",
+      "status": "PASS",
+      "exit_code": 0,
+      "log": "solver-parameter-verification.log"
+    },
+    {
+      "name": "relocation",
+      "command": "isolated standalone frontend, inverse-lambda and make dependency check",
+      "status": "PASS",
+      "exit_code": 0,
+      "log": "solver-relocation-dependencies.log"
+    },
+    {
+      "name": "publication-smoke",
+      "command": "fresh publication/code build, test_cli.sh, test_infer_lambda.py, generator --check",
+      "status": "PASS",
+      "exit_code": 0,
+      "log": "solver-publication-smoke.log"
+    },
+    {
+      "name": "source-manifest",
+      "command": "sha256sum -c SOURCE_SHA256SUMS",
+      "status": "PASS",
+      "exit_code": 0,
+      "log": "solver-source-checksums.log"
+    }
+  ]
+}

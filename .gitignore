@@ -1,0 +1,9 @@
+sparsedesign
+sparsedesign-lowmem-packed
+lineardesign-clean
+lineardesign-clean-lowmem-packed
+*.o
+
+__pycache__/
+*.py[cod]
+.venv*/

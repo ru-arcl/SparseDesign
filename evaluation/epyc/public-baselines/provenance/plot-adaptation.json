@@ -1,0 +1,5 @@
+{
+  "adapted_plotter_sha256": "e8a8ac97ab34120158b25ef309b4c680453ab1d57dbf28d6086705a84a8f76b9",
+  "change": "Derive caption timeout from --timeout; EPYC plot and timeout glyphs use 240 seconds.",
+  "original_plotter_sha256": "080927e228b54a4b3d974e54929b2615c01bca87420854c2ffcbdc7027b32a15"
+}

@@ -1,0 +1,49 @@
+{
+  "aa_length": 255,
+  "accession": "P08311",
+  "command": [
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/baseline-sources/lineardesign/bin/LinearDesign_2D",
+    "4",
+    "1",
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/data/codon_usage_freq_table_human.csv"
+  ],
+  "common_cai": 0.9536588847287207,
+  "common_codon_penalty": 12.099554836323112,
+  "elapsed_observer_seconds": 28.981646655127406,
+  "executable_sha256": "2908a87e5a2ba88b80e2bff31de233c3c8872ca051f0e77b44f4e18a9f656969",
+  "exit_status": 0.0,
+  "host_loadavg_started": "10.10 9.73 11.34 11/7787 2936829",
+  "input_fasta_sha256": "1bddce09569996e47dde4da33bad9b6fbd8e8238bc10cc7403967a8d7c4ee770",
+  "label": "P08311.lambda4.lineardesign.rep5",
+  "lambda_value": 4.0,
+  "max_rss_kib": 2021660.0,
+  "native_mfe": -491.2,
+  "native_mfe_kind": "native reported folding score",
+  "native_temporary_bin_bytes": 0,
+  "raw_file_sha256": {
+    "stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "stdout.txt": "02deb20c0613e9786bb7948dd6567e804963e7d9fb53d273f74b20a9ce9f55a1",
+    "time.txt": "9703c982e4ca6b7a23a2a0e0df732460eac406f5de06d8a76289bc39156869f0"
+  },
+  "repetition": 5,
+  "returncode": 0,
+  "rna": "AUGCAGCCACUGCUGCUCCUGCUGGCCUUCCUGCUGCCCACCGGGGCCGAGGCCGGCGAGAUCAUCGGGGGCCGGGAGUCCCGGCCCCACAGCCGGCCUUACAUGGCCUACCUGCAGAUCCAGUCCCCAGCCGGCCAGAGCCGGUGCGGAGGGUUCCUGGUGCGCGAGGACUUCGUGCUGACCGCCGCCCACUGUUGGGGCUCCAACAUCAACGUGACCCUGGGAGCCCACAACAUCCAGCGGCGGGAGAACACUCAGCAGCACAUUACCGCCCGCCGCGCCAUCCGGCACCCUCAGUACAACCAGCGGACUAUCCAGAACGAUAUCAUGCUGCUGCAGCUGAGCCGGAGGGUGCGGCGGAACCGGAAUGUGAAUCCUGUGGCCCUGCCAAGGGCCCAGGAGGGCCUGCGCCCAGGAACCCUCUGCACCGUGGCCGGCUGGGGACGGGUGAGCAUGCGCAGGGGCACCGACACCCUGCGCGAGGUGCAGCUGAGGGUCCAGCGGGACCGGCAGUGCCUGCGGAUCUUCGGGUCCUAUGACCCCCGGCGGCAGAUCUGCGUGGGGGACCGGCGGGAGCGGAAGGCUGCUUUCAAGGGGGACAGCGGGGGGCCCCUGCUGUGCAACAACGUGGCUCACGGCAUCGUGAGCUACGGCAAGAGCAGCGGGGUGCCCCCCGAGGUGUUCACCCGGGUGAGCAGCUUUCUGCCCUGGAUCCGGACCACCAUGCGGAGCUUCAAGCUGCUGGACCAGAUGGAGACCCCCCUG",
+  "source_commit": "f0126ca89a8b853088b4bccfd2cc8c378d3678be",
+  "status": "ok",
+  "structure": ".(((((.((((((((.((((((((((((((..(((((((....((((((((((((((..........(((((((((...)))))))))...)))))))))....)))))...(((..((((.(((((((((((((((....(((((((((((((((((((.((((.(((.(((..(((((((((((((....((((((((((((..................))))))).)))))....)))))))........)))))).((((((.(((.((((((((((.((((((....(((((.....(((((((.((((......)))))).))))).....))))))))))).))))))))))...)))))))))..(((((.((((((....)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))..)))(((((((((.........))))))))).)).))))).))))).))))))))).)))))))).))))).......(((((((((.....((((((((((.(((((((((.((.((((((((.((((((((((((((.(..((((((((.(((((((((((((((((.......(((((((((((....)))))))))))......))))))))).))))))))...))))).)))..).))))))))))))))))))...)))).)).))))))))).))....)))))))).....)))).))))).....",
+  "system_seconds": 1.02,
+  "table_sha256": "e6c4a49036fe21f3266e7e53130011bd7725c62ebeabbe442f7f8f1cdf5890c4",
+  "tool": "lineardesign",
+  "translation_valid": true,
+  "unix_started": 1790361375.9232266,
+  "user_seconds": 27.93,
+  "validation_checks": {
+    "canonical_pairs_and_minimum_hairpin": true,
+    "dot_bracket_balanced": true,
+    "rna_length": true,
+    "structure_length": true,
+    "translation": true
+  },
+  "wall_seconds": 28.96,
+  "wrapper_sha256": "94b79eb0ef22681b1364d19e461fa76baec7ae064f45382855f8c0ab84a94f45"
+}

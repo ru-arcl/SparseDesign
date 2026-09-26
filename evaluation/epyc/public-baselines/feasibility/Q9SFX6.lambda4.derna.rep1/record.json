@@ -1,0 +1,13 @@
+{
+  "aa_length": 310,
+  "accession": "Q9SFX6",
+  "label": "Q9SFX6.lambda4.derna.rep1",
+  "lambda_value": 4.0,
+  "raw_file_sha256": {},
+  "repetition": 1,
+  "status": "not_attempted_after_cap",
+  "table_sha256": "e6c4a49036fe21f3266e7e53130011bd7725c62ebeabbe442f7f8f1cdf5890c4",
+  "tool": "derna",
+  "trigger": "P08311.lambda4.derna.rep1",
+  "wrapper_sha256": "94b79eb0ef22681b1364d19e461fa76baec7ae064f45382855f8c0ab84a94f45"
+}

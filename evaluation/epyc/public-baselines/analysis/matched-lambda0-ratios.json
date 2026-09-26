@@ -1,0 +1,42 @@
+{
+  "interpretation": "Ratio of medians for common successful lambda0 cases with matching thermodynamic parameters and independently matching returned energies; complete native CLI boundary, conditional on completing both tools.",
+  "model_audit_sha256": "c22454d6c2587df9a44799db8625f60cc52afde183e38b0e1b46003be0577e0c",
+  "rows": [
+    {
+      "aa_length": 95,
+      "accession": "Q54J90",
+      "common_energy_kcal": -114.30000305175781,
+      "derna_median_seconds": 3.3,
+      "derna_over_sparsedesign": 4.714285714285714,
+      "repetitions_each": 5,
+      "sparsedesign_median_seconds": 0.7
+    },
+    {
+      "aa_length": 82,
+      "accession": "Q9TM30",
+      "common_energy_kcal": -188.10000610351562,
+      "derna_median_seconds": 6.35,
+      "derna_over_sparsedesign": 5.08,
+      "repetitions_each": 5,
+      "sparsedesign_median_seconds": 1.25
+    },
+    {
+      "aa_length": 310,
+      "accession": "Q9SFX6",
+      "common_energy_kcal": -583.7999877929688,
+      "derna_median_seconds": 70.04,
+      "derna_over_sparsedesign": 6.04314063848145,
+      "repetitions_each": 5,
+      "sparsedesign_median_seconds": 11.59
+    },
+    {
+      "aa_length": 255,
+      "accession": "P08311",
+      "common_energy_kcal": -576.9000244140625,
+      "derna_median_seconds": 69.92,
+      "derna_over_sparsedesign": 5.514195583596215,
+      "repetitions_each": 5,
+      "sparsedesign_median_seconds": 12.68
+    }
+  ]
+}

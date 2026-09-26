@@ -1,0 +1,101 @@
+{
+  "commands": [
+    [
+      "g++",
+      "-std=c++11",
+      "-O3",
+      "-flto",
+      "-Wall",
+      "-fopenmp",
+      "-DLDCLEAN_SQUARE_MEMOS",
+      "-I",
+      "/home/jingjin/dev/rna-design/lineardesign-clean/src",
+      "/home/jingjin/dev/rna-design/research/publication_bench.cc",
+      "/home/jingjin/dev/rna-design/lineardesign-clean/src/fold_turner.cc",
+      "/home/jingjin/dev/rna-design/lineardesign-clean/src/energy.cc",
+      "/home/jingjin/dev/rna-design/lineardesign-clean/src/dfa.cc",
+      "/home/jingjin/dev/rna-design/lineardesign-clean/src/codon_table.cc",
+      "-o",
+      "/home/jingjin/dev/rna-design/research/results/publication-2026-09-08/bin/publication-bench"
+    ],
+    [
+      "g++",
+      "-std=c++11",
+      "-O3",
+      "-flto",
+      "-Wall",
+      "-fopenmp",
+      "-DLDCLEAN_SQUARE_MEMOS",
+      "-I",
+      "/home/jingjin/dev/rna-design/lineardesign-clean/src",
+      "/home/jingjin/dev/rna-design/lineardesign-clean/src/main.cc",
+      "/home/jingjin/dev/rna-design/lineardesign-clean/src/fold_turner.cc",
+      "/home/jingjin/dev/rna-design/lineardesign-clean/src/energy.cc",
+      "/home/jingjin/dev/rna-design/lineardesign-clean/src/dfa.cc",
+      "/home/jingjin/dev/rna-design/lineardesign-clean/src/codon_table.cc",
+      "-o",
+      "/home/jingjin/dev/rna-design/research/results/publication-2026-09-08/bin/sparsedesign-square"
+    ],
+    [
+      "g++",
+      "-std=c++11",
+      "-O3",
+      "-flto",
+      "-Wall",
+      "-fopenmp",
+      "-I",
+      "/home/jingjin/dev/rna-design/lineardesign-clean/src",
+      "/home/jingjin/dev/rna-design/lineardesign-clean/src/main.cc",
+      "/home/jingjin/dev/rna-design/lineardesign-clean/src/fold_turner.cc",
+      "/home/jingjin/dev/rna-design/lineardesign-clean/src/energy.cc",
+      "/home/jingjin/dev/rna-design/lineardesign-clean/src/dfa.cc",
+      "/home/jingjin/dev/rna-design/lineardesign-clean/src/codon_table.cc",
+      "-o",
+      "/home/jingjin/dev/rna-design/research/results/publication-2026-09-08/bin/sparsedesign-packed"
+    ]
+  ],
+  "source_sha256": {
+    "publication_campaign.py": "8bac37e9e5acc59db755b98b148b12be2b0b16bdfd4a833503e17bf33d4297f3",
+    "publication_bench.cc": "5a0e6390645a741de18df26c03d27e30839ab5ea6792e4824fdaef5faf07b3ca",
+    "src/codon_table.h": "67151333ca26eea8b33f61aa62e2d3afe1971b9ab58619faf3259394b086f7c4",
+    "src/fold_turner.cc": "19eeecb55cb29bd47173dc14da868f0b534bd10e025313f15131f4985a31cd86",
+    "src/energy.h": "fc4780fc0a6aba4416b17a0c4a1b700863d894868763694bc0ba053fcfba8fbb",
+    "src/energy.cc": "b3b873789af2f2b42f41978a5d6aca5015596b787f1548f48d728c6d46d35793",
+    "src/dfa.cc": "5c9cf51c5bde337431e7cd1877ff14bfcae3d72a7eb1f0ad8e3dd8235291876b",
+    "src/main.cc": "703930f7f69d74655d1080459d44e0b127e077cf684033515a14528b972ae8df",
+    "src/fold_simple.cc": "a9443f7c7b13fe67ec354a2432b9afa607a97ccdf586056df0663b5206147184",
+    "src/fold_simple.h": "7d57fe31f03ff62e968560be1ecebdef7bbb1dd9c4855b04006980aa5016f183",
+    "src/dfa.h": "82633367764bd7d785bef3482c3d06ba39170b2667918be917599776b2a6f2cf",
+    "src/fold_turner.h": "7a62c3c69015adfa3f162ef0ab14d5c5658aa063fa2db361728641cf5fdd29d1",
+    "src/codon_table.cc": "c789d7d0a686cfc9a7769ce74ed7527f558b6ba372df6e97d8ada2985dd680c1",
+    "src/vienna/intl22.h": "84391186f9ac8d95cb9a7f845263fd32fb1562f31d0b60f628a071ecdaa09310",
+    "src/vienna/intl11.h": "cd4f90e995096066834bf742f930cc5c512be69f2346c03bd9966e0b7e296e9b",
+    "src/vienna/intl21.h": "1541c220cb712a4f9a56150db5a640e6c383a6795e602fc32cc8ce97c18e763a",
+    "src/vienna/energy_parameter.h": "683320cdf6b722db4768bf104ce31e4b86881b94477df5829d0e44806b129ff0",
+    "data/codon_usage_freq_table_yeast.csv": "14fffb18aadc8931c5645cc7308913b33d195f53b074b5cd4575f77e68ddcc44",
+    "data/codon_usage_freq_table_human.csv": "e6c4a49036fe21f3266e7e53130011bd7725c62ebeabbe442f7f8f1cdf5890c4",
+    "publication_campaign_final.py": "d02eea27ad26d10c697dec173ff59580200459db7d64694b582cdf3239a1d68f",
+    "run_publication_study.py": "cfa542d14e1187bea9de1c935d6ec3134a0eeb7eca7e3707c454739d6a8c5ce3"
+  },
+  "binary_sha256": {
+    "publication-bench": "c45afd0969a381cabeca4590b4d6cbb6d3bbf1b23c499d678ca7393c7b704723",
+    "sparsedesign-packed": "5f427f844c877f5a99eee32ef22aa9908a9306e6056ade7ef0e194c7e11dfb4d",
+    "sparsedesign-square": "bff9c7173ce0380a721eafc83f1177264e089c61d4a18d58a98603ff220481d6"
+  },
+  "compiler": "g++ (Ubuntu 14.3.0-12ubuntu1~22~ppa2) 14.3.0\nCopyright (C) 2024 Free Software Foundation, Inc.\nThis is free software; see the source for copying conditions.  There is NO\nwarranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n\n",
+  "uname": {
+    "system": "Linux",
+    "node": "AR16",
+    "release": "6.8.0-136-generic",
+    "version": "#136~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Jul  3 16:29:11 UTC ",
+    "machine": "x86_64",
+    "processor": "x86_64"
+  },
+  "lscpu": "Architecture:                            x86_64\nCPU op-mode(s):                          32-bit, 64-bit\nAddress sizes:                           39 bits physical, 48 bits virtual\nByte Order:                              Little Endian\nCPU(s):                                  24\nOn-line CPU(s) list:                     0-23\nVendor ID:                               GenuineIntel\nModel name:                              Intel(R) Core(TM) i9-14900KF\nCPU family:                              6\nModel:                                   183\nThread(s) per core:                      1\nCore(s) per socket:                      24\nSocket(s):                               1\nStepping:                                1\nCPU max MHz:                             6400.0000\nCPU min MHz:                             800.0000\nBogoMIPS:                                6374.40\nFlags:                                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf tsc_known_freq pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb ssbd ibrs ibpb stibp ibrs_enhanced tpr_shadow flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid rdseed adx smap clflushopt clwb intel_pt sha_ni xsaveopt xsavec xgetbv1 xsaves split_lock_detect user_shstk avx_vnni dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp hwp_pkg_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md_clear serialize arch_lbr ibt flush_l1d arch_capabilities ibpb_exit_to_user\nVirtualization:                          VT-x\nL1d cache:                               896 KiB (24 instances)\nL1i cache:                               1.3 MiB (24 instances)\nL2 cache:                                32 MiB (12 instances)\nL3 cache:                                36 MiB (1 instance)\nNUMA node(s):                            1\nNUMA node0 CPU(s):                       0-23\nVulnerability Gather data sampling:      Not affected\nVulnerability Indirect target selection: Not affected\nVulnerability Itlb multihit:             Not affected\nVulnerability L1tf:                      Not affected\nVulnerability Mds:                       Not affected\nVulnerability Meltdown:                  Not affected\nVulnerability Mmio stale data:           Not affected\nVulnerability Reg file data sampling:    Mitigation; Clear Register File\nVulnerability Retbleed:                  Not affected\nVulnerability Spec rstack overflow:      Not affected\nVulnerability Spec store bypass:         Mitigation; Speculative Store Bypass disabled via prctl\nVulnerability Spectre v1:                Mitigation; usercopy/swapgs barriers and __user pointer sanitization\nVulnerability Spectre v2:                Mitigation; Enhanced / Automatic IBRS; IBPB conditional; PBRSB-eIBRS SW sequence; BHI BHI_DIS_S\nVulnerability Srbds:                     Not affected\nVulnerability Tsa:                       Not affected\nVulnerability Tsx async abort:           Not affected\nVulnerability Vmscape:                   Mitigation; IBPB before exit to userspace\n",
+  "meminfo": "MemTotal:       65551380 kB\nMemFree:        27914340 kB\nMemAvailable:   56427256 kB\nBuffers:         2970536 kB\nCached:         24135080 kB\nSwapCached:        33884 kB\nActive:         16233464 kB\nInactive:       17297236 kB\nActive(anon):    6438908 kB\nInactive(anon):   172708 kB\nActive(file):    9794556 kB\nInactive(file): 17124528 kB\nUnevictable:        4676 kB\nMlocked:            4676 kB\nSwapTotal:       2097148 kB\nSwapFree:        1135700 kB\nZswap:                 0 kB\nZswapped:              0 kB\nDirty:              4656 kB\nWriteback:             0 kB\nAnonPages:       6404104 kB\nMapped:          1699536 kB\nShmem:            186704 kB\nKReclaimable:    2323204 kB\nSlab:            2808412 kB\nSReclaimable:    2315176 kB\nSUnreclaim:       493236 kB\nKernelStack:       34256 kB\nPageTables:       101508 kB\nSecPageTables:         0 kB\nNFS_Unstable:          0 kB\nBounce:                0 kB\nWritebackTmp:          0 kB\nCommitLimit:    34872836 kB\nCommitted_AS:   39629160 kB\nVmallocTotal:   34359738367 kB\nVmallocUsed:      139556 kB\nVmallocChunk:          0 kB\nPercpu:            30624 kB\nHardwareCorrupted:     0 kB\nAnonHugePages:         0 kB\nShmemHugePages:        0 kB\nShmemPmdMapped:        0 kB\nFileHugePages:         0 kB\nFilePmdMapped:         0 kB\nUnaccepted:            0 kB\nHugePages_Total:       0\nHugePages_Free:        0\nHugePages_Rsvd:        0\nHugePages_Surp:        0\nHugepagesize:       2048 kB\nHugetlb:               0 kB\nDirectMap4k:     1894820 kB\nDirectMap2M:    50245632 kB\nDirectMap1G:    16777216 kB\n",
+  "execution_wrappers": {
+    "pilot": "source/publication_campaign.py",
+    "final_timings": "source/publication_campaign_final.py",
+    "controller": "source/run_publication_study.py"
+  }
+}

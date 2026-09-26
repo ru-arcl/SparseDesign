@@ -1,0 +1,53 @@
+{
+  "binary_sha256": "8892b6a2c2496ed518be9960e102659ebeb5aa65378db294b596d9eaf2441e44",
+  "command": [
+    "g++",
+    "-std=c++11",
+    "-O3",
+    "-DNDEBUG",
+    "-DLDCLEAN_SQUARE_MEMOS",
+    "-fopenmp",
+    "-I/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/src",
+    "/common/home/jy512/dev/rna/publication/code/evaluation/validation/source/publication_validation.cc",
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/src/fold_turner.cc",
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/src/energy.cc",
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/src/dfa.cc",
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/src/codon_table.cc",
+    "-o",
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/validation/validation-driver"
+  ],
+  "compiler": "g++ (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0\nCopyright (C) 2021 Free Software Foundation, Inc.\nThis is free software; see the source for copying conditions.  There is NO\nwarranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n\n",
+  "driver_sha256": "414ecd7b27a27b8d77a36b4528c527d9b2f3837a0093667cf35ffee79214f19a",
+  "model": {
+    "dangles": 0,
+    "energy_parameter_set": "Turner2004",
+    "internal_bulge_unpaired_cap": 30,
+    "min_loop_size": 3,
+    "noLP": false,
+    "salt_molar": 1.021,
+    "special_hp": true,
+    "temperature_celsius": 37
+  },
+  "parameter_string_sha256": "2a43345a495850cfd2e0a78c57c6e02085e6df3c53496fe3289dc294d21732ad",
+  "platform": "Linux-5.15.0-173-generic-x86_64-with-glibc2.35",
+  "python": "3.10.12 | packaged by conda-forge | (main, Jun 23 2023, 22:40:32) [GCC 12.3.0]",
+  "script_sha256": "d0ff533a334f14ee1598392255eb9e4715e20d81cbb43340999fa8226dc2d60d",
+  "source_sha256": {
+    "src/codon_table.cc": "c789d7d0a686cfc9a7769ce74ed7527f558b6ba372df6e97d8ada2985dd680c1",
+    "src/codon_table.h": "67151333ca26eea8b33f61aa62e2d3afe1971b9ab58619faf3259394b086f7c4",
+    "src/dfa.cc": "5c9cf51c5bde337431e7cd1877ff14bfcae3d72a7eb1f0ad8e3dd8235291876b",
+    "src/dfa.h": "82633367764bd7d785bef3482c3d06ba39170b2667918be917599776b2a6f2cf",
+    "src/energy.cc": "b3b873789af2f2b42f41978a5d6aca5015596b787f1548f48d728c6d46d35793",
+    "src/energy.h": "fc4780fc0a6aba4416b17a0c4a1b700863d894868763694bc0ba053fcfba8fbb",
+    "src/fold_simple.cc": "a9443f7c7b13fe67ec354a2432b9afa607a97ccdf586056df0663b5206147184",
+    "src/fold_simple.h": "7d57fe31f03ff62e968560be1ecebdef7bbb1dd9c4855b04006980aa5016f183",
+    "src/fold_turner.cc": "19eeecb55cb29bd47173dc14da868f0b534bd10e025313f15131f4985a31cd86",
+    "src/fold_turner.h": "7a62c3c69015adfa3f162ef0ab14d5c5658aa063fa2db361728641cf5fdd29d1",
+    "src/main.cc": "703930f7f69d74655d1080459d44e0b127e077cf684033515a14528b972ae8df",
+    "src/vienna/energy_parameter.h": "683320cdf6b722db4768bf104ce31e4b86881b94477df5829d0e44806b129ff0",
+    "src/vienna/intl11.h": "cd4f90e995096066834bf742f930cc5c512be69f2346c03bd9966e0b7e296e9b",
+    "src/vienna/intl21.h": "1541c220cb712a4f9a56150db5a640e6c383a6795e602fc32cc8ce97c18e763a",
+    "src/vienna/intl22.h": "84391186f9ac8d95cb9a7f845263fd32fb1562f31d0b60f628a071ecdaa09310"
+  },
+  "viennarna": "2.7.2"
+}

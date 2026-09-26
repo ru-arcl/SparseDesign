@@ -1,0 +1,160 @@
+{
+  "model": {
+    "dangles": 0,
+    "internal_loop_unpaired_cap": 30,
+    "min_loop_size": 3,
+    "noLP": false,
+    "parameter_string_sha256": "2a43345a495850cfd2e0a78c57c6e02085e6df3c53496fe3289dc294d21732ad",
+    "parameters": "Turner2004",
+    "salt": 1.021,
+    "special_hp": true,
+    "temperature": 37,
+    "viennarna": "2.7.2"
+  },
+  "values": {
+    "012926a38842f9d438d65240929eccc63cc7066bb5582c948528bc44d5ebe289": {
+      "fixed_sequence_mfe_kcal": -1044.5,
+      "structure_energy_kcal": -1044.5
+    },
+    "058fe1f7a3fd42b00d73e616a4dba1c1047156786d5bc4bc9559208a67a7df85": {
+      "fixed_sequence_mfe_kcal": -492.6000061035156,
+      "structure_energy_kcal": -491.20001220703125
+    },
+    "09472c2f42d648eedfb7d48e707b1945bf5b09201461874b5731ac678856f5ac": {
+      "fixed_sequence_mfe_kcal": -114.30000305175781,
+      "structure_energy_kcal": -114.30000305175781
+    },
+    "0aff6c1261f143e76a08c7bf46a0503a7138bc80afcda656bfb8025db1244b1c": {
+      "fixed_sequence_mfe_kcal": -1378.699951171875,
+      "structure_energy_kcal": -1378.699951171875
+    },
+    "0e342ca627f98fb6fd002724fa1f759f6da27e560147f5b6b21d27a09d0f454f": {
+      "fixed_sequence_mfe_kcal": -576.9000244140625,
+      "structure_energy_kcal": -576.9000244140625
+    },
+    "1113f88e7d54839b37f8e075fce6b33c93411df0df32c36fd4236429787ed8e5": {
+      "fixed_sequence_mfe_kcal": -188.10000610351562,
+      "structure_energy_kcal": -188.10000610351562
+    },
+    "19f38cc894ae5f3ef72aba1631dee5aab7e635651d4c621380a6b9735db3c962": {
+      "fixed_sequence_mfe_kcal": -114.30000305175781,
+      "structure_energy_kcal": -114.30000305175781
+    },
+    "1f68dbb3c001ec671d9cdbf62ddd74e2a70dc4ff8585755468019fbf718519b1": {
+      "fixed_sequence_mfe_kcal": -188.10000610351562,
+      "structure_energy_kcal": -188.10000610351562
+    },
+    "2002c68588e40806a96fafc259eeeb1ec3d8ab3d21229bb4ba989d666bdb813a": {
+      "fixed_sequence_mfe_kcal": -878.2000122070312,
+      "structure_energy_kcal": -878.2000122070312
+    },
+    "34fbb2e5e3d099bd40cf46ee24720f418fd717708b3e27d667d7968f393082eb": {
+      "fixed_sequence_mfe_kcal": -188.10000610351562,
+      "structure_energy_kcal": -188.10000610351562
+    },
+    "3c43e6475a015e2bc158d0a2fdf06a6e1db206144c5c7ecae5faa42be93dd3cb": {
+      "fixed_sequence_mfe_kcal": -1865.5999755859375,
+      "structure_energy_kcal": -1865.5999755859375
+    },
+    "4379ffaf347a751cd7318a95faa9c61b5b3b0b1a3afc638f27800a029191ffa5": {
+      "fixed_sequence_mfe_kcal": -489.1000061035156,
+      "structure_energy_kcal": -489.1000061035156
+    },
+    "4927f270049d6eaf18ba0f5c4cb45ccb73008b714a53f03f70fddb5716877642": {
+      "fixed_sequence_mfe_kcal": -1420.800048828125,
+      "structure_energy_kcal": -1420.800048828125
+    },
+    "4f9731448b2ab69bfa47c76b1894c834859b9790410c3ff2562e55b2ea6d9d1f": {
+      "fixed_sequence_mfe_kcal": -114.30000305175781,
+      "structure_energy_kcal": -114.30000305175781
+    },
+    "57cd157dbc1b2e098a99e640b44cf28beff3af1c782724c91d90f5f1064fe3cc": {
+      "fixed_sequence_mfe_kcal": -1101.9000244140625,
+      "structure_energy_kcal": -1101.9000244140625
+    },
+    "66b73d3c0718a12d8347db479094badf33fcd63e435fd5dea0d32e002ab383ed": {
+      "fixed_sequence_mfe_kcal": -492.6000061035156,
+      "structure_energy_kcal": -492.6000061035156
+    },
+    "6d37344c40872602a1a059ca0c2caddc6b3c2038fd6aa4a0a36aa2ce8852bc17": {
+      "fixed_sequence_mfe_kcal": -583.7999877929688,
+      "structure_energy_kcal": -583.7999877929688
+    },
+    "703d50fce8efd38d56d9ba16cc0314ccd970edb6d8b024bb9774eb0b6e13092b": {
+      "fixed_sequence_mfe_kcal": -576.9000244140625,
+      "structure_energy_kcal": -576.9000244140625
+    },
+    "71db08bc52862cf020fd14383184815dac401dcf5f2d93ee3acb5ed7b29a8e0c": {
+      "fixed_sequence_mfe_kcal": -98.9000015258789,
+      "structure_energy_kcal": -98.9000015258789
+    },
+    "782a156aae6bccf3e637814d3a103cc5409186b279794831e31d8f14c7508b2f": {
+      "fixed_sequence_mfe_kcal": -1720.300048828125,
+      "structure_energy_kcal": -1720.300048828125
+    },
+    "7df5e11151103cc852b410dc03097b330e45e05a19a1dd2d0ddfb5bafba00714": {
+      "fixed_sequence_mfe_kcal": -583.7999877929688,
+      "structure_energy_kcal": -583.7999877929688
+    },
+    "856a1d0a556d73811ef5433c6a1c6a4332cc18f80d279e693337150154ff36ab": {
+      "fixed_sequence_mfe_kcal": -878.2000122070312,
+      "structure_energy_kcal": -878.2000122070312
+    },
+    "abf9ad5d0def2973bda636241dd91c4859015d29c267c0bdee3069ee8f2b9036": {
+      "fixed_sequence_mfe_kcal": -1044.5,
+      "structure_energy_kcal": -1044.5
+    },
+    "b0d73ee6caaca855ca29140576f92fdf144ccb680e4d75813914e07d45664001": {
+      "fixed_sequence_mfe_kcal": -489.1000061035156,
+      "structure_energy_kcal": -489.1000061035156
+    },
+    "b10454cf699760ad23a445102c49f546811012d5438dbf51fc3c4241f42d3b53": {
+      "fixed_sequence_mfe_kcal": -489.1000061035156,
+      "structure_energy_kcal": -489.1000061035156
+    },
+    "b320dde161101bc6d90c6304e714a0674cb8217b0476e9dd624856698f3c82e5": {
+      "fixed_sequence_mfe_kcal": -163.10000610351562,
+      "structure_energy_kcal": -163.10000610351562
+    },
+    "b81ef43f1618ae0bfb2c9bcaddb7fa46d8d1f47d3c9e19ec21a21cb2e2a8fb4b": {
+      "fixed_sequence_mfe_kcal": -1420.800048828125,
+      "structure_energy_kcal": -1420.800048828125
+    },
+    "bf3e0db93e32bf5c801f073be63c86a4f8df54a56754e216cdf5b53c80d642af": {
+      "fixed_sequence_mfe_kcal": -98.9000015258789,
+      "structure_energy_kcal": -98.9000015258789
+    },
+    "c3010fd607a88271a815d97c19b7f208a378c2b344c109192d47df46977da0fd": {
+      "fixed_sequence_mfe_kcal": -114.30000305175781,
+      "structure_energy_kcal": -114.30000305175781
+    },
+    "c7604bd2565c1841dd993c82d8ca1495b2c8cd843a3d843748debbf5337fa94a": {
+      "fixed_sequence_mfe_kcal": -1720.300048828125,
+      "structure_energy_kcal": -1720.300048828125
+    },
+    "cde916f16a614f4d3ab5534bb8d2d9416b8b208189927e8f3e008a73f35d5581": {
+      "fixed_sequence_mfe_kcal": -576.9000244140625,
+      "structure_energy_kcal": -576.9000244140625
+    },
+    "d8d0dc15cf56b917d1e3ee98c2b0ba8ca1dc6314c27755aaa24defcf3e5e25a0": {
+      "fixed_sequence_mfe_kcal": -576.9000244140625,
+      "structure_energy_kcal": -576.9000244140625
+    },
+    "e6eb51a0373632b774b9ec3951b43443516b00651f13d2c8eaa7d9b3c067a1e8": {
+      "fixed_sequence_mfe_kcal": -2192.699951171875,
+      "structure_energy_kcal": -2192.699951171875
+    },
+    "e85e62b1b10cdf4325c13eca85c09f7778b8fd474f70a94a979a021ece02d7ba": {
+      "fixed_sequence_mfe_kcal": -188.10000610351562,
+      "structure_energy_kcal": -188.10000610351562
+    },
+    "f6a7cd0f474b2deba5f1e2c1754c15c0bb2e3ece5fa36a492fb41a3745173845": {
+      "fixed_sequence_mfe_kcal": -583.7999877929688,
+      "structure_energy_kcal": -583.7999877929688
+    },
+    "fe59a27e3d4a31cfb3ace95dc4fceafdf675f8e0250679e905e5f70a85b759e7": {
+      "fixed_sequence_mfe_kcal": -583.7999877929688,
+      "structure_energy_kcal": -583.7999877929688
+    }
+  }
+}

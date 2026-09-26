@@ -1,0 +1,595 @@
+{
+  "audit_date": "2026-09-06",
+  "audit_script_sha256": "9658e67a58695a0a87531bf9f9170303a6826354bcaa200ddf63b9775f34e988",
+  "bootstrap": {
+    "replicates": 10000,
+    "rng": "stdlib random.Random; paired sampling within strata",
+    "seed": 20260716
+  },
+  "checks": [
+    {
+      "objective": "human-lambda0",
+      "rows": 2000,
+      "sha256": "e3182361bd6723de37af0f57bc84cbb46af1f9b3b2be5564be8b4278f4e560d8"
+    },
+    {
+      "objective": "human-lambda4",
+      "rows": 2000,
+      "sha256": "eceac0cafe81dbb52ad3073852a259f198ef2239fdfa7e157c2a0480a462e10f"
+    },
+    {
+      "objective": "yeast-lambda4",
+      "rows": 400,
+      "sha256": "508cfead3fd91649bf1c8b6258d7a91712fc9be6cde6f93c27d3dc98f0a284bb"
+    },
+    {
+      "objective": "mouse-lambda4",
+      "rows": 400,
+      "sha256": "52f5b57186209736566af293e5d98f525f67e311dd9ec17c970bf6744178efa5"
+    },
+    {
+      "objective": "zebrafish-lambda4",
+      "rows": 400,
+      "sha256": "e9939ee881ce85f2e220f49ffa8dc6108207d688349e1aaaacae70413c5d6d0e"
+    },
+    {
+      "objective": "drosophila-lambda4",
+      "rows": 400,
+      "sha256": "e80fa6c5a32a91adfd2e40407df9113ca9b35f9c425982c0794c4c447258aefd"
+    },
+    {
+      "objective": "celegans-lambda4",
+      "rows": 400,
+      "sha256": "ec44f2c267861ad24aecdd7fb35c6e24992784491ccdeac5ece16e26380be46a"
+    },
+    {
+      "objective": "arabidopsis-lambda4",
+      "rows": 400,
+      "sha256": "451af52081f263a380c7574707f03bd434b0fdd2f441981898913754d87d4fb4"
+    },
+    {
+      "objective": "ecoli-o157-edl933-lambda4",
+      "rows": 400,
+      "sha256": "440c3fca8bd192c24550734594e2a559d021496ec89baca027bf9fe15bfbb733"
+    },
+    {
+      "objective": "bsubtilis-species-lambda4",
+      "rows": 400,
+      "sha256": "0e07f7fae2665f26967d290e579eff52472702ee0d65efc5913997dc69e3e86b"
+    },
+    {
+      "objective": "paeruginosa-pao1-lambda4",
+      "rows": 400,
+      "sha256": "8fd6f00ec5cf4441a5d830de5288c8c3988197915dfeaa98112d9e0d722ebcb0"
+    }
+  ],
+  "codon_subset": {
+    "arabidopsis-lambda4": {
+      "candidate_allocation_mib_median": 0.5098381042480469,
+      "candidate_allocation_mib_p95_max": [
+        7.896481323242173,
+        13.022834777832031
+      ],
+      "density_median": 0.007039462692397853,
+      "density_p05_p95": [
+        0.0038208565568506694,
+        0.06916315545826174
+      ],
+      "density_range": [
+        0.0027296595201693062,
+        0.13333333333333333
+      ],
+      "fits_by_minimum_aa": {
+        "0": {
+          "beta": 1.4406487845281868,
+          "n": 400,
+          "r_squared": 0.9947036222797411
+        },
+        "100": {
+          "beta": 1.5422080329310126,
+          "n": 300,
+          "r_squared": 0.992329276433495
+        },
+        "1000": {
+          "beta": 1.6981473053076548,
+          "n": 152,
+          "r_squared": 0.9666492751608452
+        },
+        "400": {
+          "beta": 1.6365929320992136,
+          "n": 234,
+          "r_squared": 0.9882014443149726
+        }
+      },
+      "median_paired_candidate_ratio_to_human": 0.8556527030574567,
+      "retention_max": 0.3715170278637771,
+      "retention_median": 0.01786191822215155,
+      "rows": 400
+    },
+    "bsubtilis-species-lambda4": {
+      "candidate_allocation_mib_median": 0.5686111450195312,
+      "candidate_allocation_mib_p95_max": [
+        8.64091339111328,
+        16.655487060546875
+      ],
+      "density_median": 0.008070931937218428,
+      "density_p05_p95": [
+        0.003783096560956984,
+        0.072581516447761
+      ],
+      "density_range": [
+        0.0026200195240714138,
+        0.13555555555555557
+      ],
+      "fits_by_minimum_aa": {
+        "0": {
+          "beta": 1.4444736414008867,
+          "n": 400,
+          "r_squared": 0.990659553031853
+        },
+        "100": {
+          "beta": 1.5262184575057995,
+          "n": 300,
+          "r_squared": 0.9797133944834889
+        },
+        "1000": {
+          "beta": 1.7104998877072088,
+          "n": 152,
+          "r_squared": 0.9119194725203407
+        },
+        "400": {
+          "beta": 1.6295527212293766,
+          "n": 234,
+          "r_squared": 0.9638720065592173
+        }
+      },
+      "median_paired_candidate_ratio_to_human": 0.9301022163763148,
+      "retention_max": 0.3357142857142857,
+      "retention_median": 0.01963480279855017,
+      "rows": 400
+    },
+    "celegans-lambda4": {
+      "candidate_allocation_mib_median": 0.43390655517578125,
+      "candidate_allocation_mib_p95_max": [
+        6.298883056640618,
+        11.30096435546875
+      ],
+      "density_median": 0.006063461177259187,
+      "density_p05_p95": [
+        0.0028871839381378584,
+        0.06895485380116957
+      ],
+      "density_range": [
+        0.001897680500604943,
+        0.13777777777777778
+      ],
+      "fits_by_minimum_aa": {
+        "0": {
+          "beta": 1.3947011043691182,
+          "n": 400,
+          "r_squared": 0.9923250449409783
+        },
+        "100": {
+          "beta": 1.4932326187176614,
+          "n": 300,
+          "r_squared": 0.986205813715431
+        },
+        "1000": {
+          "beta": 1.6778727992915605,
+          "n": 152,
+          "r_squared": 0.9351614958831658
+        },
+        "400": {
+          "beta": 1.6004316458975203,
+          "n": 234,
+          "r_squared": 0.9760661952526474
+        }
+      },
+      "median_paired_candidate_ratio_to_human": 0.7125028753788785,
+      "retention_max": 0.3684210526315789,
+      "retention_median": 0.014802832371414665,
+      "rows": 400
+    },
+    "drosophila-lambda4": {
+      "candidate_allocation_mib_median": 0.5622482299804688,
+      "candidate_allocation_mib_p95_max": [
+        9.362110900878896,
+        16.742294311523438
+      ],
+      "density_median": 0.007992695465731114,
+      "density_p05_p95": [
+        0.0042230232563169445,
+        0.06585731245406741
+      ],
+      "density_range": [
+        0.0028862612947766477,
+        0.11666666666666667
+      ],
+      "fits_by_minimum_aa": {
+        "0": {
+          "beta": 1.4832577945979484,
+          "n": 400,
+          "r_squared": 0.9926940281972062
+        },
+        "100": {
+          "beta": 1.5799653503256776,
+          "n": 300,
+          "r_squared": 0.9865003680358667
+        },
+        "1000": {
+          "beta": 1.7417460352067653,
+          "n": 152,
+          "r_squared": 0.9380767634876592
+        },
+        "400": {
+          "beta": 1.6704087670803698,
+          "n": 234,
+          "r_squared": 0.9762664141267755
+        }
+      },
+      "median_paired_candidate_ratio_to_human": 0.9246679947600541,
+      "retention_max": 0.3308270676691729,
+      "retention_median": 0.01951490718539773,
+      "rows": 400
+    },
+    "ecoli-o157-edl933-lambda4": {
+      "candidate_allocation_mib_median": 0.5239181518554688,
+      "candidate_allocation_mib_p95_max": [
+        8.302138519287103,
+        15.732925415039062
+      ],
+      "density_median": 0.007475932528653896,
+      "density_p05_p95": [
+        0.003529237999281484,
+        0.06564840236686387
+      ],
+      "density_range": [
+        0.002343054574773473,
+        0.12196180555555555
+      ],
+      "fits_by_minimum_aa": {
+        "0": {
+          "beta": 1.4483933196662901,
+          "n": 400,
+          "r_squared": 0.9906542131889019
+        },
+        "100": {
+          "beta": 1.5406817350274096,
+          "n": 300,
+          "r_squared": 0.9799817502640464
+        },
+        "1000": {
+          "beta": 1.7210854100842767,
+          "n": 152,
+          "r_squared": 0.9125134951577947
+        },
+        "400": {
+          "beta": 1.6405774421127468,
+          "n": 234,
+          "r_squared": 0.9643934536083321
+        }
+      },
+      "median_paired_candidate_ratio_to_human": 0.8515441363268486,
+      "retention_max": 0.33746130030959753,
+      "retention_median": 0.018105547883512547,
+      "rows": 400
+    },
+    "human-lambda4": {
+      "candidate_allocation_mib_median": 0.6221694946289062,
+      "candidate_allocation_mib_p95_max": [
+        9.965763092040996,
+        18.416580200195312
+      ],
+      "density_median": 0.008651417911855114,
+      "density_p05_p95": [
+        0.004595271132286043,
+        0.06616102846648297
+      ],
+      "density_range": [
+        0.002604709196985234,
+        0.11888888888888889
+      ],
+      "fits_by_minimum_aa": {
+        "0": {
+          "beta": 1.492344373200146,
+          "n": 400,
+          "r_squared": 0.9926319054167212
+        },
+        "100": {
+          "beta": 1.577413059527944,
+          "n": 300,
+          "r_squared": 0.9854025352233722
+        },
+        "1000": {
+          "beta": 1.7344390165377959,
+          "n": 152,
+          "r_squared": 0.9308887652335819
+        },
+        "400": {
+          "beta": 1.6709514951589215,
+          "n": 234,
+          "r_squared": 0.9745311168515586
+        }
+      },
+      "median_paired_candidate_ratio_to_human": 1.0,
+      "retention_max": 0.32706766917293234,
+      "retention_median": 0.021113386997985803,
+      "rows": 400
+    },
+    "mouse-lambda4": {
+      "candidate_allocation_mib_median": 0.6446533203125,
+      "candidate_allocation_mib_p95_max": [
+        10.253124999999978,
+        19.489120483398438
+      ],
+      "density_median": 0.009008392668195666,
+      "density_p05_p95": [
+        0.004782226649418909,
+        0.06728703397612487
+      ],
+      "density_range": [
+        0.002925747178558734,
+        0.12
+      ],
+      "fits_by_minimum_aa": {
+        "0": {
+          "beta": 1.4966652151512185,
+          "n": 400,
+          "r_squared": 0.9925875786525687
+        },
+        "100": {
+          "beta": 1.5827492554613702,
+          "n": 300,
+          "r_squared": 0.9851936559038077
+        },
+        "1000": {
+          "beta": 1.7356176476758935,
+          "n": 152,
+          "r_squared": 0.9300924818806902
+        },
+        "400": {
+          "beta": 1.6758615726711232,
+          "n": 234,
+          "r_squared": 0.9740629433812548
+        }
+      },
+      "median_paired_candidate_ratio_to_human": 1.0307172223796282,
+      "retention_max": 0.3157894736842105,
+      "retention_median": 0.021900418989881133,
+      "rows": 400
+    },
+    "paeruginosa-pao1-lambda4": {
+      "candidate_allocation_mib_median": 0.4877510070800781,
+      "candidate_allocation_mib_p95_max": [
+        7.680415725707999,
+        14.32708740234375
+      ],
+      "density_median": 0.006998769415639751,
+      "density_p05_p95": [
+        0.003337493129842951,
+        0.05881427236322337
+      ],
+      "density_range": [
+        0.0021023120302955693,
+        0.10848126232741617
+      ],
+      "fits_by_minimum_aa": {
+        "0": {
+          "beta": 1.4572067396339219,
+          "n": 400,
+          "r_squared": 0.9916913007930768
+        },
+        "100": {
+          "beta": 1.5494155254703108,
+          "n": 300,
+          "r_squared": 0.9831315228759662
+        },
+        "1000": {
+          "beta": 1.7459972537600237,
+          "n": 152,
+          "r_squared": 0.9237468355536624
+        },
+        "400": {
+          "beta": 1.6489142867278996,
+          "n": 234,
+          "r_squared": 0.969812622262632
+        }
+      },
+      "median_paired_candidate_ratio_to_human": 0.8066629803988355,
+      "retention_max": 0.30451127819548873,
+      "retention_median": 0.01707665266644221,
+      "rows": 400
+    },
+    "yeast-lambda4": {
+      "candidate_allocation_mib_median": 0.39776611328125,
+      "candidate_allocation_mib_p95_max": [
+        5.468124389648413,
+        9.348136901855469
+      ],
+      "density_median": 0.0053558621726573375,
+      "density_p05_p95": [
+        0.0025282690717908216,
+        0.06429354863514025
+      ],
+      "density_range": [
+        0.001830937389369342,
+        0.1388888888888889
+      ],
+      "fits_by_minimum_aa": {
+        "0": {
+          "beta": 1.376508242792317,
+          "n": 400,
+          "r_squared": 0.9924884560103262
+        },
+        "100": {
+          "beta": 1.4794776309966036,
+          "n": 300,
+          "r_squared": 0.9875714726337314
+        },
+        "1000": {
+          "beta": 1.649317933275863,
+          "n": 152,
+          "r_squared": 0.9413690671622124
+        },
+        "400": {
+          "beta": 1.5827297231826485,
+          "n": 234,
+          "r_squared": 0.9786906571769324
+        }
+      },
+      "median_paired_candidate_ratio_to_human": 0.6460946365089655,
+      "retention_max": 0.38699690402476783,
+      "retention_median": 0.013513191721854157,
+      "rows": 400
+    },
+    "zebrafish-lambda4": {
+      "candidate_allocation_mib_median": 0.6439552307128906,
+      "candidate_allocation_mib_p95_max": [
+        10.45189590454101,
+        19.1131591796875
+      ],
+      "density_median": 0.00908110859608443,
+      "density_p05_p95": [
+        0.004691591177065875,
+        0.07008905417814505
+      ],
+      "density_range": [
+        0.002975052225680848,
+        0.12
+      ],
+      "fits_by_minimum_aa": {
+        "0": {
+          "beta": 1.4893291238114927,
+          "n": 400,
+          "r_squared": 0.9928564760751171
+        },
+        "100": {
+          "beta": 1.5803598606242981,
+          "n": 300,
+          "r_squared": 0.9859575545160474
+        },
+        "1000": {
+          "beta": 1.7277117575781251,
+          "n": 152,
+          "r_squared": 0.9343994087246911
+        },
+        "400": {
+          "beta": 1.6754814291572055,
+          "n": 234,
+          "r_squared": 0.9755148374493608
+        }
+      },
+      "median_paired_candidate_ratio_to_human": 1.0394825073346448,
+      "retention_max": 0.3233082706766917,
+      "retention_median": 0.022179238024415494,
+      "rows": 400
+    }
+  },
+  "human": {
+    "human-lambda0": {
+      "candidate_allocation_mib_median": 0.9907569885253906,
+      "candidate_allocation_mib_p95_max": [
+        18.83446235656738,
+        37.26286315917969
+      ],
+      "density_median": 0.01434124716419399,
+      "density_p05_p95": [
+        0.007947174069174346,
+        0.09537221261053438
+      ],
+      "density_range": [
+        0.002719973032886755,
+        0.22865013774104684
+      ],
+      "fits_by_minimum_aa": {
+        "0": {
+          "beta": 1.5267017207248172,
+          "n": 2000,
+          "r_squared": 0.9931823892612449
+        },
+        "100": {
+          "beta": 1.6102856497603326,
+          "n": 1500,
+          "r_squared": 0.9869176427458222
+        },
+        "1000": {
+          "beta": 1.7939638152944202,
+          "n": 747,
+          "r_squared": 0.9420452484714543
+        },
+        "400": {
+          "beta": 1.6992362776956547,
+          "n": 1167,
+          "r_squared": 0.9766405560258054
+        }
+      },
+      "independent_stratified_bootstrap_95_ci": [
+        1.5210090092033575,
+        1.5323178244840279
+      ],
+      "retention_max": 0.43795620437956206,
+      "retention_median": 0.035282359078841044,
+      "rows": 2000
+    },
+    "human-lambda4": {
+      "candidate_allocation_mib_median": 0.6151924133300781,
+      "candidate_allocation_mib_p95_max": [
+        10.949131011962889,
+        23.215774536132812
+      ],
+      "density_median": 0.008756632342111971,
+      "density_p05_p95": [
+        0.004557871598067922,
+        0.07079312865497077
+      ],
+      "density_range": [
+        0.00159061366050686,
+        0.1715131109070503
+      ],
+      "fits_by_minimum_aa": {
+        "0": {
+          "beta": 1.4872879872013707,
+          "n": 2000,
+          "r_squared": 0.9914492182669183
+        },
+        "100": {
+          "beta": 1.5860608111712131,
+          "n": 1500,
+          "r_squared": 0.9835939379564135
+        },
+        "1000": {
+          "beta": 1.7725797594170114,
+          "n": 747,
+          "r_squared": 0.9219194376878013
+        },
+        "400": {
+          "beta": 1.6773451540595852,
+          "n": 1167,
+          "r_squared": 0.969562028610773
+        }
+      },
+      "independent_stratified_bootstrap_95_ci": [
+        1.4813780677526536,
+        1.493134189070481
+      ],
+      "retention_max": 0.3722627737226277,
+      "retention_median": 0.02154379935035481,
+      "rows": 2000
+    }
+  },
+  "limitations": [
+    "CSV rows contain no designed sequences or structures; cannot independently validate their optimum or translation.",
+    "Instrumented shared-host task wall time is not a controlled production timing estimate.",
+    "Bootstrap conditions on a length-balanced sequence panel; homologs are not independent biological families.",
+    "This audit does not validate the original sampling frame, historical executables, raw block logs, or full report hash chain."
+  ],
+  "paired_human": {
+    "median_candidate_ratio": 0.6091660771318625,
+    "median_mfe_change_per_nt": 0.10866780308900255,
+    "strictly_fewer_candidates_at_lambda4": 2000
+  },
+  "scope": "Merged CSV integrity and independent descriptive statistics; no new solves.",
+  "solver_sha256": "3772e1e1109711b266c8eabf52eb0dab2c9e60689e1d0f9fd99ceeec9d71f885",
+  "summed_instrumented_task_wall_hours": 149.97970165527738,
+  "total_rows": 7600
+}

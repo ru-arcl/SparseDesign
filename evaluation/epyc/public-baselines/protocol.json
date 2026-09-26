@@ -1,0 +1,50 @@
+{
+  "collection_metadata": "feasibility/metadata.json and repeated/metadata.json preserve actual CPU placement and chain identities",
+  "common_scoring": "ViennaRNA 2.7.2, Turner2004, 37C, dangles0, special hairpins enabled, standard genetic code. Full decimal-table log codon penalty recomputed independently.",
+  "comparison_policy": "LD/LCD retain native internal and multiloop restrictions and binary32 frequency conventions; no strict matched-model speed ratios. DERNA lambda0 only eligible following parameter, source, and per-output physics verification. Lambda4 native quality is rescored in common full-precision arithmetic.",
+  "compiler": "GCC 11.4.0",
+  "feasibility": "Ascending amino-acid length independently per tool and lambda; one attempt per condition. After first timeout or allocation failure, all longer conditions in that chain are explicitly not attempted. Wrapper/parser errors stop the collection for diagnosis.",
+  "fixes": [
+    "LinearDesign relative DT_NEEDED path supported with temporary src symlink",
+    "DERNA derived codon-table LF delimiters to avoid upstream untrimmed header tokens",
+    "LinearCDSfold uppercase Folding free energy parsed",
+    "Resume inputs/settings/raw-output hashes checked; interrupted evidence preserved"
+  ],
+  "host": "arrakis; dual AMD EPYC 7313, 1 TiB RAM",
+  "host_load": "Shared server whose load varied during the measurements. Native records retain initial load averages, not before/after CPU utilization snapshots.",
+  "lambda_values": [
+    0,
+    4
+  ],
+  "memory_limit_bytes": 34359738368,
+  "memory_limit_kind": "RLIMIT_AS virtual address space",
+  "native_sources": {
+    "derna": [
+      "https://github.com/elkebir-group/derna.git",
+      "adecda8277add8c0b75512434bd729f30b8fd7d6"
+    ],
+    "linearcdsfold": [
+      "https://github.com/ablab-nthu/LinearCDSfold.git",
+      "de1db7e6c8d0a4360bf4f1c9270f11525ad51ff6"
+    ],
+    "lineardesign": [
+      "https://github.com/LinearDesignSoftware/LinearDesign.git",
+      "f0126ca89a8b853088b4bccfd2cc8c378d3678be"
+    ]
+  },
+  "panel_sha256": "67ea49242cf351f2b523285fa7f6ad2275015aa0eea05b3e25f6fb4c4867ad9a",
+  "repetitions": "Five fresh randomized repetitions for every feasible condition. Pilot and feasibility attempts excluded from timing summaries. The same resource caps apply to repetitions.",
+  "schema": "sparsedesign-epyc-native-public-baseline-protocol-v1",
+  "source_campaign": "research/results/epyc-node1-2026-09",
+  "table_sha256": "e6c4a49036fe21f3266e7e53130011bd7725c62ebeabbe442f7f8f1cdf5890c4",
+  "threads_per_native_process": 1,
+  "timeout_seconds": 240.0,
+  "timing_boundary": "Complete native CLI process, including initialization, allocation, traceback, output, native serialization and native refolding. Input/output validity and common scoring run outside timed boundaries.",
+  "tools": [
+    "lineardesign",
+    "linearcdsfold",
+    "derna",
+    "sparsedesign"
+  ],
+  "wrapper_sha256": "94b79eb0ef22681b1364d19e461fa76baec7ae064f45382855f8c0ab84a94f45"
+}

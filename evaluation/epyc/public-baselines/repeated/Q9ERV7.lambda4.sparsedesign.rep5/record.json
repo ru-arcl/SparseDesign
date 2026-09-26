@@ -1,0 +1,53 @@
+{
+  "aa_length": 915,
+  "accession": "Q9ERV7",
+  "command": [
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/bin/sparsedesign-square",
+    "-l",
+    "4",
+    "-c",
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/data/codon_usage_freq_table_human.csv",
+    "-j",
+    "1",
+    "--diagnostics"
+  ],
+  "common_cai": 0.9369491273402475,
+  "common_codon_penalty": 59.59055658010491,
+  "elapsed_observer_seconds": 211.04586402885616,
+  "executable_sha256": "4a6dd03966c716fda9d46a58fc058716160a5bd85209c1e18c664d28aa76c729",
+  "exit_status": 0.0,
+  "host_loadavg_started": "9.95 9.95 10.56 10/7779 2961998",
+  "input_fasta_sha256": "22f08a08b6a129ebbb56dcb5ab098e067659dbfd668976549f15c9fde2044424",
+  "label": "Q9ERV7.lambda4.sparsedesign.rep5",
+  "lambda_value": 4.0,
+  "max_rss_kib": 1504172.0,
+  "native_mfe": -1865.6,
+  "native_mfe_kind": "native reported folding score",
+  "native_temporary_bin_bytes": 0,
+  "raw_file_sha256": {
+    "stderr.txt": "4bd660da5fef653e131b58b03e24dd07f3eb8512582ed128299e8da6f8b74455",
+    "stdout.txt": "a4419942ecacd379818fa5639b6231e5d42bbe4d7f6a5552f9a5197a22431a91",
+    "time.txt": "32919b4b7c0d98168490915dcfb4f62b390f4d12f980906aef7e459301c9ec9a"
+  },
+  "repetition": 5,
+  "returncode": 0,
+  "rna": "AUGGCUGCCGUGCUGGAGGGACAGGAGCCCGAGGAGACCGCCGCCGCCGCCGAGGAUGCUGCCACCAGCACCCUGGAGGCGGUGGACGCCGGCCCUGGGGCUCCUUUCCUGCCAGCCGGCAACCAGCUGAACCUCGACCUGCGGCCUGGGGGGUGCCACCGGCUGCAGUACCUCUGCAGCCAGCAGCCCCCCCAGCUGCUGCAGGUCGAGUUCCUGCGGCUGAGCACCCACGAGGACCCUCAGCUGCUGGACGACACCCUGGCCAAGGUGCCCUGGAGUCUGCUGAGGCUGAGGUCCCUGGUGCUGAAGGGGGGCCAGAGCCGGGGCGCCCUGGGUGCCUGCCUGCACGGGACCCUGACCACUCUGCCCGCCGGCCUGUCAGACCUGGCCUGUCUGGCGCACCUGGACCUGAGCUUCAACAGGCUGGAGACCCUGCCCACCUGCGUCCCUGAGCUGCAUGGCCUGGAUGCGCUGCUGCUGAGUCACAAUCACCUGUCAGAGCUGCCAGAGGCCCUGGGGGCCCUGCCAGCUCUGACAUUCCUGACUGUGACUCACAACAGGCUGGAGAGGCUGCCCCUGACCCUGGGCAGCCUCUCCACCCUGCAGAGACUGGACCUGUCCGAGAACCUGCUGGAUACAAUUCCCUCAGAGAUCGGCAACCUGCGGUCUCUGAGCGAGCUGAAUCUGGCCUCCAACAGGCUCCAGUCUCUGCCCGCUAGCCUGGCCGGCCUGCGGUCUCUGCGGCUGCUGGUGCUGCACAGCAACCUGCUGACCAGCGUCCCCACCGGCCUGGUGCAUCUGCCCCUGAUCACCAGGCUGGACCUGCGGGACAACCGGCUGCGGGACCUGCCCGCCGAGCUGCUCGAUGCCCCUUUCGUGAGGCUGCAGGGGAACCCCCUGGGGGAGGCCAGCCCCGCCCCCCCAUCUCCCCCCGACAUCUCCCAGGUGCCAGAGAUGCCCCGGCUGCUGCUGACCAGCGACCUGGACAGCUUCCUGGUGACCCCCCACGGGUGUUCUGUGACCCUGGCCUGCGGCGUGAGGCUGCAGUUCCCAGCCGGAGCCACCACCACCCCAGUGACCAUCCACUACCGGCUCUGGCUGCCCGAGCCAGGGCUGGUGUCACUGGGGCCCCACGACUUCCUGCUGAGCUCCGUGCUGGAGCUGCAGCCUCACGGCGUGGCCUUCCAGCAGGACGUGAGCCUGUGGCUGCUGUUCGUGCCCCCUCGGGUGCGCAGAUGCAGGGAGGUGGUGGUGCGGACCCGCAGCAACAACACCUGGAACGACCUGGAGACCCAGCUGGAGGAGGAGGCACCUAAGCGCCUGUGGGCCAGGUGCCAGGUGCCCCACUUCAGCUGGUUCCUGGUCGUGCUGCGGCCCGUGUCCAACACCUGCCUGCUGCCACCCGAGGGGGCCCUGCUGUGCUCCUCCGGUCACCCCGGGGUGAGGGUGACCUUCCCCCCCGGGGUGACCGAGGAGCCACGGCAGGUGAGCAUGCAGGUGGUGCACAUGGCCGGGCUGGAGCUGCGCACCCUGCUGGAGGAGAGCGAGGCUAGCGUGAGCCCACUGCUGUGCCUGAGCCAGAGUGGGCCACCUAGCUUCCUGCAGCCUGUGACCGUGCAGCUGCCUCUGCCUCCCGGGGUGACCGGCUUCAGCCUGGACCGGAGCCACCUGCACCUGCUGUACAGGACUCCACUGACCACCACCUGGGAUGACAUCACCACCCAGGUGGCCCUGGAGUUCACCCACCUGUACGCCAGGUUCCAGGUGACCCACUUCAGCUGGUACUGGCUGUGGUACACCACAAAGACAUGCGUGGGGGGUCUGGCCAGGAAGGCCUGGGAGCGCCUGCGGCUGCACCGGGUGAACCUGAUCGCCCUGCAGCGCAGGCGCGACCCCGAGCAGGUGCUGCUGCAGUGCCUGCCUCGGAACAAGGUGGACGCCACCCUGUCCAGGUUGCUGGUGCGGUACCGGGGCCCCGAGCCCUCUGAGACCGUGGAGAUGUUCGAGGGGGAGAAGUUCUUCGCAGCCUUCGAGAGGGGCAUCGACGUGGACGCCGACCGGCCAGACUGUGUGGAUGGCCGCAUCUGCUUCGUGUUCUACAGCCACCUGAAGAACGUGAAGGAGGUGUACAUCACCACAGCUCUGGACCGGGAGGCCCAGGACGUCCGCGGGCAGGUGAGCUUCUACAGAGGCUCCCUGCCCGUGGAGGUCCCCGCAGAGGCCGAGGCCGCCAGGCAGCGGAAGGGCACCGAUGCCCUGUGGAUGGCCACACUGCCAAUCAAGCUGCCCCGGCUGAGAGGCGCUCAGGGCUCUGGGCAGGGAACCGAUUUCAGCCUGAUGCCCCUGAACCUGGGGGAUGCUGAGACCGGUUUCCUGACCCAGAGCAACCUCCUGAGCGUGGCCUCUCGGCUGGGGCCUGAUUGGCCAGCUGUGGCCCUCCACCUGGGCAUGCCCUACCACAAGCUGCAGCGCAUCCGCCAUGAGUUCAGGGACGACCUGGAUGGGCAGGUCCGGCACAUGCUGUUCAGCUGGGCCGAGCGCCAGACAGGCCAGCCCGGGGCCGUGGGCCACCUGGUCCAGGCCCUGGAGCAGUCUGACAGGCGGGACGUGGCAGAGGAGGUCAGGGCCAUCCUGGAGCUGGGCAGGCACAAGUACCAGGACAGCAUCCGGCGCACCGGCCUGGCCCCCGAGGACAGCACCCUGCCAGGGACCUCAGCCUCACAGACUCCAGAGAGCGCCCAGGCC",
+  "source_commit": null,
+  "status": "ok",
+  "structure": ".(((.(((((.(((((.((((.((((((((.(((.(.(((.((((((((((.(((.(((((....))))).)))...)))))))).)).))))))).)))))))).)))).)))))))))).))).......(((((((((((((((((((((.((..(.((((((((.....)))))))).)..))))))))))..))))))))))))).(((.(((((((((...((....))...))))))))).))).........((((..((((((((((((((((.(((((((((((((((((((((((...(((((((((.(((((.(((((((((((((((((((((.(((((((((((((.(((((((((((.(((((((((((.(((((((((((((((...(((.(((.((((..(((((((((((...((((((((((..((((((((((((.((((((..(((((((((((.(((((((((((.(((..(((((((((((.(((.(((((...)))))))).)))))))))))....))).)))))))).....(((.((((((((((((((........)))))))))))))).)))(((((((((((((((((..(((.....(((((((.((.(((.(((((((((((........))))))))))).))).)).))))))))))..))))).))))))))))))(((((.(((((((.(((((.((((((((((((..((((((......(((((...)))))))))))((((((((((((((((((.(((.......))))))))))))))...)).)))))...((((((((((.....)))))..))))).(((((((((((((((.((((((((.(((((((....((((((.(((.......)))))))))((((((((((((((((((..(((..(((((..(((((((.((((((..(((((((((((((((((((((((((((((((((((((.(((((((((......((((.(((.(((((((((((((((((.(((((((((((.((...((((((((((........(((((((((((((.....))))))))))))))))))))))).............)).)).)))))).)))))))))))))))))))).))))))).....))))((((..((((...))))..))))...(((((((((((((.(((...(((((.(((((.((((((((..(((((((.............((((((.((((..((((((((((..((.(((((((..(((((((.....))))))).))))))))).)))))))))))))).))))))))))))).))))).))).))))).)))))))))))))))))))))(((((((((((((((.(((((((((((((.(((((...)))))..)))))))))))))))))))).))))))))..((((((((((((((.....(((((((((((((((((..(((((((..(((((((((.((((((((.(((.(((((((.(((.((....)))))))))))))))))))))))..((((.((((......)))))))))))).))))))))))))..)))))))))))))).)))..))))))))))..))))(((((((((((((..(....(((((((((.((.......))))))))))))..)))))).......)))))))(((((...((((.(((......))).))))..)))))(((((....)))))..))))).)))))))))))..)))))))))....((..(((((((((.(((((..((((((......))))))))))))))))))))..))((((((((((((((...)))))))))).)))).....(((((...)))))))))))))))))))))))))))))))))))........)))))..)))..)))))))).)).)))))))).))))))))))))))))))))))))))))))..(((..(((..((((((((((((((..((((...((((((.(((((((((((.(((....))).))))))))))).)))))).))))..))))).))))).))))..))))))((((.((((((((((((.(((((((....))))))))))))))))))).))))))))))))))))))))))))))))))))).((((((....(((((.(((((.(((((((((((((((((.(..(((((((((((((((((((((((((((((((((((((((((.(((((((...((.((((.......)))).))))))))).)))))))))).)))))))).....)))))))...))))))))))))))))))))))))).)).))))))).)))))..)))))))))))......))).)))))))))))))))))))))))))))))....)).)))))))))))))).....))))).)))))))))).)))))))))))))))((((((((((.((((((....)))))))))))))).)).))))))))))).)).)).)))))))..))))))))...)))))..)).)))))))))).....)))))..........)))).)))))))))))))).....)))).....))))))))))))))))))))))))))))).).)))))..))))",
+  "system_seconds": 0.91,
+  "table_sha256": "e6c4a49036fe21f3266e7e53130011bd7725c62ebeabbe442f7f8f1cdf5890c4",
+  "tool": "sparsedesign",
+  "translation_valid": true,
+  "unix_started": 1790362172.9472144,
+  "user_seconds": 210.07,
+  "validation_checks": {
+    "canonical_pairs_and_minimum_hairpin": true,
+    "dot_bracket_balanced": true,
+    "rna_length": true,
+    "structure_length": true,
+    "translation": true
+  },
+  "wall_seconds": 211.01,
+  "wrapper_sha256": "94b79eb0ef22681b1364d19e461fa76baec7ae064f45382855f8c0ab84a94f45"
+}

@@ -1,0 +1,291 @@
+{
+  "copied_files": {
+    "analysis/workstation.csv": {
+      "original_path": "publication/code/evaluation/timings/analysis/workstation.csv",
+      "sha256": "3919f610195906a5f888d667315ec35b94181c8ec8df8c48e9e0a78dbce47a70"
+    },
+    "build.json": {
+      "original_path": "publication/code/evaluation/timings/build.json",
+      "sha256": "60a72b1ac69cb0ac45a0e6e8d83d9b2ed5a03aee8f8b985e6bbefb5757ad86c6"
+    },
+    "cpu-layout.json": {
+      "original_path": "publication/code/evaluation/timings/cpu-layout.json",
+      "sha256": "358b7053f7429dad676047ff1ce7db622b795926a8e09b97e7c09e286fd5622d"
+    },
+    "inputs/NP_000100.3.fasta": {
+      "original_path": "publication/code/evaluation/timings/inputs/NP_000100.3.fasta",
+      "sha256": "8bddb035f39b0dc2bb6c0e49656c170ad0da417bc814bd0f568922796d58cbf4"
+    },
+    "inputs/panel.json": {
+      "original_path": "publication/code/evaluation/timings/inputs/panel.json",
+      "sha256": "67ea49242cf351f2b523285fa7f6ad2275015aa0eea05b3e25f6fb4c4867ad9a"
+    },
+    "preflight-protocol.json": {
+      "original_path": "publication/code/evaluation/timings/preflight-protocol.json",
+      "sha256": "d75abc1efc00dc03433809cfad783ab49386b6958b28b69e67f45922a66ea96e"
+    },
+    "protocol.json": {
+      "original_path": "publication/code/evaluation/timings/protocol.json",
+      "sha256": "82cabb4ce151ba7f29b23257c75218f3f37676fedc75923a2c883af79f801744"
+    },
+    "source/data/codon_usage_freq_table_human.csv": {
+      "original_path": "publication/code/evaluation/timings/source/data/codon_usage_freq_table_human.csv",
+      "sha256": "e6c4a49036fe21f3266e7e53130011bd7725c62ebeabbe442f7f8f1cdf5890c4"
+    },
+    "source/data/codon_usage_freq_table_yeast.csv": {
+      "original_path": "publication/code/evaluation/timings/source/data/codon_usage_freq_table_yeast.csv",
+      "sha256": "14fffb18aadc8931c5645cc7308913b33d195f53b074b5cd4575f77e68ddcc44"
+    },
+    "source/publication_bench.cc": {
+      "original_path": "publication/code/evaluation/timings/source/publication_bench.cc",
+      "sha256": "5a0e6390645a741de18df26c03d27e30839ab5ea6792e4824fdaef5faf07b3ca"
+    },
+    "source/publication_campaign.py": {
+      "original_path": "publication/code/evaluation/timings/source/publication_campaign.py",
+      "sha256": "8bac37e9e5acc59db755b98b148b12be2b0b16bdfd4a833503e17bf33d4297f3"
+    },
+    "source/publication_campaign_final.py": {
+      "original_path": "publication/code/evaluation/timings/source/publication_campaign_final.py",
+      "sha256": "d02eea27ad26d10c697dec173ff59580200459db7d64694b582cdf3239a1d68f"
+    },
+    "source/run_publication_study.py": {
+      "original_path": "publication/code/evaluation/timings/source/run_publication_study.py",
+      "sha256": "cfa542d14e1187bea9de1c935d6ec3134a0eeb7eca7e3707c454739d6a8c5ce3"
+    },
+    "source/src/codon_table.cc": {
+      "original_path": "publication/code/evaluation/timings/source/src/codon_table.cc",
+      "sha256": "c789d7d0a686cfc9a7769ce74ed7527f558b6ba372df6e97d8ada2985dd680c1"
+    },
+    "source/src/codon_table.h": {
+      "original_path": "publication/code/evaluation/timings/source/src/codon_table.h",
+      "sha256": "67151333ca26eea8b33f61aa62e2d3afe1971b9ab58619faf3259394b086f7c4"
+    },
+    "source/src/dfa.cc": {
+      "original_path": "publication/code/evaluation/timings/source/src/dfa.cc",
+      "sha256": "5c9cf51c5bde337431e7cd1877ff14bfcae3d72a7eb1f0ad8e3dd8235291876b"
+    },
+    "source/src/dfa.h": {
+      "original_path": "publication/code/evaluation/timings/source/src/dfa.h",
+      "sha256": "82633367764bd7d785bef3482c3d06ba39170b2667918be917599776b2a6f2cf"
+    },
+    "source/src/energy.cc": {
+      "original_path": "publication/code/evaluation/timings/source/src/energy.cc",
+      "sha256": "b3b873789af2f2b42f41978a5d6aca5015596b787f1548f48d728c6d46d35793"
+    },
+    "source/src/energy.h": {
+      "original_path": "publication/code/evaluation/timings/source/src/energy.h",
+      "sha256": "fc4780fc0a6aba4416b17a0c4a1b700863d894868763694bc0ba053fcfba8fbb"
+    },
+    "source/src/fold_simple.cc": {
+      "original_path": "publication/code/evaluation/timings/source/src/fold_simple.cc",
+      "sha256": "a9443f7c7b13fe67ec354a2432b9afa607a97ccdf586056df0663b5206147184"
+    },
+    "source/src/fold_simple.h": {
+      "original_path": "publication/code/evaluation/timings/source/src/fold_simple.h",
+      "sha256": "7d57fe31f03ff62e968560be1ecebdef7bbb1dd9c4855b04006980aa5016f183"
+    },
+    "source/src/fold_turner.cc": {
+      "original_path": "publication/code/evaluation/timings/source/src/fold_turner.cc",
+      "sha256": "19eeecb55cb29bd47173dc14da868f0b534bd10e025313f15131f4985a31cd86"
+    },
+    "source/src/fold_turner.h": {
+      "original_path": "publication/code/evaluation/timings/source/src/fold_turner.h",
+      "sha256": "7a62c3c69015adfa3f162ef0ab14d5c5658aa063fa2db361728641cf5fdd29d1"
+    },
+    "source/src/main.cc": {
+      "original_path": "publication/code/evaluation/timings/source/src/main.cc",
+      "sha256": "703930f7f69d74655d1080459d44e0b127e077cf684033515a14528b972ae8df"
+    },
+    "source/src/vienna/energy_parameter.h": {
+      "original_path": "publication/code/evaluation/timings/source/src/vienna/energy_parameter.h",
+      "sha256": "683320cdf6b722db4768bf104ce31e4b86881b94477df5829d0e44806b129ff0"
+    },
+    "source/src/vienna/intl11.h": {
+      "original_path": "publication/code/evaluation/timings/source/src/vienna/intl11.h",
+      "sha256": "cd4f90e995096066834bf742f930cc5c512be69f2346c03bd9966e0b7e296e9b"
+    },
+    "source/src/vienna/intl21.h": {
+      "original_path": "publication/code/evaluation/timings/source/src/vienna/intl21.h",
+      "sha256": "1541c220cb712a4f9a56150db5a640e6c383a6795e602fc32cc8ce97c18e763a"
+    },
+    "source/src/vienna/intl22.h": {
+      "original_path": "publication/code/evaluation/timings/source/src/vienna/intl22.h",
+      "sha256": "84391186f9ac8d95cb9a7f845263fd32fb1562f31d0b60f628a071ecdaa09310"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r1/record.json": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r1/record.json",
+      "sha256": "eda9121cb2ab1047e12927ff25b9c9ac8810fb1de206c95fc7ff748e7660f9d5"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r1/stderr.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r1/stderr.txt",
+      "sha256": "25367eccd7ccb7c1bf12116e7a08a8e6f9e0f859fff4b7742bf24edac85e2837"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r1/stdout.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r1/stdout.txt",
+      "sha256": "61d9df110022fa43803ad969df3618a5ee49a7a4eb098afedef44c8ce2f28752"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r1/time.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r1/time.txt",
+      "sha256": "380a8d780456b669fb92403cd1af66d6d49dfef17df07e1e6602260520f28b71"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r2/record.json": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r2/record.json",
+      "sha256": "203b1ede477d8068760e6cf5bc2b07e80eff4da60a4a126a2766e9ad3ee3c0ec"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r2/stderr.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r2/stderr.txt",
+      "sha256": "25367eccd7ccb7c1bf12116e7a08a8e6f9e0f859fff4b7742bf24edac85e2837"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r2/stdout.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r2/stdout.txt",
+      "sha256": "61d9df110022fa43803ad969df3618a5ee49a7a4eb098afedef44c8ce2f28752"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r2/time.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r2/time.txt",
+      "sha256": "90f08c65e37b320bd4df4bbd6b09883d8d6ce5cb19e95667e9364a6a95318574"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r3/record.json": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r3/record.json",
+      "sha256": "4e6a684e934a59d0ddb7c69a61ca8a376fee0a6744907acd0bc8cd6862a56747"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r3/stderr.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r3/stderr.txt",
+      "sha256": "25367eccd7ccb7c1bf12116e7a08a8e6f9e0f859fff4b7742bf24edac85e2837"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r3/stdout.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r3/stdout.txt",
+      "sha256": "61d9df110022fa43803ad969df3618a5ee49a7a4eb098afedef44c8ce2f28752"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r3/time.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r3/time.txt",
+      "sha256": "a769361ee8aad8c5b29bd1d288f86cca629ec4bc47681b8029578f19dba371e8"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r4/record.json": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r4/record.json",
+      "sha256": "bae149ef179f2af1b7ff9cb6d38ecf1fcd776c586c50c805ed5720fe045f0be6"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r4/stderr.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r4/stderr.txt",
+      "sha256": "25367eccd7ccb7c1bf12116e7a08a8e6f9e0f859fff4b7742bf24edac85e2837"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r4/stdout.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r4/stdout.txt",
+      "sha256": "61d9df110022fa43803ad969df3618a5ee49a7a4eb098afedef44c8ce2f28752"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r4/time.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r4/time.txt",
+      "sha256": "0681c0fec54da2eaf5c38983208cf9397868eeca4076ae577e5bc7a70ecba683"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r5/record.json": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r5/record.json",
+      "sha256": "6a167b3a2060a840815b8dce09d9b469599fbc8ef304c97eafc2f6594ccb5889"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r5/stderr.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r5/stderr.txt",
+      "sha256": "25367eccd7ccb7c1bf12116e7a08a8e6f9e0f859fff4b7742bf24edac85e2837"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r5/stdout.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r5/stdout.txt",
+      "sha256": "61d9df110022fa43803ad969df3618a5ee49a7a4eb098afedef44c8ce2f28752"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r5/time.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-packed-r5/time.txt",
+      "sha256": "57b21b9e232c9c192dca1a1c65d7d3b372d41d48c476c11334fc43f51ed814f3"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r1/record.json": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r1/record.json",
+      "sha256": "528224da6dd2944de1e4dcca5166e4cf10534f6e92d228def337c9505df71de3"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r1/stderr.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r1/stderr.txt",
+      "sha256": "25367eccd7ccb7c1bf12116e7a08a8e6f9e0f859fff4b7742bf24edac85e2837"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r1/stdout.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r1/stdout.txt",
+      "sha256": "61d9df110022fa43803ad969df3618a5ee49a7a4eb098afedef44c8ce2f28752"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r1/time.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r1/time.txt",
+      "sha256": "fd66f7cbdb67886de0373cf85615c765002b505cd07f26d0bb4469ba8c0a4683"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r2/record.json": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r2/record.json",
+      "sha256": "8536b6a02264d20f480e6255bc5faf869910c00c237ada86f64a11d7b8b9ae74"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r2/stderr.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r2/stderr.txt",
+      "sha256": "25367eccd7ccb7c1bf12116e7a08a8e6f9e0f859fff4b7742bf24edac85e2837"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r2/stdout.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r2/stdout.txt",
+      "sha256": "61d9df110022fa43803ad969df3618a5ee49a7a4eb098afedef44c8ce2f28752"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r2/time.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r2/time.txt",
+      "sha256": "eb97c638c5d362ce62c1cacb28a8a97f0f7d4ee11613257af8346642a9fe198b"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r3/record.json": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r3/record.json",
+      "sha256": "08e9d60f4ebe75a8be1b5525a8051a9cd39056baf62d59770f27c9a2ed8a01d2"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r3/stderr.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r3/stderr.txt",
+      "sha256": "25367eccd7ccb7c1bf12116e7a08a8e6f9e0f859fff4b7742bf24edac85e2837"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r3/stdout.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r3/stdout.txt",
+      "sha256": "61d9df110022fa43803ad969df3618a5ee49a7a4eb098afedef44c8ce2f28752"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r3/time.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r3/time.txt",
+      "sha256": "3da297981382566dbb6f1c1affbf6600e684550bc0b849328ae40a2591592192"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r4/record.json": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r4/record.json",
+      "sha256": "519c2ce68cb613c0411dee665ccd847a712a24b1986aab1980a5960321f3861f"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r4/stderr.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r4/stderr.txt",
+      "sha256": "25367eccd7ccb7c1bf12116e7a08a8e6f9e0f859fff4b7742bf24edac85e2837"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r4/stdout.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r4/stdout.txt",
+      "sha256": "61d9df110022fa43803ad969df3618a5ee49a7a4eb098afedef44c8ce2f28752"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r4/time.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r4/time.txt",
+      "sha256": "68f6ee9de15c360decf04607d3e349dbbf4561bd65529fbd5ec2a4addaf0d5de"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r5/record.json": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r5/record.json",
+      "sha256": "5da813e6511a5eaf64aee510843cf9ea47c8a9ec432692e24a981c54d5a3246d"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r5/stderr.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r5/stderr.txt",
+      "sha256": "25367eccd7ccb7c1bf12116e7a08a8e6f9e0f859fff4b7742bf24edac85e2837"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r5/stdout.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r5/stdout.txt",
+      "sha256": "61d9df110022fa43803ad969df3618a5ee49a7a4eb098afedef44c8ce2f28752"
+    },
+    "timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r5/time.txt": {
+      "original_path": "publication/code/evaluation/timings/timings/runs/workstation-NP_000100.3-l0-j16-cli-square-r5/time.txt",
+      "sha256": "93a7f78cb3cb75eee38a7ca8d8f1d174cf564d520a9317db32e1ed659584d0e6"
+    }
+  },
+  "created_date": "2026-09-25",
+  "derived_files": {
+    "analysis/summary.json": {
+      "original_path": "publication/code/evaluation/timings/analysis/summary.json",
+      "original_sha256": "fb7709ba9ed902674609a785ccb2030fb6884bf9dfbd1d7c9b6da05d7d4dbe3b",
+      "selected_keys": [
+        "workstation",
+        "workstation_paired"
+      ]
+    }
+  },
+  "origin_archive": "publication/code/evaluation/timings",
+  "origin_archive_manifest_sha256": "9a6c2a2b99358d23193e6e8b2ece274aca54a9c94c5eeb26f0c5c29875e295a3",
+  "schema": "sparsedesign-commodity-pc-subset-v1",
+  "selection": "All ten registered workstation-phase runs; no run selected or excluded by its outcome."
+}

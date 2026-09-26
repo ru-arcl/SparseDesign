@@ -1,0 +1,149 @@
+{
+  "logical_cpu_layout": "CPU NODE SOCKET CORE    MAXMHZ ONLINE\n  0    0      0    0 6100.0000    yes\n  1    0      0    1 6100.0000    yes\n  2    0      0    2 6100.0000    yes\n  3    0      0    3 6100.0000    yes\n  4    0      0    4 6100.0000    yes\n  5    0      0    5 6100.0000    yes\n  6    0      0    6 6400.0000    yes\n  7    0      0    7 6400.0000    yes\n  8    0      0    8 4400.0000    yes\n  9    0      0    9 4400.0000    yes\n 10    0      0   10 4400.0000    yes\n 11    0      0   11 4400.0000    yes\n 12    0      0   12 4400.0000    yes\n 13    0      0   13 4400.0000    yes\n 14    0      0   14 4400.0000    yes\n 15    0      0   15 4400.0000    yes\n 16    0      0   16 4400.0000    yes\n 17    0      0   17 4400.0000    yes\n 18    0      0   18 4400.0000    yes\n 19    0      0   19 4400.0000    yes\n 20    0      0   20 4400.0000    yes\n 21    0      0   21 4400.0000    yes\n 22    0      0   22 4400.0000    yes\n 23    0      0   23 4400.0000    yes\n",
+  "frequency_policy": {
+    "cpu0": {
+      "cpuinfo_max_freq": "6100000",
+      "scaling_governor": "powersave",
+      "scaling_driver": "intel_pstate",
+      "energy_performance_preference": "performance"
+    },
+    "cpu1": {
+      "cpuinfo_max_freq": "6100000",
+      "scaling_governor": "powersave",
+      "scaling_driver": "intel_pstate",
+      "energy_performance_preference": "performance"
+    },
+    "cpu10": {
+      "cpuinfo_max_freq": "4400000",
+      "scaling_governor": "powersave",
+      "scaling_driver": "intel_pstate",
+      "energy_performance_preference": "performance"
+    },
+    "cpu11": {
+      "cpuinfo_max_freq": "4400000",
+      "scaling_governor": "powersave",
+      "scaling_driver": "intel_pstate",
+      "energy_performance_preference": "performance"
+    },
+    "cpu12": {
+      "cpuinfo_max_freq": "4400000",
+      "scaling_governor": "powersave",
+      "scaling_driver": "intel_pstate",
+      "energy_performance_preference": "performance"
+    },
+    "cpu13": {
+      "cpuinfo_max_freq": "4400000",
+      "scaling_governor": "powersave",
+      "scaling_driver": "intel_pstate",
+      "energy_performance_preference": "performance"
+    },
+    "cpu14": {
+      "cpuinfo_max_freq": "4400000",
+      "scaling_governor": "powersave",
+      "scaling_driver": "intel_pstate",
+      "energy_performance_preference": "performance"
+    },
+    "cpu15": {
+      "cpuinfo_max_freq": "4400000",
+      "scaling_governor": "powersave",
+      "scaling_driver": "intel_pstate",
+      "energy_performance_preference": "performance"
+    },
+    "cpu16": {
+      "cpuinfo_max_freq": "4400000",
+      "scaling_governor": "powersave",
+      "scaling_driver": "intel_pstate",
+      "energy_performance_preference": "performance"
+    },
+    "cpu17": {
+      "cpuinfo_max_freq": "4400000",
+      "scaling_governor": "powersave",
+      "scaling_driver": "intel_pstate",
+      "energy_performance_preference": "performance"
+    },
+    "cpu18": {
+      "cpuinfo_max_freq": "4400000",
+      "scaling_governor": "powersave",
+      "scaling_driver": "intel_pstate",
+      "energy_performance_preference": "performance"
+    },
+    "cpu19": {
+      "cpuinfo_max_freq": "4400000",
+      "scaling_governor": "powersave",
+      "scaling_driver": "intel_pstate",
+      "energy_performance_preference": "performance"
+    },
+    "cpu2": {
+      "cpuinfo_max_freq": "6100000",
+      "scaling_governor": "powersave",
+      "scaling_driver": "intel_pstate",
+      "energy_performance_preference": "performance"
+    },
+    "cpu20": {
+      "cpuinfo_max_freq": "4400000",
+      "scaling_governor": "powersave",
+      "scaling_driver": "intel_pstate",
+      "energy_performance_preference": "performance"
+    },
+    "cpu21": {
+      "cpuinfo_max_freq": "4400000",
+      "scaling_governor": "powersave",
+      "scaling_driver": "intel_pstate",
+      "energy_performance_preference": "performance"
+    },
+    "cpu22": {
+      "cpuinfo_max_freq": "4400000",
+      "scaling_governor": "powersave",
+      "scaling_driver": "intel_pstate",
+      "energy_performance_preference": "performance"
+    },
+    "cpu23": {
+      "cpuinfo_max_freq": "4400000",
+      "scaling_governor": "powersave",
+      "scaling_driver": "intel_pstate",
+      "energy_performance_preference": "performance"
+    },
+    "cpu3": {
+      "cpuinfo_max_freq": "6100000",
+      "scaling_governor": "powersave",
+      "scaling_driver": "intel_pstate",
+      "energy_performance_preference": "performance"
+    },
+    "cpu4": {
+      "cpuinfo_max_freq": "6100000",
+      "scaling_governor": "powersave",
+      "scaling_driver": "intel_pstate",
+      "energy_performance_preference": "performance"
+    },
+    "cpu5": {
+      "cpuinfo_max_freq": "6100000",
+      "scaling_governor": "powersave",
+      "scaling_driver": "intel_pstate",
+      "energy_performance_preference": "performance"
+    },
+    "cpu6": {
+      "cpuinfo_max_freq": "6400000",
+      "scaling_governor": "powersave",
+      "scaling_driver": "intel_pstate",
+      "energy_performance_preference": "performance"
+    },
+    "cpu7": {
+      "cpuinfo_max_freq": "6400000",
+      "scaling_governor": "powersave",
+      "scaling_driver": "intel_pstate",
+      "energy_performance_preference": "performance"
+    },
+    "cpu8": {
+      "cpuinfo_max_freq": "4400000",
+      "scaling_governor": "powersave",
+      "scaling_driver": "intel_pstate",
+      "energy_performance_preference": "performance"
+    },
+    "cpu9": {
+      "cpuinfo_max_freq": "4400000",
+      "scaling_governor": "powersave",
+      "scaling_driver": "intel_pstate",
+      "energy_performance_preference": "performance"
+    }
+  }
+}

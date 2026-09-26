@@ -1,0 +1,1262 @@
+[
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 0.0,
+    "repetition": 2,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 0.0,
+    "repetition": 2,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 0.0,
+    "repetition": 3,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 0.0,
+    "repetition": 5,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 0.0,
+    "repetition": 3,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 0.0,
+    "repetition": 4,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 0.0,
+    "repetition": 3,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 0.0,
+    "repetition": 5,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 0.0,
+    "repetition": 4,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 0.0,
+    "repetition": 5,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 0.0,
+    "repetition": 5,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 0.0,
+    "repetition": 3,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 0.0,
+    "repetition": 2,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 0.0,
+    "repetition": 4,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 0.0,
+    "repetition": 4,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 0.0,
+    "repetition": 4,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 0.0,
+    "repetition": 2,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 0.0,
+    "repetition": 3,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 0.0,
+    "repetition": 5,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 0.0,
+    "repetition": 4,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 0.0,
+    "repetition": 3,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 0.0,
+    "repetition": 2,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 0.0,
+    "repetition": 2,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 0.0,
+    "repetition": 5,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 4.0,
+    "repetition": 2,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 4.0,
+    "repetition": 2,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 4.0,
+    "repetition": 3,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 4.0,
+    "repetition": 5,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 4.0,
+    "repetition": 3,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 4.0,
+    "repetition": 4,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 4.0,
+    "repetition": 3,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 4.0,
+    "repetition": 5,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 4.0,
+    "repetition": 4,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 4.0,
+    "repetition": 5,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 4.0,
+    "repetition": 5,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 4.0,
+    "repetition": 3,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 4.0,
+    "repetition": 2,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 4.0,
+    "repetition": 4,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 4.0,
+    "repetition": 4,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 4.0,
+    "repetition": 4,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 4.0,
+    "repetition": 2,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 4.0,
+    "repetition": 3,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 4.0,
+    "repetition": 5,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 4.0,
+    "repetition": 4,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 4.0,
+    "repetition": 3,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 4.0,
+    "repetition": 2,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 4.0,
+    "repetition": 2,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 4.0,
+    "repetition": 5,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 0.0,
+    "repetition": 2,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 0.0,
+    "repetition": 4,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 0.0,
+    "repetition": 4,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 0.0,
+    "repetition": 4,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 0.0,
+    "repetition": 2,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 0.0,
+    "repetition": 2,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 0.0,
+    "repetition": 5,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 0.0,
+    "repetition": 3,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 0.0,
+    "repetition": 5,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 0.0,
+    "repetition": 5,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 0.0,
+    "repetition": 2,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 0.0,
+    "repetition": 3,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 0.0,
+    "repetition": 5,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 0.0,
+    "repetition": 4,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 0.0,
+    "repetition": 3,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 0.0,
+    "repetition": 3,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 4.0,
+    "repetition": 2,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 4.0,
+    "repetition": 4,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 4.0,
+    "repetition": 4,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 4.0,
+    "repetition": 4,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 4.0,
+    "repetition": 2,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 4.0,
+    "repetition": 2,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 4.0,
+    "repetition": 5,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 4.0,
+    "repetition": 3,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 4.0,
+    "repetition": 5,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 4.0,
+    "repetition": 5,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 4.0,
+    "repetition": 2,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 4.0,
+    "repetition": 3,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 4.0,
+    "repetition": 5,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 4.0,
+    "repetition": 4,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 4.0,
+    "repetition": 3,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 4.0,
+    "repetition": 3,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 0.0,
+    "repetition": 2,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 0.0,
+    "repetition": 4,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 0.0,
+    "repetition": 4,
+    "tool": "derna"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 0.0,
+    "repetition": 4,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 0.0,
+    "repetition": 2,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 0.0,
+    "repetition": 2,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 0.0,
+    "repetition": 5,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 0.0,
+    "repetition": 3,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 0.0,
+    "repetition": 5,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 0.0,
+    "repetition": 5,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 0.0,
+    "repetition": 2,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 0.0,
+    "repetition": 3,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 0.0,
+    "repetition": 5,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 0.0,
+    "repetition": 4,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 0.0,
+    "repetition": 3,
+    "tool": "derna"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 0.0,
+    "repetition": 3,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 4.0,
+    "repetition": 4,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 4.0,
+    "repetition": 2,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 4.0,
+    "repetition": 2,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 4.0,
+    "repetition": 5,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 4.0,
+    "repetition": 5,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 4.0,
+    "repetition": 4,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 4.0,
+    "repetition": 3,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 4.0,
+    "repetition": 3,
+    "tool": "derna"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 0.0,
+    "repetition": 5,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 0.0,
+    "repetition": 4,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q54TT4",
+    "lambda_value": 0.0,
+    "repetition": 4,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 0.0,
+    "repetition": 2,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 0.0,
+    "repetition": 3,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 0.0,
+    "repetition": 4,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 0.0,
+    "repetition": 4,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 0.0,
+    "repetition": 5,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 0.0,
+    "repetition": 4,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 0.0,
+    "repetition": 5,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q54TT4",
+    "lambda_value": 0.0,
+    "repetition": 2,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 0.0,
+    "repetition": 3,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 0.0,
+    "repetition": 2,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9ERV7",
+    "lambda_value": 0.0,
+    "repetition": 2,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 0.0,
+    "repetition": 3,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 0.0,
+    "repetition": 2,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 0.0,
+    "repetition": 2,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q54TT4",
+    "lambda_value": 0.0,
+    "repetition": 5,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9ERV7",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 0.0,
+    "repetition": 3,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9ERV7",
+    "lambda_value": 0.0,
+    "repetition": 5,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9ERV7",
+    "lambda_value": 0.0,
+    "repetition": 4,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 0.0,
+    "repetition": 2,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q54TT4",
+    "lambda_value": 0.0,
+    "repetition": 3,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 0.0,
+    "repetition": 4,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 0.0,
+    "repetition": 2,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 0.0,
+    "repetition": 5,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 0.0,
+    "repetition": 5,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 0.0,
+    "repetition": 3,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 0.0,
+    "repetition": 5,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q54TT4",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 0.0,
+    "repetition": 4,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 0.0,
+    "repetition": 3,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9ERV7",
+    "lambda_value": 0.0,
+    "repetition": 3,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 4.0,
+    "repetition": 5,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 4.0,
+    "repetition": 4,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q54TT4",
+    "lambda_value": 4.0,
+    "repetition": 4,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 4.0,
+    "repetition": 2,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 4.0,
+    "repetition": 3,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 4.0,
+    "repetition": 4,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 4.0,
+    "repetition": 4,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 4.0,
+    "repetition": 5,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 4.0,
+    "repetition": 4,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 4.0,
+    "repetition": 5,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q54TT4",
+    "lambda_value": 4.0,
+    "repetition": 2,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 4.0,
+    "repetition": 3,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 4.0,
+    "repetition": 2,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9ERV7",
+    "lambda_value": 4.0,
+    "repetition": 2,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 4.0,
+    "repetition": 3,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 4.0,
+    "repetition": 2,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 4.0,
+    "repetition": 2,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q54TT4",
+    "lambda_value": 4.0,
+    "repetition": 5,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9ERV7",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 4.0,
+    "repetition": 3,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9ERV7",
+    "lambda_value": 4.0,
+    "repetition": 5,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9ERV7",
+    "lambda_value": 4.0,
+    "repetition": 4,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 4.0,
+    "repetition": 2,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q54TT4",
+    "lambda_value": 4.0,
+    "repetition": 3,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 4.0,
+    "repetition": 4,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 4.0,
+    "repetition": 2,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 4.0,
+    "repetition": 5,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 4.0,
+    "repetition": 5,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 4.0,
+    "repetition": 3,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 4.0,
+    "repetition": 5,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q54TT4",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 4.0,
+    "repetition": 4,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 4.0,
+    "repetition": 3,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9ERV7",
+    "lambda_value": 4.0,
+    "repetition": 3,
+    "tool": "sparsedesign"
+  }
+]

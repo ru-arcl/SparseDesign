@@ -1,0 +1,178 @@
+{
+  "ensemble_ranking_inversions": {
+    "d0_mfe_vs_d0_aup": 7,
+    "d0_mfe_vs_d0_ensemble": 0,
+    "d0_vs_d2_mfe": 0,
+    "strict_mfe_pairs": 96
+  },
+  "exhaustive": {
+    "breakpoint_comparisons": 9,
+    "comparisons": 30,
+    "feasible_sequence_records": 1931,
+    "passed": 30
+  },
+  "failures": [],
+  "groups": {
+    "codon_precision": {
+      "cases": 30,
+      "passed": 30,
+      "statuses": {
+        "ok": 30
+      }
+    },
+    "constraint_edge": {
+      "cases": 3,
+      "passed": 3,
+      "statuses": {
+        "error": 2,
+        "ok": 1
+      }
+    },
+    "constraints": {
+      "cases": 30,
+      "passed": 30,
+      "statuses": {
+        "ok": 30
+      }
+    },
+    "natural_lambda": {
+      "cases": 35,
+      "passed": 35,
+      "statuses": {
+        "ok": 35
+      }
+    },
+    "synthetic_family": {
+      "cases": 24,
+      "passed": 24,
+      "statuses": {
+        "ok": 24
+      }
+    },
+    "ward": {
+      "cases": 8,
+      "passed": 8,
+      "statuses": {
+        "ok": 8
+      }
+    }
+  },
+  "loops": {
+    "cases": 28,
+    "passed": 28
+  },
+  "max_external_energy_error_kcal": 2.4414062522737368e-05,
+  "max_external_refold_error_kcal": 2.4414062522737368e-05,
+  "max_objective_error_centikcal": 7.275957614183426e-11,
+  "passed_design_cases": 130,
+  "precision_pairs": [
+    {
+      "candidate_ratio": 1.0,
+      "lambda_user": 0,
+      "mfe_difference_kcal": 0.0,
+      "protein": "A0A0A0MTA7",
+      "same_sequence": true
+    },
+    {
+      "candidate_ratio": 1.0,
+      "lambda_user": 1,
+      "mfe_difference_kcal": 0.0,
+      "protein": "A0A0A0MTA7",
+      "same_sequence": true
+    },
+    {
+      "candidate_ratio": 0.9941520467836257,
+      "lambda_user": 4,
+      "mfe_difference_kcal": 4.6,
+      "protein": "A0A0A0MTA7",
+      "same_sequence": false
+    },
+    {
+      "candidate_ratio": 1.0,
+      "lambda_user": 0,
+      "mfe_difference_kcal": 0,
+      "protein": "A0A0B7P221",
+      "same_sequence": true
+    },
+    {
+      "candidate_ratio": 1.0065217391304349,
+      "lambda_user": 1,
+      "mfe_difference_kcal": 0,
+      "protein": "A0A0B7P221",
+      "same_sequence": true
+    },
+    {
+      "candidate_ratio": 1.0102827763496145,
+      "lambda_user": 4,
+      "mfe_difference_kcal": 0,
+      "protein": "A0A0B7P221",
+      "same_sequence": true
+    },
+    {
+      "candidate_ratio": 1.0,
+      "lambda_user": 0,
+      "mfe_difference_kcal": 0.0,
+      "protein": "A7N011",
+      "same_sequence": true
+    },
+    {
+      "candidate_ratio": 1.0,
+      "lambda_user": 1,
+      "mfe_difference_kcal": 0.0,
+      "protein": "A7N011",
+      "same_sequence": true
+    },
+    {
+      "candidate_ratio": 0.9978991596638656,
+      "lambda_user": 4,
+      "mfe_difference_kcal": 0.0,
+      "protein": "A7N011",
+      "same_sequence": true
+    },
+    {
+      "candidate_ratio": 1.0,
+      "lambda_user": 0,
+      "mfe_difference_kcal": 0.0,
+      "protein": "A0L5J6",
+      "same_sequence": true
+    },
+    {
+      "candidate_ratio": 1.0019120458891013,
+      "lambda_user": 1,
+      "mfe_difference_kcal": 0.0,
+      "protein": "A0L5J6",
+      "same_sequence": true
+    },
+    {
+      "candidate_ratio": 1.0044191919191918,
+      "lambda_user": 4,
+      "mfe_difference_kcal": 0.0,
+      "protein": "A0L5J6",
+      "same_sequence": true
+    },
+    {
+      "candidate_ratio": 1.0,
+      "lambda_user": 0,
+      "mfe_difference_kcal": 0.0,
+      "protein": "A2STQ8",
+      "same_sequence": true
+    },
+    {
+      "candidate_ratio": 0.998167379352474,
+      "lambda_user": 1,
+      "mfe_difference_kcal": 0.0,
+      "protein": "A2STQ8",
+      "same_sequence": true
+    },
+    {
+      "candidate_ratio": 0.9988057324840764,
+      "lambda_user": 4,
+      "mfe_difference_kcal": 0.0,
+      "protein": "A2STQ8",
+      "same_sequence": true
+    }
+  ],
+  "schema_version": 1,
+  "timing_boundary": "One instrumented validation run; elapsed includes lattice, solve, traceback and candidate statistics; reported RSS sampled before optional dense checks. Never a controlled performance ratio.",
+  "total_design_cases": 130
+}

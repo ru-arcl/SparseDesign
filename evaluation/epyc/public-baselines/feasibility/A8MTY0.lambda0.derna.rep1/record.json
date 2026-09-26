@@ -1,0 +1,47 @@
+{
+  "aa_length": 619,
+  "accession": "A8MTY0",
+  "command": [
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/baseline-sources/derna/build/derna",
+    "-i",
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/inputs/A8MTY0.fasta",
+    "-o",
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/public-baselines/chains/derna-l0/feasibility/A8MTY0.lambda0.derna.rep1/native-result.txt",
+    "-m",
+    "1",
+    "-s",
+    "1",
+    "-c",
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/public-baselines/chains/derna-l0/feasibility/codon-table-derna.csv"
+  ],
+  "elapsed_observer_seconds": 240.00417413376272,
+  "executable_sha256": "68653d2efb9c244880d8e522edb437c8edcf04c7a0d2d0639d8191842b07ec5a",
+  "host_loadavg_started": "9.09 11.48 14.76 11/7761 2903130",
+  "input_fasta_sha256": "3431c6a13be7f9e34d0aa36af34448537ecb0d020816d9bc3e88bb3fe62db2cc",
+  "label": "A8MTY0.lambda0.derna.rep1",
+  "lambda_value": 0.0,
+  "native_mfe_kind": "native reported folding score",
+  "native_temporary_bin_bytes": 0,
+  "raw_file_sha256": {
+    "native-result.txt": "e97324b4107c21b7290a8c85dd17b86053396253e828a677501cf92288010efe",
+    "stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "stdout.txt": "4c3c0dfab7a4d7baa4b528b1823730661f3e8a81465b18e7f80b136c2a58119b",
+    "time.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "repetition": 1,
+  "returncode": -15,
+  "source_commit": "adecda8277add8c0b75512434bd729f30b8fd7d6",
+  "status": "timeout",
+  "table_sha256": "e6c4a49036fe21f3266e7e53130011bd7725c62ebeabbe442f7f8f1cdf5890c4",
+  "tool": "derna",
+  "translation_valid": false,
+  "unix_started": 1790360352.70457,
+  "validation_checks": {
+    "canonical_pairs_and_minimum_hairpin": true,
+    "dot_bracket_balanced": true,
+    "rna_length": false,
+    "structure_length": true,
+    "translation": false
+  },
+  "wrapper_sha256": "94b79eb0ef22681b1364d19e461fa76baec7ae064f45382855f8c0ab84a94f45"
+}

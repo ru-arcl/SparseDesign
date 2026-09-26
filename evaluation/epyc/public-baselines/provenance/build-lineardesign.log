@@ -1,0 +1,20 @@
+make: Entering directory '/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/baseline-sources/lineardesign'
+Compiling lineardesign_2D from src/beam_cky_parser.cc ...
+chmod +x lineardesign
+mkdir -p ./bin
+export LD_LIBRARY_PATH=.:D_LIBRARY_PATH
+if g++ -std=c++11 -Ofast -DFINAL_CHECK -DSPECIAL_HP -fpermissive src/linear_design.cpp -o bin/LinearDesign_2D src/Utils/libraries/LinearDesign_linux64.so; then \
+	echo "Linux system; compiled with g++; finished."; \
+	echo "Compilation Succeed!"; \
+else \
+	echo "Try another .so file."; \
+	if g++ -std=c++11 -Ofast -DFINAL_CHECK -DSPECIAL_HP -fpermissive src/linear_design.cpp -o bin/LinearDesign_2D src/Utils/libraries/LinearDesign_linux64_old.so; then \
+		echo "Linux system; compiled with g++; finished."; \
+		echo "Compilation Succeed!"; \
+	else \
+		echo "Compilation failed! Make sure it is either Linux-64 or Mac."; \
+	fi \
+fi 
+Linux system; compiled with g++; finished.
+Compilation Succeed!
+make: Leaving directory '/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/baseline-sources/lineardesign'

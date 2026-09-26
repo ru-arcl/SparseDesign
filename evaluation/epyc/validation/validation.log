@@ -1,0 +1,310 @@
+Waiting for validation compute lock
+Acquired validation compute lock
+natural-A0A0A0MTA7-l0 ok PASS
+natural-A0A0A0MTA7-l0.25 ok PASS
+natural-A0A0A0MTA7-l0.5 ok PASS
+natural-A0A0A0MTA7-l1 ok PASS
+natural-A0A0A0MTA7-l2 ok PASS
+natural-A0A0A0MTA7-l4 ok PASS
+natural-A0A0A0MTA7-l8 ok PASS
+natural-A0A0B7P221-l0 ok PASS
+natural-A0A0B7P221-l0.25 ok PASS
+natural-A0A0B7P221-l0.5 ok PASS
+natural-A0A0B7P221-l1 ok PASS
+natural-A0A0B7P221-l2 ok PASS
+natural-A0A0B7P221-l4 ok PASS
+natural-A0A0B7P221-l8 ok PASS
+natural-A7N011-l0 ok PASS
+natural-A7N011-l0.25 ok PASS
+natural-A7N011-l0.5 ok PASS
+natural-A7N011-l1 ok PASS
+natural-A7N011-l2 ok PASS
+natural-A7N011-l4 ok PASS
+natural-A7N011-l8 ok PASS
+natural-A0L5J6-l0 ok PASS
+natural-A0L5J6-l0.25 ok PASS
+natural-A0L5J6-l0.5 ok PASS
+natural-A0L5J6-l1 ok PASS
+natural-A0L5J6-l2 ok PASS
+natural-A0L5J6-l4 ok PASS
+natural-A0L5J6-l8 ok PASS
+natural-A2STQ8-l0 ok PASS
+natural-A2STQ8-l0.25 ok PASS
+natural-A2STQ8-l0.5 ok PASS
+natural-A2STQ8-l1 ok PASS
+natural-A2STQ8-l2 ok PASS
+natural-A2STQ8-l4 ok PASS
+natural-A2STQ8-l8 ok PASS
+ward-lineardesign-1 ok PASS
+ward-lineardesign-2 ok PASS
+ward-lineardesign-3 ok PASS
+ward-lineardesign-4 ok PASS
+ward-lineardesign-5 ok PASS
+ward-lineardesign-6 ok PASS
+ward-derna-1 ok PASS
+ward-derna-2 ok PASS
+precision-A0A0A0MTA7-l0-full ok PASS
+precision-A0A0A0MTA7-l0-rounded2 ok PASS
+precision-A0A0A0MTA7-l1-full ok PASS
+precision-A0A0A0MTA7-l1-rounded2 ok PASS
+precision-A0A0A0MTA7-l4-full ok PASS
+precision-A0A0A0MTA7-l4-rounded2 ok PASS
+precision-A0A0B7P221-l0-full ok PASS
+precision-A0A0B7P221-l0-rounded2 ok PASS
+precision-A0A0B7P221-l1-full ok PASS
+precision-A0A0B7P221-l1-rounded2 ok PASS
+precision-A0A0B7P221-l4-full ok PASS
+precision-A0A0B7P221-l4-rounded2 ok PASS
+precision-A7N011-l0-full ok PASS
+precision-A7N011-l0-rounded2 ok PASS
+precision-A7N011-l1-full ok PASS
+precision-A7N011-l1-rounded2 ok PASS
+precision-A7N011-l4-full ok PASS
+precision-A7N011-l4-rounded2 ok PASS
+precision-A0L5J6-l0-full ok PASS
+precision-A0L5J6-l0-rounded2 ok PASS
+precision-A0L5J6-l1-full ok PASS
+precision-A0L5J6-l1-rounded2 ok PASS
+precision-A0L5J6-l4-full ok PASS
+precision-A0L5J6-l4-rounded2 ok PASS
+precision-A2STQ8-l0-full ok PASS
+precision-A2STQ8-l0-rounded2 ok PASS
+precision-A2STQ8-l1-full ok PASS
+precision-A2STQ8-l1-rounded2 ok PASS
+precision-A2STQ8-l4-full ok PASS
+precision-A2STQ8-l4-rounded2 ok PASS
+family-S-32-l0 ok PASS
+family-S-32-l1 ok PASS
+family-S-32-l4 ok PASS
+family-S-64-l0 ok PASS
+family-S-64-l1 ok PASS
+family-S-64-l4 ok PASS
+family-S-128-l0 ok PASS
+family-S-128-l1 ok PASS
+family-S-128-l4 ok PASS
+family-S-256-l0 ok PASS
+family-S-256-l1 ok PASS
+family-S-256-l4 ok PASS
+family-YI-32-l0 ok PASS
+family-YI-32-l1 ok PASS
+family-YI-32-l4 ok PASS
+family-YI-64-l0 ok PASS
+family-YI-64-l1 ok PASS
+family-YI-64-l4 ok PASS
+family-YI-128-l0 ok PASS
+family-YI-128-l1 ok PASS
+family-YI-128-l4 ok PASS
+family-YI-256-l0 ok PASS
+family-YI-256-l1 ok PASS
+family-YI-256-l4 ok PASS
+motif-A7N011-m0-l0 ok PASS
+motif-A7N011-m0-l1 ok PASS
+motif-A7N011-m0-l4 ok PASS
+motif-A7N011-m1-l0 ok PASS
+motif-A7N011-m1-l1 ok PASS
+motif-A7N011-m1-l4 ok PASS
+motif-A7N011-m4-l0 ok PASS
+motif-A7N011-m4-l1 ok PASS
+motif-A7N011-m4-l4 ok PASS
+motif-A7N011-m8-l0 ok PASS
+motif-A7N011-m8-l1 ok PASS
+motif-A7N011-m8-l4 ok PASS
+motif-A7N011-m16-l0 ok PASS
+motif-A7N011-m16-l1 ok PASS
+motif-A7N011-m16-l4 ok PASS
+motif-A2STQ8-m0-l0 ok PASS
+motif-A2STQ8-m0-l1 ok PASS
+motif-A2STQ8-m0-l4 ok PASS
+motif-A2STQ8-m1-l0 ok PASS
+motif-A2STQ8-m1-l1 ok PASS
+motif-A2STQ8-m1-l4 ok PASS
+motif-A2STQ8-m4-l0 ok PASS
+motif-A2STQ8-m4-l1 ok PASS
+motif-A2STQ8-m4-l4 ok PASS
+motif-A2STQ8-m8-l0 ok PASS
+motif-A2STQ8-m8-l1 ok PASS
+motif-A2STQ8-m8-l4 ok PASS
+motif-A2STQ8-m16-l0 ok PASS
+motif-A2STQ8-m16-l1 ok PASS
+motif-A2STQ8-m16-l4 ok PASS
+constraint-M-infeasible error PASS
+constraint-K-infeasible error PASS
+constraint-F-overlap-feasible ok PASS
+{
+  "schema_version": 1,
+  "groups": {
+    "codon_precision": {
+      "cases": 30,
+      "passed": 30,
+      "statuses": {
+        "ok": 30
+      }
+    },
+    "constraint_edge": {
+      "cases": 3,
+      "passed": 3,
+      "statuses": {
+        "error": 2,
+        "ok": 1
+      }
+    },
+    "constraints": {
+      "cases": 30,
+      "passed": 30,
+      "statuses": {
+        "ok": 30
+      }
+    },
+    "natural_lambda": {
+      "cases": 35,
+      "passed": 35,
+      "statuses": {
+        "ok": 35
+      }
+    },
+    "synthetic_family": {
+      "cases": 24,
+      "passed": 24,
+      "statuses": {
+        "ok": 24
+      }
+    },
+    "ward": {
+      "cases": 8,
+      "passed": 8,
+      "statuses": {
+        "ok": 8
+      }
+    }
+  },
+  "total_design_cases": 130,
+  "passed_design_cases": 130,
+  "failures": [],
+  "exhaustive": {
+    "comparisons": 30,
+    "passed": 30,
+    "feasible_sequence_records": 1931,
+    "breakpoint_comparisons": 9
+  },
+  "loops": {
+    "cases": 28,
+    "passed": 28
+  },
+  "max_objective_error_centikcal": 7.275957614183426e-11,
+  "max_external_energy_error_kcal": 2.4414062522737368e-05,
+  "max_external_refold_error_kcal": 2.4414062522737368e-05,
+  "precision_pairs": [
+    {
+      "protein": "A0A0A0MTA7",
+      "lambda_user": 0,
+      "same_sequence": true,
+      "mfe_difference_kcal": 0.0,
+      "candidate_ratio": 1.0
+    },
+    {
+      "protein": "A0A0A0MTA7",
+      "lambda_user": 1,
+      "same_sequence": true,
+      "mfe_difference_kcal": 0.0,
+      "candidate_ratio": 1.0
+    },
+    {
+      "protein": "A0A0A0MTA7",
+      "lambda_user": 4,
+      "same_sequence": false,
+      "mfe_difference_kcal": 4.6,
+      "candidate_ratio": 0.9941520467836257
+    },
+    {
+      "protein": "A0A0B7P221",
+      "lambda_user": 0,
+      "same_sequence": true,
+      "mfe_difference_kcal": 0,
+      "candidate_ratio": 1.0
+    },
+    {
+      "protein": "A0A0B7P221",
+      "lambda_user": 1,
+      "same_sequence": true,
+      "mfe_difference_kcal": 0,
+      "candidate_ratio": 1.0065217391304349
+    },
+    {
+      "protein": "A0A0B7P221",
+      "lambda_user": 4,
+      "same_sequence": true,
+      "mfe_difference_kcal": 0,
+      "candidate_ratio": 1.0102827763496145
+    },
+    {
+      "protein": "A7N011",
+      "lambda_user": 0,
+      "same_sequence": true,
+      "mfe_difference_kcal": 0.0,
+      "candidate_ratio": 1.0
+    },
+    {
+      "protein": "A7N011",
+      "lambda_user": 1,
+      "same_sequence": true,
+      "mfe_difference_kcal": 0.0,
+      "candidate_ratio": 1.0
+    },
+    {
+      "protein": "A7N011",
+      "lambda_user": 4,
+      "same_sequence": true,
+      "mfe_difference_kcal": 0.0,
+      "candidate_ratio": 0.9978991596638656
+    },
+    {
+      "protein": "A0L5J6",
+      "lambda_user": 0,
+      "same_sequence": true,
+      "mfe_difference_kcal": 0.0,
+      "candidate_ratio": 1.0
+    },
+    {
+      "protein": "A0L5J6",
+      "lambda_user": 1,
+      "same_sequence": true,
+      "mfe_difference_kcal": 0.0,
+      "candidate_ratio": 1.0019120458891013
+    },
+    {
+      "protein": "A0L5J6",
+      "lambda_user": 4,
+      "same_sequence": true,
+      "mfe_difference_kcal": 0.0,
+      "candidate_ratio": 1.0044191919191918
+    },
+    {
+      "protein": "A2STQ8",
+      "lambda_user": 0,
+      "same_sequence": true,
+      "mfe_difference_kcal": 0.0,
+      "candidate_ratio": 1.0
+    },
+    {
+      "protein": "A2STQ8",
+      "lambda_user": 1,
+      "same_sequence": true,
+      "mfe_difference_kcal": 0.0,
+      "candidate_ratio": 0.998167379352474
+    },
+    {
+      "protein": "A2STQ8",
+      "lambda_user": 4,
+      "same_sequence": true,
+      "mfe_difference_kcal": 0.0,
+      "candidate_ratio": 0.9988057324840764
+    }
+  ],
+  "ensemble_ranking_inversions": {
+    "d0_vs_d2_mfe": 0,
+    "d0_mfe_vs_d0_ensemble": 0,
+    "d0_mfe_vs_d0_aup": 7,
+    "strict_mfe_pairs": 96
+  },
+  "timing_boundary": "One instrumented validation run; elapsed includes lattice, solve, traceback and candidate statistics; reported RSS sampled before optional dense checks. Never a controlled performance ratio."
+}

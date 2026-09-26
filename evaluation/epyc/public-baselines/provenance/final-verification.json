@@ -1,0 +1,54 @@
+{
+  "all_native_reported_energies_match_common_integer_quantum": true,
+  "all_raw_record_and_output_digests_verified": true,
+  "all_sparse_lambda0_diagnostics_pass": true,
+  "distinct_rna_sequences": 30,
+  "distinct_scored_outputs": 36,
+  "figure_review": "All eight timeout glyphs visually visible; plot instrumentation verifies every timeout has data-coordinate y=240 seconds.",
+  "final_analyzer_sha256": "8e533bc61aca31832b1d700b68f8dfd738bdf0c527e918b9ab66b52b4774c07d",
+  "final_plotter_sha256": "e8a8ac97ab34120158b25ef309b4c680453ab1d57dbf28d6086705a84a8f76b9",
+  "matched_lambda0_conditions": 4,
+  "outcomes": {
+    "not_attempted_after_cap": 46,
+    "ok": 252,
+    "timeout": 8
+  },
+  "results_sha256": "88198644638954969ab72f6dcfe8083b239fd2342e8b825658edbed4a6d59abb",
+  "status": "verified_complete",
+  "summary_sha256": "f0e58d2ffcd7d74e1dfbc824d982bffbfa389c14d4ae6965aec0440757236c5c",
+  "timeout_glyph_coordinates": [
+    [
+      4386,
+      240.0
+    ],
+    [
+      2745,
+      240.0
+    ],
+    [
+      1857,
+      240.0
+    ],
+    [
+      1857,
+      240.0
+    ],
+    [
+      4386,
+      240.0
+    ],
+    [
+      2745,
+      240.0
+    ],
+    [
+      1857,
+      240.0
+    ],
+    [
+      765,
+      240.0
+    ]
+  ],
+  "validated_outputs": 252
+}

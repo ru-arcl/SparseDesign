@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying SparseDesign manuscript and identify the source revision used."
+type: software
+title: "SparseDesign: Scaling Exact Coding-Sequence Design"
+authors:
+  - given-names: Hao
+    family-names: Lin
+    affiliation: "Department of Mechanical and Aerospace Engineering, Rutgers University"
+  - given-names: Jingjin
+    family-names: Yu
+    affiliation: "Department of Computer Science, Rutgers University"
+repository-code: "https://github.com/ru-arcl/SparseDesign"
+license-url: "https://github.com/ru-arcl/SparseDesign/blob/main/LICENSE.md"
+abstract: "Exact weighted codon-DFA design under a Turner-d0 model with candidate-sparse multiloop evaluation."

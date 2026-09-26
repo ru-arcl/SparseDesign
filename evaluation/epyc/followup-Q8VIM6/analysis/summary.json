@@ -1,0 +1,64 @@
+{
+  "build_sha256": "65964375dfdb4b7a74608e86d57196a6579b4b09fd15a2c48568df869d285eb7",
+  "complete_triplets": 5,
+  "generator_sha256": "dc664d7b640f5f3a2cb85d87e4e92fada4b9cbf880e93e758651e7b308e51950",
+  "interpretation": "Separate descriptive follow-up; never pooled with primary ablation. The original i9 quiet-host gate was not applied to these EPYC measurements.",
+  "platform": "AMD EPYC 7313",
+  "protocol_sha256": "ee9c8429fcb8c9f45ae2d58ceb4a7800e024a2f55d0188445e51c8b04170f44f",
+  "ratios": {
+    "dense_scalar_over_sparse": {
+      "max": 1.1152320691326358,
+      "median": 1.104724747363597,
+      "min": 1.0688642365033014,
+      "paired_values": [
+        1.104724747363597,
+        1.1152320691326358,
+        1.0688642365033014,
+        1.107381856350554,
+        1.0921231650249161
+      ]
+    },
+    "dense_typed_over_dense_scalar": {
+      "max": 1.4871940228119498,
+      "median": 1.467776388122459,
+      "min": 1.4395436371759514,
+      "paired_values": [
+        1.4457871552040134,
+        1.467776388122459,
+        1.4871940228119498,
+        1.4395436371759514,
+        1.4739679911071446
+      ]
+    },
+    "dense_typed_over_sparse": {
+      "max": 1.6369112983498368,
+      "median": 1.5971968497742872,
+      "min": 1.5896085037251682,
+      "paired_values": [
+        1.5971968497742872,
+        1.6369112983498368,
+        1.5896085037251682,
+        1.5941245052335333,
+        1.6097545875933523
+      ]
+    }
+  },
+  "record_sha256": {
+    "quiet-Q8VIM6-l4-j1-dense_scalar-square-r1": "9ebd43d20c7c353cb8efbc6105ca3707170b7fd5cb31096dd176c51c71ac0bb3",
+    "quiet-Q8VIM6-l4-j1-dense_scalar-square-r2": "929a7c0ffb43e673c8d9aedaf0e56df36bee9446f979bdd7c303297594743c60",
+    "quiet-Q8VIM6-l4-j1-dense_scalar-square-r3": "a1567b0e4fa0ecde9dbc1191c456f4c2e6a31ed10be94f4f743e6b067de01448",
+    "quiet-Q8VIM6-l4-j1-dense_scalar-square-r4": "230e0272ed8306643923f2045f3bfe9a152a81adf34db59b950c68ab40da4e3e",
+    "quiet-Q8VIM6-l4-j1-dense_scalar-square-r5": "b3c51b1f6c417d37071f144c03b2b9ab6854e4eaf0fe6df79fb554cd5d4690ba",
+    "quiet-Q8VIM6-l4-j1-dense_typed-square-r1": "0a72ef8c5b765a8945d51653a7e0d0028cb9af931027576dcd01cce826a5fc7a",
+    "quiet-Q8VIM6-l4-j1-dense_typed-square-r2": "8ccab1ff0a1e4c00bac9e67ba67735d7fd8e4ce23845e62811123d2eadefb598",
+    "quiet-Q8VIM6-l4-j1-dense_typed-square-r3": "4c106cda91f2bb12242680e7d8b5eb3b06902084e92a3b377afb8a06430a6668",
+    "quiet-Q8VIM6-l4-j1-dense_typed-square-r4": "2f40bbc2df7bd269ff02db7076cef6f5e3aa4e2dafaa99516a997597a0a7c657",
+    "quiet-Q8VIM6-l4-j1-dense_typed-square-r5": "edf75579788ee11417a48f310d64cdc44e69ed08798925ffb4dbaa8365350fa4",
+    "quiet-Q8VIM6-l4-j1-sparse-square-r1": "7a49c2f662aebbd5f17267c79c3a24a6481167f2c48effe74c433cf8dedd583d",
+    "quiet-Q8VIM6-l4-j1-sparse-square-r2": "1f659b47d47d5a339f5fc045fee7f7710f478c4b098f0d72ae6f7330956c836b",
+    "quiet-Q8VIM6-l4-j1-sparse-square-r3": "ce0cb5b5fe0cc3d423af92e05cb57729e59236a91ab09f3c625f99d1fa8f732e",
+    "quiet-Q8VIM6-l4-j1-sparse-square-r4": "8d6b31afbc429cd564cc347bdbe8e2599933e980503c2deff7d0be7e3b75748c",
+    "quiet-Q8VIM6-l4-j1-sparse-square-r5": "4a6cc6b307805070eaac15240c7c02dc8c6faf56c71a6de95676e74957dc099e"
+  },
+  "successful": 15
+}

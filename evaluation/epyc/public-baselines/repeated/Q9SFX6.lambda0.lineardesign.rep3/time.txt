@@ -1,0 +1,5 @@
+wall_seconds=24.89
+user_seconds=23.06
+system_seconds=1.51
+max_rss_kib=2984584
+exit_status=0

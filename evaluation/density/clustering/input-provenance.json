@@ -1,0 +1,9 @@
+{
+  "fasta_order": "lexicographic accession",
+  "fasta_sha256": "c67798bc2f3cc7a52b3cda0ec21501c3712917a15d00456543e83178d1642273",
+  "panel_records": 2000,
+  "purpose": "Read-only similarity clustering; no design optimization or new candidate measurements.",
+  "sequence_index_sha256": "f41ecf45d433b71528e05f5c6a36da394f4e3bd64f4d3a27548ab289c5f0c621",
+  "source_manifest_sha256": "f65051eb2a8d3e87d502cdcd6b45284773629743d63b284f802c50c8be36736d",
+  "source_zip_sha256": "dc67a6f84aac29f091a475d4d7189e802c5f40f6d933a14f2db2102f3247c6c9"
+}

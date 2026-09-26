@@ -1,0 +1,578 @@
+[
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9ERV7",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q54TT4",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "E9Q3G8",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "P19524",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q8VIM6",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q61879",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9ERV7",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q54TT4",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "E9Q3G8",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "P19524",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q8VIM6",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q61879",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "lineardesign"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9ERV7",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q54TT4",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "E9Q3G8",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "P19524",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q8VIM6",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q61879",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9ERV7",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q54TT4",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "E9Q3G8",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "P19524",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q8VIM6",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q61879",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "linearcdsfold"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q9ERV7",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q54TT4",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "E9Q3G8",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "P19524",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q8VIM6",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q61879",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q9ERV7",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q54TT4",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "E9Q3G8",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "P19524",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q8VIM6",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q61879",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "derna"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9ERV7",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q54TT4",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "E9Q3G8",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "P19524",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q8VIM6",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q61879",
+    "lambda_value": 0.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9TM30",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q54J90",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "P08311",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9SFX6",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "A8MTY0",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q7TMA2",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q9ERV7",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q54TT4",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "E9Q3G8",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "P19524",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q8VIM6",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  },
+  {
+    "accession": "Q61879",
+    "lambda_value": 4.0,
+    "repetition": 1,
+    "tool": "sparsedesign"
+  }
+]

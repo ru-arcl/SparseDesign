@@ -1,0 +1,496 @@
+[
+  {
+    "case": {
+      "kind": "special_hairpin",
+      "name": "special-CAACG",
+      "rna": "CAACG",
+      "structure": "(...)"
+    },
+    "checks_pass": true,
+    "energy_centikcal": 680,
+    "external_eval_kcal": 6.800000190734863,
+    "external_unconstrained_mfe_kcal": 0.0,
+    "fixed_sparse_centikcal": 0,
+    "process_seconds": 0.002566942945122719,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "special_hairpin",
+      "name": "special-GUUAC",
+      "rna": "GUUAC",
+      "structure": "(...)"
+    },
+    "checks_pass": true,
+    "energy_centikcal": 690,
+    "external_eval_kcal": 6.900000095367432,
+    "external_unconstrained_mfe_kcal": 0.0,
+    "fixed_sparse_centikcal": 0,
+    "process_seconds": 0.002625036984682083,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "special_hairpin",
+      "name": "special-CAACGG",
+      "rna": "CAACGG",
+      "structure": "(....)"
+    },
+    "checks_pass": true,
+    "energy_centikcal": 550,
+    "external_eval_kcal": 5.5,
+    "external_unconstrained_mfe_kcal": 0.0,
+    "fixed_sparse_centikcal": 0,
+    "process_seconds": 0.0025815460830926895,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "special_hairpin",
+      "name": "special-CCAAGG",
+      "rna": "CCAAGG",
+      "structure": "(....)"
+    },
+    "checks_pass": true,
+    "energy_centikcal": 330,
+    "external_eval_kcal": 3.299999952316284,
+    "external_unconstrained_mfe_kcal": 0.0,
+    "fixed_sparse_centikcal": 0,
+    "process_seconds": 0.0027893725782632828,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "special_hairpin",
+      "name": "special-CCACGG",
+      "rna": "CCACGG",
+      "structure": "(....)"
+    },
+    "checks_pass": true,
+    "energy_centikcal": 370,
+    "external_eval_kcal": 3.700000047683716,
+    "external_unconstrained_mfe_kcal": 0.0,
+    "fixed_sparse_centikcal": 0,
+    "process_seconds": 0.0025703459978103638,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "special_hairpin",
+      "name": "special-CCCAGG",
+      "rna": "CCCAGG",
+      "structure": "(....)"
+    },
+    "checks_pass": true,
+    "energy_centikcal": 340,
+    "external_eval_kcal": 3.4000000953674316,
+    "external_unconstrained_mfe_kcal": 0.0,
+    "fixed_sparse_centikcal": 0,
+    "process_seconds": 0.0025729071348905563,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "special_hairpin",
+      "name": "special-CCGAGG",
+      "rna": "CCGAGG",
+      "structure": "(....)"
+    },
+    "checks_pass": true,
+    "energy_centikcal": 350,
+    "external_eval_kcal": 3.5,
+    "external_unconstrained_mfe_kcal": 0.0,
+    "fixed_sparse_centikcal": 0,
+    "process_seconds": 0.002542564645409584,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "special_hairpin",
+      "name": "special-CCGCGG",
+      "rna": "CCGCGG",
+      "structure": "(....)"
+    },
+    "checks_pass": true,
+    "energy_centikcal": 360,
+    "external_eval_kcal": 3.5999999046325684,
+    "external_unconstrained_mfe_kcal": 0.0,
+    "fixed_sparse_centikcal": 0,
+    "process_seconds": 0.0025779549032449722,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "special_hairpin",
+      "name": "special-CCUAGG",
+      "rna": "CCUAGG",
+      "structure": "(....)"
+    },
+    "checks_pass": true,
+    "energy_centikcal": 370,
+    "external_eval_kcal": 3.700000047683716,
+    "external_unconstrained_mfe_kcal": 0.0,
+    "fixed_sparse_centikcal": 0,
+    "process_seconds": 0.0025780461728572845,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "special_hairpin",
+      "name": "special-CCUCGG",
+      "rna": "CCUCGG",
+      "structure": "(....)"
+    },
+    "checks_pass": true,
+    "energy_centikcal": 250,
+    "external_eval_kcal": 2.5,
+    "external_unconstrained_mfe_kcal": 0.0,
+    "fixed_sparse_centikcal": 0,
+    "process_seconds": 0.0025568492710590363,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "special_hairpin",
+      "name": "special-CUAAGG",
+      "rna": "CUAAGG",
+      "structure": "(....)"
+    },
+    "checks_pass": true,
+    "energy_centikcal": 360,
+    "external_eval_kcal": 3.5999999046325684,
+    "external_unconstrained_mfe_kcal": 0.0,
+    "fixed_sparse_centikcal": 0,
+    "process_seconds": 0.0025714170187711716,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "special_hairpin",
+      "name": "special-CUACGG",
+      "rna": "CUACGG",
+      "structure": "(....)"
+    },
+    "checks_pass": true,
+    "energy_centikcal": 280,
+    "external_eval_kcal": 2.799999952316284,
+    "external_unconstrained_mfe_kcal": 0.0,
+    "fixed_sparse_centikcal": 0,
+    "process_seconds": 0.0025737863034009933,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "special_hairpin",
+      "name": "special-CUCAGG",
+      "rna": "CUCAGG",
+      "structure": "(....)"
+    },
+    "checks_pass": true,
+    "energy_centikcal": 370,
+    "external_eval_kcal": 3.700000047683716,
+    "external_unconstrained_mfe_kcal": 0.0,
+    "fixed_sparse_centikcal": 0,
+    "process_seconds": 0.0025665946304798126,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "special_hairpin",
+      "name": "special-CUCCGG",
+      "rna": "CUCCGG",
+      "structure": "(....)"
+    },
+    "checks_pass": true,
+    "energy_centikcal": 270,
+    "external_eval_kcal": 2.700000047683716,
+    "external_unconstrained_mfe_kcal": 0.0,
+    "fixed_sparse_centikcal": 0,
+    "process_seconds": 0.002546435222029686,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "special_hairpin",
+      "name": "special-CUGCGG",
+      "rna": "CUGCGG",
+      "structure": "(....)"
+    },
+    "checks_pass": true,
+    "energy_centikcal": 280,
+    "external_eval_kcal": 2.799999952316284,
+    "external_unconstrained_mfe_kcal": 0.0,
+    "fixed_sparse_centikcal": 0,
+    "process_seconds": 0.00254223495721817,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "special_hairpin",
+      "name": "special-CUUAGG",
+      "rna": "CUUAGG",
+      "structure": "(....)"
+    },
+    "checks_pass": true,
+    "energy_centikcal": 350,
+    "external_eval_kcal": 3.5,
+    "external_unconstrained_mfe_kcal": 0.0,
+    "fixed_sparse_centikcal": 0,
+    "process_seconds": 0.0025935228914022446,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "special_hairpin",
+      "name": "special-CUUCGG",
+      "rna": "CUUCGG",
+      "structure": "(....)"
+    },
+    "checks_pass": true,
+    "energy_centikcal": 370,
+    "external_eval_kcal": 3.700000047683716,
+    "external_unconstrained_mfe_kcal": 0.0,
+    "fixed_sparse_centikcal": 0,
+    "process_seconds": 0.0025648456066846848,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "special_hairpin",
+      "name": "special-CUUUGG",
+      "rna": "CUUUGG",
+      "structure": "(....)"
+    },
+    "checks_pass": true,
+    "energy_centikcal": 370,
+    "external_eval_kcal": 3.700000047683716,
+    "external_unconstrained_mfe_kcal": 0.0,
+    "fixed_sparse_centikcal": 0,
+    "process_seconds": 0.003340652212500572,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "special_hairpin",
+      "name": "special-ACAGUACU",
+      "rna": "ACAGUACU",
+      "structure": "(......)"
+    },
+    "checks_pass": true,
+    "energy_centikcal": 330,
+    "external_eval_kcal": 3.299999952316284,
+    "external_unconstrained_mfe_kcal": 0.0,
+    "fixed_sparse_centikcal": 0,
+    "process_seconds": 0.0025509167462587357,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "special_hairpin",
+      "name": "special-ACAGUGAU",
+      "rna": "ACAGUGAU",
+      "structure": "(......)"
+    },
+    "checks_pass": true,
+    "energy_centikcal": 410,
+    "external_eval_kcal": 4.099999904632568,
+    "external_unconstrained_mfe_kcal": 0.0,
+    "fixed_sparse_centikcal": 0,
+    "process_seconds": 0.0033325329422950745,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "special_hairpin",
+      "name": "special-ACAGUGCU",
+      "rna": "ACAGUGCU",
+      "structure": "(......)"
+    },
+    "checks_pass": true,
+    "energy_centikcal": 340,
+    "external_eval_kcal": 3.4000000953674316,
+    "external_unconstrained_mfe_kcal": 0.0,
+    "fixed_sparse_centikcal": 0,
+    "process_seconds": 0.002576244994997978,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "special_hairpin",
+      "name": "special-ACAGUGUU",
+      "rna": "ACAGUGUU",
+      "structure": "(......)"
+    },
+    "checks_pass": true,
+    "energy_centikcal": 230,
+    "external_eval_kcal": 2.299999952316284,
+    "external_unconstrained_mfe_kcal": 0.0,
+    "fixed_sparse_centikcal": 0,
+    "process_seconds": 0.002551807090640068,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "cap_boundary",
+      "name": "twoloop-0-29",
+      "rna": "GGGGGGCCCCCCAAAGGGGGGAAAAAAAAAAAAAAAAAAAAAAAAAAAAACCCCCC",
+      "structure": "((((((((((((...)))))).............................))))))",
+      "total_unpaired": 29
+    },
+    "checks_pass": true,
+    "energy_centikcal": -2160,
+    "external_eval_kcal": -21.600000381469727,
+    "external_forced_feasible": true,
+    "external_forced_mfe_kcal": -21.600000381469727,
+    "external_unconstrained_mfe_kcal": -21.600000381469727,
+    "fixed_sparse_centikcal": -2160,
+    "process_seconds": 0.0025528650730848312,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "cap_boundary",
+      "name": "twoloop-0-30",
+      "rna": "GGGGGGCCCCCCAAAGGGGGGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACCCCCC",
+      "structure": "((((((((((((...))))))..............................))))))",
+      "total_unpaired": 30
+    },
+    "checks_pass": true,
+    "energy_centikcal": -2150,
+    "external_eval_kcal": -21.5,
+    "external_forced_feasible": true,
+    "external_forced_mfe_kcal": -21.5,
+    "external_unconstrained_mfe_kcal": -21.5,
+    "fixed_sparse_centikcal": -2150,
+    "process_seconds": 0.0025707855820655823,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "cap_boundary",
+      "name": "twoloop-0-31",
+      "rna": "GGGGGGCCCCCCAAAGGGGGGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACCCCCC",
+      "structure": "((((((((((((...))))))...............................))))))",
+      "total_unpaired": 31
+    },
+    "checks_pass": true,
+    "energy_centikcal": -2147,
+    "external_eval_kcal": -21.469999313354492,
+    "external_forced_feasible": false,
+    "external_forced_mfe_kcal": 100000.0,
+    "external_unconstrained_mfe_kcal": -15.670000076293945,
+    "fixed_sparse_centikcal": -1567,
+    "process_seconds": 0.0026677846908569336,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "cap_boundary",
+      "name": "twoloop-15-14",
+      "rna": "GGGGGGAAAAAAAAAAAAAAACCCCCCAAAGGGGGGAAAAAAAAAAAAAACCCCCC",
+      "structure": "((((((...............((((((...))))))..............))))))",
+      "total_unpaired": 29
+    },
+    "checks_pass": true,
+    "energy_centikcal": -2330,
+    "external_eval_kcal": -23.299999237060547,
+    "external_forced_feasible": true,
+    "external_forced_mfe_kcal": -23.299999237060547,
+    "external_unconstrained_mfe_kcal": -23.299999237060547,
+    "fixed_sparse_centikcal": -2330,
+    "process_seconds": 0.002550596371293068,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "cap_boundary",
+      "name": "twoloop-15-15",
+      "rna": "GGGGGGAAAAAAAAAAAAAAACCCCCCAAAGGGGGGAAAAAAAAAAAAAAACCCCCC",
+      "structure": "((((((...............((((((...))))))...............))))))",
+      "total_unpaired": 30
+    },
+    "checks_pass": true,
+    "energy_centikcal": -2390,
+    "external_eval_kcal": -23.899999618530273,
+    "external_forced_feasible": true,
+    "external_forced_mfe_kcal": -23.899999618530273,
+    "external_unconstrained_mfe_kcal": -23.899999618530273,
+    "fixed_sparse_centikcal": -2390,
+    "process_seconds": 0.0025646258145570755,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  },
+  {
+    "case": {
+      "kind": "cap_boundary",
+      "name": "twoloop-15-16",
+      "rna": "GGGGGGAAAAAAAAAAAAAAACCCCCCAAAGGGGGGAAAAAAAAAAAAAAAACCCCCC",
+      "structure": "((((((...............((((((...))))))................))))))",
+      "total_unpaired": 31
+    },
+    "checks_pass": true,
+    "energy_centikcal": -2327,
+    "external_eval_kcal": -23.270000457763672,
+    "external_forced_feasible": false,
+    "external_forced_mfe_kcal": 100000.0,
+    "external_unconstrained_mfe_kcal": -21.299999237060547,
+    "fixed_sparse_centikcal": -2130,
+    "process_seconds": 0.0025672875344753265,
+    "returncode": 0,
+    "status": "ok",
+    "stderr": ""
+  }
+]

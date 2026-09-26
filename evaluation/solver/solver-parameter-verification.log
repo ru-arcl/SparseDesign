@@ -1,0 +1,9 @@
+ViennaRNA 2.7.2, parameter digest 2a43345a495850cf...
+  verified energy_parameter.h
+  verified intl11.h
+  verified intl21.h
+  verified intl22.h
+parameter verification: PASS (pinned source and all four headers)
+header numeric drift rejected: error: generated parameter headers differ: energy_parameter.h
+source digest drift rejected: error: Turner-2004 source digest mismatch: expected 2a43345a495850cfd2e0a78c57c6e02085e6df3c53496fe3289dc294d21732ad, observed b334a8b7922743b83d90aa0c50f8f94826ca72a32c4d5f0c9997900711f344f4
+parameter positive/negative controls: PASS

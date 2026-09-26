@@ -1,0 +1,8 @@
+{
+  "download_name": "mmseqs-linux-avx2.tar.gz",
+  "archive_sha256": "11e8cb22e0b426f840dc685c68810103b360214ea7db17b3ffc23e0001f6c272",
+  "archive_bytes": 19047702,
+  "obtained_by": "Parent task before this clustering task",
+  "upstream": "https://github.com/soedinglab/MMseqs2",
+  "binary_redistributed": false
+}

@@ -1,0 +1,1130 @@
+{
+  "analysis_sources": [
+    {
+      "original_path": "research/analyze_sparse_ablation.py",
+      "sha256": "c20f9ca0cef50cef5fbc933d67f555a90b9b477384f28553db383efbfa281523",
+      "stored_path": "source/analyze_sparse_ablation.py"
+    },
+    {
+      "original_path": "research/analyze_dystrophin_bench.py",
+      "sha256": "19546cd06c97cea60790aa1956d6034f573762ad0854a8304614b22ea48f4909",
+      "stored_path": "source/analyze_dystrophin_bench.py"
+    },
+    {
+      "original_path": "research/analyze_packed_layout.py",
+      "sha256": "f61dc09cc07174d7f1a7d43e5119c1779a6be35be8521b4daff740bd3cd3ea1e",
+      "stored_path": "source/analyze_packed_layout.py"
+    }
+  ],
+  "files": [
+    {
+      "logical_path": "ablation/ablation-gxx-verbose.txt",
+      "original_bytes": 1600,
+      "original_path": "research/results/ablation-gxx-verbose.txt",
+      "original_sha256": "cc20edc2a78805bc1ad73c5b8ecd83844906f82cb3a8ae25ecd06cb2a7dbba7b",
+      "stored_bytes": 785,
+      "stored_path": "raw/ablation/ablation-gxx-verbose.txt.gz",
+      "stored_sha256": "981c2f20fc02d9d0c731ecb72d61c41df2e9485164cac1737f5bc2510722f4de"
+    },
+    {
+      "logical_path": "ablation/ablation-gxx-version.txt",
+      "original_bytes": 246,
+      "original_path": "research/results/ablation-gxx-version.txt",
+      "original_sha256": "9eaf9b7f4b11c2e84e2478c2ceb0e4f48f4ba88565bcfc832b3bce49847dda6d",
+      "stored_bytes": 213,
+      "stored_path": "raw/ablation/ablation-gxx-version.txt.gz",
+      "stored_sha256": "ed478999d9d55edcfa092a57c15d9569020e479a2da81ea1c4cb0fcb6f094818"
+    },
+    {
+      "logical_path": "ablation/ablation-harness-ldd.txt",
+      "original_bytes": 447,
+      "original_path": "research/results/ablation-harness-ldd.txt",
+      "original_sha256": "ed1750e4785a0fe06f62fc9a296c0878088e51a9ab76187b85df3d74baa96055",
+      "stored_bytes": 178,
+      "stored_path": "raw/ablation/ablation-harness-ldd.txt.gz",
+      "stored_sha256": "3e4cccc67c4ec491800c672f2ca3f3f4fa00dc29fac948f7540e489315385d26"
+    },
+    {
+      "logical_path": "ablation/ablation-python-version.txt",
+      "original_bytes": 15,
+      "original_path": "research/results/ablation-python-version.txt",
+      "original_sha256": "f6b75e07f1488db28a89724a522725e3e01af3dc78f6fd365f17eb4059e41056",
+      "stored_bytes": 35,
+      "stored_path": "raw/ablation/ablation-python-version.txt.gz",
+      "stored_sha256": "6bcff323e22596cefb292b320a8ef7b3ec541d0d1c365409a63d043ce1828de8"
+    },
+    {
+      "logical_path": "ablation/hardware-arrakis-cpu-node.txt",
+      "original_bytes": 528,
+      "original_path": "research/results/hardware-arrakis-cpu-node.txt",
+      "original_sha256": "66a319c324b60bfc2392aab3813cbd4753a24eb25b02e689930ce5ffcaaed004",
+      "stored_bytes": 124,
+      "stored_path": "raw/ablation/hardware-arrakis-cpu-node.txt.gz",
+      "stored_sha256": "fd55c4128f3036cdfacb51760d803f37642b203406fa4b3b72d360acd5e3f344"
+    },
+    {
+      "logical_path": "ablation/hardware-arrakis-lscpu.json",
+      "original_bytes": 4847,
+      "original_path": "research/results/hardware-arrakis-lscpu.json",
+      "original_sha256": "8eca4c270e4cc7b967f82832c899022c2af989ae064726db1c2ce216af72d6e8",
+      "stored_bytes": 1433,
+      "stored_path": "raw/ablation/hardware-arrakis-lscpu.json.gz",
+      "stored_sha256": "5b2010f18fbc111519d6adc27a8fa3f46d87ba709abc53e73a8131357386cb49"
+    },
+    {
+      "logical_path": "ablation/hardware-arrakis-memory.txt",
+      "original_bytes": 30,
+      "original_path": "research/results/hardware-arrakis-memory.txt",
+      "original_sha256": "d3d9bcb336b6d28cc77a9187ec3540a770391a6736313a9c6b2ad9c1093d664d",
+      "stored_bytes": 45,
+      "stored_path": "raw/ablation/hardware-arrakis-memory.txt.gz",
+      "stored_sha256": "811a20259de2ae8a7e9e6c6f1af27ead803ecbd74feb95f28854997f303b1cbc"
+    },
+    {
+      "logical_path": "ablation/hardware-arrakis-uname.txt",
+      "original_bytes": 123,
+      "original_path": "research/results/hardware-arrakis-uname.txt",
+      "original_sha256": "eb296fc0404a3c1530e46775eef08de13761a1de76cab6ca8fde6957cd65b7d1",
+      "stored_bytes": 128,
+      "stored_path": "raw/ablation/hardware-arrakis-uname.txt.gz",
+      "stored_sha256": "816cc1d1eb8e664979f9c2eca8d6d726a8e14ef029019571aad3de15b34398f7"
+    },
+    {
+      "logical_path": "ablation/sparse-ablation-P30281-Q6UXY8-3x-2026-07-14.csv",
+      "original_bytes": 156788,
+      "original_path": "research/results/sparse-ablation-P30281-Q6UXY8-3x-2026-07-14.csv",
+      "original_sha256": "254cb24881d302090112133772e060c5271346e1e1087cc5a2d9546a686782ac",
+      "stored_bytes": 8880,
+      "stored_path": "raw/ablation/sparse-ablation-P30281-Q6UXY8-3x-2026-07-14.csv.gz",
+      "stored_sha256": "20b84c6d04f29a7196a43bdba5bd4b82dafb663cfbacf91d94d8476fbb5b42f0"
+    },
+    {
+      "logical_path": "ablation/sparse-ablation-build-SHA256SUMS",
+      "original_bytes": 2868,
+      "original_path": "research/results/sparse-ablation-build-SHA256SUMS",
+      "original_sha256": "9f89c03c17c0c20baa717122bd6ed2a4b187c054df6cc2a5e18b25de5e118193",
+      "stored_bytes": 1385,
+      "stored_path": "raw/ablation/sparse-ablation-build-SHA256SUMS.gz",
+      "stored_sha256": "c0b2b7a077e4c658e9992930abacdc2f282c5643128a39a478e889311061fd09"
+    },
+    {
+      "logical_path": "ablation/sparse-ablation-build.md",
+      "original_bytes": 4503,
+      "original_path": "research/results/sparse-ablation-build.md",
+      "original_sha256": "db2595ff8d91b746a6ebe580c027b1de8067dd0a34c30920d56dbcbc8cbb374a",
+      "stored_bytes": 2319,
+      "stored_path": "raw/ablation/sparse-ablation-build.md.gz",
+      "stored_sha256": "5d2ef2c974e1afd78308f9a456dccedc87d2795ec0b33a89a4f3e8e8ab0ebceb"
+    },
+    {
+      "logical_path": "ablation/sparse-ablation-final-square-build.md",
+      "original_bytes": 1805,
+      "original_path": "research/results/sparse-ablation-final-square-build.md",
+      "original_sha256": "f2b045d8246b1564cdaecafa3806f9d1a7006c51c4ccb30cfbacd43b46d15c8d",
+      "stored_bytes": 997,
+      "stored_path": "raw/ablation/sparse-ablation-final-square-build.md.gz",
+      "stored_sha256": "f128be28fa286162f7fd691a88a7ca11731c5bea0e714ced0959811837218373"
+    },
+    {
+      "logical_path": "inputs/NP_000100.3_dystrophin_Dp427c.fasta",
+      "original_bytes": 3784,
+      "original_path": "research/data/NP_000100.3_dystrophin_Dp427c.fasta",
+      "original_sha256": "8bddb035f39b0dc2bb6c0e49656c170ad0da417bc814bd0f568922796d58cbf4",
+      "stored_bytes": 2283,
+      "stored_path": "raw/inputs/NP_000100.3_dystrophin_Dp427c.fasta.gz",
+      "stored_sha256": "bfdd85ebd374ea68ab43d068c509befb9ab2997ef5c4b684f1d30222ae4a6708"
+    },
+    {
+      "logical_path": "inputs/NP_000100.3_dystrophin_Dp427c.md",
+      "original_bytes": 4241,
+      "original_path": "research/data/NP_000100.3_dystrophin_Dp427c.md",
+      "original_sha256": "140dd8613581d8af171fc1bb85c84d615180580487ab37575f94f6f5ef33cae7",
+      "stored_bytes": 2266,
+      "stored_path": "raw/inputs/NP_000100.3_dystrophin_Dp427c.md.gz",
+      "stored_sha256": "19adf7f45ac37ac25d701baf30619f16b662602c85a1c7204d3fb92ad1f27c49"
+    },
+    {
+      "logical_path": "july13/README.md",
+      "original_bytes": 6033,
+      "original_path": "research/results/dystrophin-2026-07-13/README.md",
+      "original_sha256": "4e2cdc3f455f9c6aa9302b0fd3b03e1a375a6b03bfa2266de4fbc0f7d8ec8ee3",
+      "stored_bytes": 2996,
+      "stored_path": "raw/july13/README.md.gz",
+      "stored_sha256": "851299aa0fb62d2a9db1f6956ca9ae43fb103be3844a4cc300b4b89761ed80b0"
+    },
+    {
+      "logical_path": "july13/SHA256SUMS",
+      "original_bytes": 5671,
+      "original_path": "research/results/dystrophin-2026-07-13/SHA256SUMS",
+      "original_sha256": "14d4e6764fbd5d5e46fe1394601e1d44733f0be7b375462aa1bb73a9563cb16d",
+      "stored_bytes": 2148,
+      "stored_path": "raw/july13/SHA256SUMS.gz",
+      "stored_sha256": "bd2cbbe3028ddadcd282c657db303e935aeb311167a277e41d245d83448c76eb"
+    },
+    {
+      "logical_path": "july13/clean_j1.out",
+      "original_bytes": 22163,
+      "original_path": "research/results/dystrophin-2026-07-13/clean_j1.out",
+      "original_sha256": "bf14bdcc18f0245c8289efdfa9759e0c48e80b3090d40d273c033b8b71cc0980",
+      "stored_bytes": 5187,
+      "stored_path": "raw/july13/clean_j1.out.gz",
+      "stored_sha256": "8d19978ce06d4ebf696f2c97f601bdd412521317d3e588a737b3ad2dcda0e934"
+    },
+    {
+      "logical_path": "july13/clean_j1.time",
+      "original_bytes": 916,
+      "original_path": "research/results/dystrophin-2026-07-13/clean_j1.time",
+      "original_sha256": "c2ebbac7924b19969229983fefd73fa884e5ac92dd6ef4eeca961a91af3b2c47",
+      "stored_bytes": 477,
+      "stored_path": "raw/july13/clean_j1.time.gz",
+      "stored_sha256": "48c458f1006c1181b6029dbc6f3eb44c13e60c78160c77f34f5ca75c1e457d5d"
+    },
+    {
+      "logical_path": "july13/clean_j16.out",
+      "original_bytes": 22163,
+      "original_path": "research/results/dystrophin-2026-07-13/clean_j16.out",
+      "original_sha256": "bf14bdcc18f0245c8289efdfa9759e0c48e80b3090d40d273c033b8b71cc0980",
+      "stored_bytes": 5187,
+      "stored_path": "raw/july13/clean_j16.out.gz",
+      "stored_sha256": "8d19978ce06d4ebf696f2c97f601bdd412521317d3e588a737b3ad2dcda0e934"
+    },
+    {
+      "logical_path": "july13/clean_j16.time",
+      "original_bytes": 924,
+      "original_path": "research/results/dystrophin-2026-07-13/clean_j16.time",
+      "original_sha256": "6a60088a2ffd3c64e26d72d75870c831c1aa32656ea661c7e5267e4866377a7d",
+      "stored_bytes": 484,
+      "stored_path": "raw/july13/clean_j16.time.gz",
+      "stored_sha256": "841bd96ef87ad1d28bc499a69378fbe20604f6d8ec4aeac5fde1f3eefd9f4678"
+    },
+    {
+      "logical_path": "july13/clean_j16.validation.json",
+      "original_bytes": 3898,
+      "original_path": "research/results/dystrophin-2026-07-13/clean_j16.validation.json",
+      "original_sha256": "9e6301a949263c65fd1b988510b764e45572f2fd6b1d5693dd9bcb1f1fca93d3",
+      "stored_bytes": 1544,
+      "stored_path": "raw/july13/clean_j16.validation.json.gz",
+      "stored_sha256": "25d625dc9cbc8212906ef56f60d9db48932fd9a651c17a706afa9bd8d642a7c4"
+    },
+    {
+      "logical_path": "july13/clean_j16.validation.md",
+      "original_bytes": 2397,
+      "original_path": "research/results/dystrophin-2026-07-13/clean_j16.validation.md",
+      "original_sha256": "44f1c136328a7a17fd4a6e2a50a9df0badd2047868fcab77f0ec761337c5f849",
+      "stored_bytes": 1249,
+      "stored_path": "raw/july13/clean_j16.validation.md.gz",
+      "stored_sha256": "f44cab4e3748047ebafd14f0c44c37a162a51e18947ff0b102c5364ca058a998"
+    },
+    {
+      "logical_path": "july13/clean_j2.out",
+      "original_bytes": 22163,
+      "original_path": "research/results/dystrophin-2026-07-13/clean_j2.out",
+      "original_sha256": "bf14bdcc18f0245c8289efdfa9759e0c48e80b3090d40d273c033b8b71cc0980",
+      "stored_bytes": 5187,
+      "stored_path": "raw/july13/clean_j2.out.gz",
+      "stored_sha256": "8d19978ce06d4ebf696f2c97f601bdd412521317d3e588a737b3ad2dcda0e934"
+    },
+    {
+      "logical_path": "july13/clean_j2.time",
+      "original_bytes": 919,
+      "original_path": "research/results/dystrophin-2026-07-13/clean_j2.time",
+      "original_sha256": "5d2c22749e813663fa4303bb4ed2b252e7718609456aec200a32989efab90b5a",
+      "stored_bytes": 481,
+      "stored_path": "raw/july13/clean_j2.time.gz",
+      "stored_sha256": "5b357c0f9cae22bcd78f8c61f6f9b01fa1e5f028659e69a484025b6534e40556"
+    },
+    {
+      "logical_path": "july13/clean_j4.out",
+      "original_bytes": 22163,
+      "original_path": "research/results/dystrophin-2026-07-13/clean_j4.out",
+      "original_sha256": "bf14bdcc18f0245c8289efdfa9759e0c48e80b3090d40d273c033b8b71cc0980",
+      "stored_bytes": 5187,
+      "stored_path": "raw/july13/clean_j4.out.gz",
+      "stored_sha256": "8d19978ce06d4ebf696f2c97f601bdd412521317d3e588a737b3ad2dcda0e934"
+    },
+    {
+      "logical_path": "july13/clean_j4.time",
+      "original_bytes": 920,
+      "original_path": "research/results/dystrophin-2026-07-13/clean_j4.time",
+      "original_sha256": "271c7c8de39bf3f23c211342b2a2f6fb229abdb7707ad2912292968feace0c52",
+      "stored_bytes": 481,
+      "stored_path": "raw/july13/clean_j4.time.gz",
+      "stored_sha256": "c4b13ba81a72d1c123e8666638cd5c469637fadddafdd4a142809cede62243aa"
+    },
+    {
+      "logical_path": "july13/clean_j8.out",
+      "original_bytes": 22163,
+      "original_path": "research/results/dystrophin-2026-07-13/clean_j8.out",
+      "original_sha256": "bf14bdcc18f0245c8289efdfa9759e0c48e80b3090d40d273c033b8b71cc0980",
+      "stored_bytes": 5187,
+      "stored_path": "raw/july13/clean_j8.out.gz",
+      "stored_sha256": "8d19978ce06d4ebf696f2c97f601bdd412521317d3e588a737b3ad2dcda0e934"
+    },
+    {
+      "logical_path": "july13/clean_j8.time",
+      "original_bytes": 921,
+      "original_path": "research/results/dystrophin-2026-07-13/clean_j8.time",
+      "original_sha256": "7549bde258adf5581bf96be8cc05254b5e20a777562d1de045055eca00115f9e",
+      "stored_bytes": 484,
+      "stored_path": "raw/july13/clean_j8.time.gz",
+      "stored_sha256": "00b74a6af4435b7551b1b7c2a3585a082b5c05a6577be5c40bc4d3032122e022"
+    },
+    {
+      "logical_path": "july13/codon-usage-clean.csv",
+      "original_bytes": 765,
+      "original_path": "research/results/dystrophin-2026-07-13/codon-usage-clean.csv",
+      "original_sha256": "e6c4a49036fe21f3266e7e53130011bd7725c62ebeabbe442f7f8f1cdf5890c4",
+      "stored_bytes": 343,
+      "stored_path": "raw/july13/codon-usage-clean.csv.gz",
+      "stored_sha256": "a2b9013655cb96b393a6b4dae6052bfe94c48a2ddf6abeee5435c2cf0f68b542"
+    },
+    {
+      "logical_path": "july13/codon-usage-dense.csv",
+      "original_bytes": 765,
+      "original_path": "research/results/dystrophin-2026-07-13/codon-usage-dense.csv",
+      "original_sha256": "e6c4a49036fe21f3266e7e53130011bd7725c62ebeabbe442f7f8f1cdf5890c4",
+      "stored_bytes": 343,
+      "stored_path": "raw/july13/codon-usage-dense.csv.gz",
+      "stored_sha256": "a2b9013655cb96b393a6b4dae6052bfe94c48a2ddf6abeee5435c2cf0f68b542"
+    },
+    {
+      "logical_path": "july13/historical-dystseq.fasta",
+      "original_bytes": 3736,
+      "original_path": "research/results/dystrophin-2026-07-13/historical-dystseq.fasta",
+      "original_sha256": "c8ee41bc904f43563d18f78c2f05ba4edf6d5fbe08c0f3fff963d8ee4b85e5e2",
+      "stored_bytes": 2207,
+      "stored_path": "raw/july13/historical-dystseq.fasta.gz",
+      "stored_sha256": "26f40f955d3382868778d61127c9b1f00a8deb3548e8babdd0a9b28dc4ed4376"
+    },
+    {
+      "logical_path": "july13/ld_j1.out",
+      "original_bytes": 99310,
+      "original_path": "research/results/dystrophin-2026-07-13/ld_j1.out",
+      "original_sha256": "accdd5f0196d3e023457dc56f6ff1f6bffa8beceecfb1054fc6e7eab9fde2616",
+      "stored_bytes": 30551,
+      "stored_path": "raw/july13/ld_j1.out.gz",
+      "stored_sha256": "86e27e49fef19427fef4194ad0745190b2378b49849c906537190b24592bce31"
+    },
+    {
+      "logical_path": "july13/ld_j1.time",
+      "original_bytes": 823,
+      "original_path": "research/results/dystrophin-2026-07-13/ld_j1.time",
+      "original_sha256": "84b57b3083ebf7dbaa40f0f98dc07bb881452e01137ffbaf276f74544856d81e",
+      "stored_bytes": 453,
+      "stored_path": "raw/july13/ld_j1.time.gz",
+      "stored_sha256": "866234a5ef120adbc8d719c86cc831f743a0719c6b889ef1f29e13f264ba7446"
+    },
+    {
+      "logical_path": "july13/ld_j16.out",
+      "original_bytes": 99310,
+      "original_path": "research/results/dystrophin-2026-07-13/ld_j16.out",
+      "original_sha256": "accdd5f0196d3e023457dc56f6ff1f6bffa8beceecfb1054fc6e7eab9fde2616",
+      "stored_bytes": 30551,
+      "stored_path": "raw/july13/ld_j16.out.gz",
+      "stored_sha256": "86e27e49fef19427fef4194ad0745190b2378b49849c906537190b24592bce31"
+    },
+    {
+      "logical_path": "july13/ld_j16.time",
+      "original_bytes": 836,
+      "original_path": "research/results/dystrophin-2026-07-13/ld_j16.time",
+      "original_sha256": "a6c2fcf8e6a60e0aea1cc1a5ec81a35519d47be39fb5fb985b09273457073fa7",
+      "stored_bytes": 466,
+      "stored_path": "raw/july13/ld_j16.time.gz",
+      "stored_sha256": "e845b2e153209434ec22889ad10dc564bfab00ea5d95864a126ece023e4ca529"
+    },
+    {
+      "logical_path": "july13/ld_j16.validation.json",
+      "original_bytes": 3895,
+      "original_path": "research/results/dystrophin-2026-07-13/ld_j16.validation.json",
+      "original_sha256": "5a227032c146f0a482d4d5c8f6a4931a02450c59138d3f380640bfde0908f344",
+      "stored_bytes": 1534,
+      "stored_path": "raw/july13/ld_j16.validation.json.gz",
+      "stored_sha256": "29828a947c7ee705d225fdf403aff036df65822cce5781cd6e65f8e11954c506"
+    },
+    {
+      "logical_path": "july13/ld_j16.validation.md",
+      "original_bytes": 2397,
+      "original_path": "research/results/dystrophin-2026-07-13/ld_j16.validation.md",
+      "original_sha256": "50845f657812c5f149c60bb0192cd977926be0b072d331e0e76ef3d2393f1257",
+      "stored_bytes": 1243,
+      "stored_path": "raw/july13/ld_j16.validation.md.gz",
+      "stored_sha256": "d67d8fdfd57abd5cdf6228e5c8aae99e182d90bba02a32e3a4c79a7ca49f8b4a"
+    },
+    {
+      "logical_path": "july13/ld_j2.out",
+      "original_bytes": 99310,
+      "original_path": "research/results/dystrophin-2026-07-13/ld_j2.out",
+      "original_sha256": "accdd5f0196d3e023457dc56f6ff1f6bffa8beceecfb1054fc6e7eab9fde2616",
+      "stored_bytes": 30551,
+      "stored_path": "raw/july13/ld_j2.out.gz",
+      "stored_sha256": "86e27e49fef19427fef4194ad0745190b2378b49849c906537190b24592bce31"
+    },
+    {
+      "logical_path": "july13/ld_j2.time",
+      "original_bytes": 829,
+      "original_path": "research/results/dystrophin-2026-07-13/ld_j2.time",
+      "original_sha256": "fb08ffb00bceddb14243632922007dcf1676335fbd396d2ef0a62495b3e55317",
+      "stored_bytes": 456,
+      "stored_path": "raw/july13/ld_j2.time.gz",
+      "stored_sha256": "37298596bedf0dcad117622ec2ea756721d26d1711240638cdc8573e4ab69a61"
+    },
+    {
+      "logical_path": "july13/ld_j4.out",
+      "original_bytes": 99310,
+      "original_path": "research/results/dystrophin-2026-07-13/ld_j4.out",
+      "original_sha256": "accdd5f0196d3e023457dc56f6ff1f6bffa8beceecfb1054fc6e7eab9fde2616",
+      "stored_bytes": 30551,
+      "stored_path": "raw/july13/ld_j4.out.gz",
+      "stored_sha256": "86e27e49fef19427fef4194ad0745190b2378b49849c906537190b24592bce31"
+    },
+    {
+      "logical_path": "july13/ld_j4.time",
+      "original_bytes": 831,
+      "original_path": "research/results/dystrophin-2026-07-13/ld_j4.time",
+      "original_sha256": "6fafb77c54658a6fec94d46901b4492b1220883a9135b91d468c8347eeafaa51",
+      "stored_bytes": 460,
+      "stored_path": "raw/july13/ld_j4.time.gz",
+      "stored_sha256": "776c8f649e3cb40b427977a528e352584bc01a77559400a1075771642ed2f8f4"
+    },
+    {
+      "logical_path": "july13/ld_j8.out",
+      "original_bytes": 99310,
+      "original_path": "research/results/dystrophin-2026-07-13/ld_j8.out",
+      "original_sha256": "accdd5f0196d3e023457dc56f6ff1f6bffa8beceecfb1054fc6e7eab9fde2616",
+      "stored_bytes": 30551,
+      "stored_path": "raw/july13/ld_j8.out.gz",
+      "stored_sha256": "86e27e49fef19427fef4194ad0745190b2378b49849c906537190b24592bce31"
+    },
+    {
+      "logical_path": "july13/ld_j8.time",
+      "original_bytes": 831,
+      "original_path": "research/results/dystrophin-2026-07-13/ld_j8.time",
+      "original_sha256": "260dbdf2dc1a629ebcf3b1e3948e88abb1ba8b10cf2f89577108632f1a92d196",
+      "stored_bytes": 460,
+      "stored_path": "raw/july13/ld_j8.time.gz",
+      "stored_sha256": "65c093a7aabcbdff4245bfa4e08876e137952e93392b85597c884bec1f4ca434"
+    },
+    {
+      "logical_path": "july13/ld_run.sh",
+      "original_bytes": 1184,
+      "original_path": "research/results/dystrophin-2026-07-13/ld_run.sh",
+      "original_sha256": "7f978f9e5501f07fb320aecb66f3813f443d948155aee3aa3256c5d99755a16e",
+      "stored_bytes": 736,
+      "stored_path": "raw/july13/ld_run.sh.gz",
+      "stored_sha256": "c9d12f8bdf5cf76f7b9e753a1f41a0de0f7785108355b0b4aa02f86d0ccfcdce"
+    },
+    {
+      "logical_path": "july13/nc_j4_n0_r1.out",
+      "original_bytes": 22163,
+      "original_path": "research/results/dystrophin-2026-07-13/nc_j4_n0_r1.out",
+      "original_sha256": "bf14bdcc18f0245c8289efdfa9759e0c48e80b3090d40d273c033b8b71cc0980",
+      "stored_bytes": 5187,
+      "stored_path": "raw/july13/nc_j4_n0_r1.out.gz",
+      "stored_sha256": "8d19978ce06d4ebf696f2c97f601bdd412521317d3e588a737b3ad2dcda0e934"
+    },
+    {
+      "logical_path": "july13/nc_j4_n0_r1.time",
+      "original_bytes": 922,
+      "original_path": "research/results/dystrophin-2026-07-13/nc_j4_n0_r1.time",
+      "original_sha256": "09a5a150fad7645204c5e135f04fd5aa730dbc745b09a28ad23ee51ba8c997c5",
+      "stored_bytes": 482,
+      "stored_path": "raw/july13/nc_j4_n0_r1.time.gz",
+      "stored_sha256": "bc291fd814bd68e16883c88b17edb6d3a75193d537b69fdb06ff1229c1c4b4f6"
+    },
+    {
+      "logical_path": "july13/nc_j4_n0_r2.out",
+      "original_bytes": 22163,
+      "original_path": "research/results/dystrophin-2026-07-13/nc_j4_n0_r2.out",
+      "original_sha256": "bf14bdcc18f0245c8289efdfa9759e0c48e80b3090d40d273c033b8b71cc0980",
+      "stored_bytes": 5187,
+      "stored_path": "raw/july13/nc_j4_n0_r2.out.gz",
+      "stored_sha256": "8d19978ce06d4ebf696f2c97f601bdd412521317d3e588a737b3ad2dcda0e934"
+    },
+    {
+      "logical_path": "july13/nc_j4_n0_r2.time",
+      "original_bytes": 922,
+      "original_path": "research/results/dystrophin-2026-07-13/nc_j4_n0_r2.time",
+      "original_sha256": "fe0ec789de8deb083dc6bcfd9c5c5cd37981de619b8c9e771d75088f28b6e5ef",
+      "stored_bytes": 481,
+      "stored_path": "raw/july13/nc_j4_n0_r2.time.gz",
+      "stored_sha256": "394c304d7d202b9b9caa860b36d9bb44594d208524de4f7463010ad45597acfb"
+    },
+    {
+      "logical_path": "july13/nc_j4_n0_r3.out",
+      "original_bytes": 22163,
+      "original_path": "research/results/dystrophin-2026-07-13/nc_j4_n0_r3.out",
+      "original_sha256": "bf14bdcc18f0245c8289efdfa9759e0c48e80b3090d40d273c033b8b71cc0980",
+      "stored_bytes": 5187,
+      "stored_path": "raw/july13/nc_j4_n0_r3.out.gz",
+      "stored_sha256": "8d19978ce06d4ebf696f2c97f601bdd412521317d3e588a737b3ad2dcda0e934"
+    },
+    {
+      "logical_path": "july13/nc_j4_n0_r3.time",
+      "original_bytes": 922,
+      "original_path": "research/results/dystrophin-2026-07-13/nc_j4_n0_r3.time",
+      "original_sha256": "da6c2c97eff8e65db0a09867a4775a945ce4fffb5861b055c5944626bc1da29a",
+      "stored_bytes": 482,
+      "stored_path": "raw/july13/nc_j4_n0_r3.time.gz",
+      "stored_sha256": "84211b3ef3ba054df31e5bdebca2cf28e0e672b6ca3cbdea6cc18e60777ca528"
+    },
+    {
+      "logical_path": "july13/nc_j4_n1_r1.out",
+      "original_bytes": 22163,
+      "original_path": "research/results/dystrophin-2026-07-13/nc_j4_n1_r1.out",
+      "original_sha256": "bf14bdcc18f0245c8289efdfa9759e0c48e80b3090d40d273c033b8b71cc0980",
+      "stored_bytes": 5187,
+      "stored_path": "raw/july13/nc_j4_n1_r1.out.gz",
+      "stored_sha256": "8d19978ce06d4ebf696f2c97f601bdd412521317d3e588a737b3ad2dcda0e934"
+    },
+    {
+      "logical_path": "july13/nc_j4_n1_r1.time",
+      "original_bytes": 922,
+      "original_path": "research/results/dystrophin-2026-07-13/nc_j4_n1_r1.time",
+      "original_sha256": "cfa483c00992d058d72d5aef2b936b3c49167c8f7a8ea404fa9065e60c717184",
+      "stored_bytes": 485,
+      "stored_path": "raw/july13/nc_j4_n1_r1.time.gz",
+      "stored_sha256": "45f4f82930023ceaef5366bad5677bc722bb707645e2314b47e5df5e233cbbcc"
+    },
+    {
+      "logical_path": "july13/nc_j4_n1_r2.out",
+      "original_bytes": 22163,
+      "original_path": "research/results/dystrophin-2026-07-13/nc_j4_n1_r2.out",
+      "original_sha256": "bf14bdcc18f0245c8289efdfa9759e0c48e80b3090d40d273c033b8b71cc0980",
+      "stored_bytes": 5187,
+      "stored_path": "raw/july13/nc_j4_n1_r2.out.gz",
+      "stored_sha256": "8d19978ce06d4ebf696f2c97f601bdd412521317d3e588a737b3ad2dcda0e934"
+    },
+    {
+      "logical_path": "july13/nc_j4_n1_r2.time",
+      "original_bytes": 922,
+      "original_path": "research/results/dystrophin-2026-07-13/nc_j4_n1_r2.time",
+      "original_sha256": "a47e83bfed3875471c606a1aa1d257315587aa7c615852f2d6d8c78c44e3dad2",
+      "stored_bytes": 481,
+      "stored_path": "raw/july13/nc_j4_n1_r2.time.gz",
+      "stored_sha256": "2a9d69d3221cffb81105f3331a54773ee264b9ebebadba306654caf8cef46e3d"
+    },
+    {
+      "logical_path": "july13/nc_j4_n1_r3.out",
+      "original_bytes": 22163,
+      "original_path": "research/results/dystrophin-2026-07-13/nc_j4_n1_r3.out",
+      "original_sha256": "bf14bdcc18f0245c8289efdfa9759e0c48e80b3090d40d273c033b8b71cc0980",
+      "stored_bytes": 5187,
+      "stored_path": "raw/july13/nc_j4_n1_r3.out.gz",
+      "stored_sha256": "8d19978ce06d4ebf696f2c97f601bdd412521317d3e588a737b3ad2dcda0e934"
+    },
+    {
+      "logical_path": "july13/nc_j4_n1_r3.time",
+      "original_bytes": 922,
+      "original_path": "research/results/dystrophin-2026-07-13/nc_j4_n1_r3.time",
+      "original_sha256": "2a8d7a1a526c58f6f851d4331dd0b52308aab02a6715cfb7472d78db00ba5676",
+      "stored_bytes": 482,
+      "stored_path": "raw/july13/nc_j4_n1_r3.time.gz",
+      "stored_sha256": "c0844aab76ff45d80c8705370b3008ae7c465460a416c3a363fd0eef41191c3c"
+    },
+    {
+      "logical_path": "july13/nc_j8_n0_r1.out",
+      "original_bytes": 22163,
+      "original_path": "research/results/dystrophin-2026-07-13/nc_j8_n0_r1.out",
+      "original_sha256": "bf14bdcc18f0245c8289efdfa9759e0c48e80b3090d40d273c033b8b71cc0980",
+      "stored_bytes": 5187,
+      "stored_path": "raw/july13/nc_j8_n0_r1.out.gz",
+      "stored_sha256": "8d19978ce06d4ebf696f2c97f601bdd412521317d3e588a737b3ad2dcda0e934"
+    },
+    {
+      "logical_path": "july13/nc_j8_n0_r1.time",
+      "original_bytes": 924,
+      "original_path": "research/results/dystrophin-2026-07-13/nc_j8_n0_r1.time",
+      "original_sha256": "d3f98a138cd71a2ac3d9780c282bb591dd8811145561191e675004a0b33278dc",
+      "stored_bytes": 489,
+      "stored_path": "raw/july13/nc_j8_n0_r1.time.gz",
+      "stored_sha256": "da2a908fd35cbee2990187c7e18779cfe2ea58232446a2b610b5e4194e0d79ad"
+    },
+    {
+      "logical_path": "july13/nc_j8_n0_r2.out",
+      "original_bytes": 22163,
+      "original_path": "research/results/dystrophin-2026-07-13/nc_j8_n0_r2.out",
+      "original_sha256": "bf14bdcc18f0245c8289efdfa9759e0c48e80b3090d40d273c033b8b71cc0980",
+      "stored_bytes": 5187,
+      "stored_path": "raw/july13/nc_j8_n0_r2.out.gz",
+      "stored_sha256": "8d19978ce06d4ebf696f2c97f601bdd412521317d3e588a737b3ad2dcda0e934"
+    },
+    {
+      "logical_path": "july13/nc_j8_n0_r2.time",
+      "original_bytes": 922,
+      "original_path": "research/results/dystrophin-2026-07-13/nc_j8_n0_r2.time",
+      "original_sha256": "44fe8a2960ffa1138c96401a180a4706f48b715043811f0a4e45feda5f631087",
+      "stored_bytes": 482,
+      "stored_path": "raw/july13/nc_j8_n0_r2.time.gz",
+      "stored_sha256": "2b6aec885961c98b9e25e23e79abf1a41526db68083d4fdbbaee7a4c730d465f"
+    },
+    {
+      "logical_path": "july13/nc_j8_n0_r3.out",
+      "original_bytes": 22163,
+      "original_path": "research/results/dystrophin-2026-07-13/nc_j8_n0_r3.out",
+      "original_sha256": "bf14bdcc18f0245c8289efdfa9759e0c48e80b3090d40d273c033b8b71cc0980",
+      "stored_bytes": 5187,
+      "stored_path": "raw/july13/nc_j8_n0_r3.out.gz",
+      "stored_sha256": "8d19978ce06d4ebf696f2c97f601bdd412521317d3e588a737b3ad2dcda0e934"
+    },
+    {
+      "logical_path": "july13/nc_j8_n0_r3.time",
+      "original_bytes": 922,
+      "original_path": "research/results/dystrophin-2026-07-13/nc_j8_n0_r3.time",
+      "original_sha256": "b8b826cd806b16e5bfd7aba408d4bf1275230fc527747e2f5d406a678512009f",
+      "stored_bytes": 483,
+      "stored_path": "raw/july13/nc_j8_n0_r3.time.gz",
+      "stored_sha256": "6002a3d94a14714284b95c87e79f42bbd2e9818de80b54a79df9ac989ed89535"
+    },
+    {
+      "logical_path": "july13/nc_j8_n1_r1.out",
+      "original_bytes": 22163,
+      "original_path": "research/results/dystrophin-2026-07-13/nc_j8_n1_r1.out",
+      "original_sha256": "bf14bdcc18f0245c8289efdfa9759e0c48e80b3090d40d273c033b8b71cc0980",
+      "stored_bytes": 5187,
+      "stored_path": "raw/july13/nc_j8_n1_r1.out.gz",
+      "stored_sha256": "8d19978ce06d4ebf696f2c97f601bdd412521317d3e588a737b3ad2dcda0e934"
+    },
+    {
+      "logical_path": "july13/nc_j8_n1_r1.time",
+      "original_bytes": 922,
+      "original_path": "research/results/dystrophin-2026-07-13/nc_j8_n1_r1.time",
+      "original_sha256": "d6ccdc96f775741073c8934297913dd30422617f93c2531897c0a07f0af69ff0",
+      "stored_bytes": 484,
+      "stored_path": "raw/july13/nc_j8_n1_r1.time.gz",
+      "stored_sha256": "9486058deef3ff673ee2264ea4a0e9480cb86649f961e8726e47ce0824284091"
+    },
+    {
+      "logical_path": "july13/nc_j8_n1_r2.out",
+      "original_bytes": 22163,
+      "original_path": "research/results/dystrophin-2026-07-13/nc_j8_n1_r2.out",
+      "original_sha256": "bf14bdcc18f0245c8289efdfa9759e0c48e80b3090d40d273c033b8b71cc0980",
+      "stored_bytes": 5187,
+      "stored_path": "raw/july13/nc_j8_n1_r2.out.gz",
+      "stored_sha256": "8d19978ce06d4ebf696f2c97f601bdd412521317d3e588a737b3ad2dcda0e934"
+    },
+    {
+      "logical_path": "july13/nc_j8_n1_r2.time",
+      "original_bytes": 922,
+      "original_path": "research/results/dystrophin-2026-07-13/nc_j8_n1_r2.time",
+      "original_sha256": "5ce15edbc33e4116624e4d8dd7e0413d3da46d568f3fd0eddd466a2423bcb48f",
+      "stored_bytes": 484,
+      "stored_path": "raw/july13/nc_j8_n1_r2.time.gz",
+      "stored_sha256": "5b75e259ae15e71bf2c7422661be4bfbfd62c4de8aa9b2cd0d1e0d2d5e415fc1"
+    },
+    {
+      "logical_path": "july13/nc_j8_n1_r3.out",
+      "original_bytes": 22163,
+      "original_path": "research/results/dystrophin-2026-07-13/nc_j8_n1_r3.out",
+      "original_sha256": "bf14bdcc18f0245c8289efdfa9759e0c48e80b3090d40d273c033b8b71cc0980",
+      "stored_bytes": 5187,
+      "stored_path": "raw/july13/nc_j8_n1_r3.out.gz",
+      "stored_sha256": "8d19978ce06d4ebf696f2c97f601bdd412521317d3e588a737b3ad2dcda0e934"
+    },
+    {
+      "logical_path": "july13/nc_j8_n1_r3.time",
+      "original_bytes": 922,
+      "original_path": "research/results/dystrophin-2026-07-13/nc_j8_n1_r3.time",
+      "original_sha256": "4fdc2ddef92f70ab1b20c5dd70bb7d822779dee45d26fdcdfd69ccee779a2af4",
+      "stored_bytes": 483,
+      "stored_path": "raw/july13/nc_j8_n1_r3.time.gz",
+      "stored_sha256": "6ee88185caf995fca1bd89633d40427475557056e67b6c0ed8ae09cb7342574b"
+    },
+    {
+      "logical_path": "july13/nodecmp.sh",
+      "original_bytes": 1214,
+      "original_path": "research/results/dystrophin-2026-07-13/nodecmp.sh",
+      "original_sha256": "b966b645f4c0502167525c64aeda5365b028761a1025c327954bb1f656cb2377",
+      "stored_bytes": 679,
+      "stored_path": "raw/july13/nodecmp.sh.gz",
+      "stored_sha256": "a3f6ef160fa8732831675405132fbbbdb292f650e80ff8a45727de01eee7c071"
+    },
+    {
+      "logical_path": "july13/progress.log",
+      "original_bytes": 5030,
+      "original_path": "research/results/dystrophin-2026-07-13/progress.log",
+      "original_sha256": "b3107b92e9ce83f032fcb082f123e12d3253a1b8f73623821e86feb7d5579537",
+      "stored_bytes": 1159,
+      "stored_path": "raw/july13/progress.log.gz",
+      "stored_sha256": "672799c38fa77bd423d68870736add8e8e8f6e93999689e60fe7aa32c9e226aa"
+    },
+    {
+      "logical_path": "july13/rep1.out",
+      "original_bytes": 22163,
+      "original_path": "research/results/dystrophin-2026-07-13/rep1.out",
+      "original_sha256": "bf14bdcc18f0245c8289efdfa9759e0c48e80b3090d40d273c033b8b71cc0980",
+      "stored_bytes": 5187,
+      "stored_path": "raw/july13/rep1.out.gz",
+      "stored_sha256": "8d19978ce06d4ebf696f2c97f601bdd412521317d3e588a737b3ad2dcda0e934"
+    },
+    {
+      "logical_path": "july13/rep1.time",
+      "original_bytes": 926,
+      "original_path": "research/results/dystrophin-2026-07-13/rep1.time",
+      "original_sha256": "ea8d2abfabc2355bbd25d3b6e7a2c1f2eb5aedee07eeb546771607a245350cf1",
+      "stored_bytes": 486,
+      "stored_path": "raw/july13/rep1.time.gz",
+      "stored_sha256": "cf1f8cbebf4f864cb027049ef5175272732199c7895cd6ac51f2023d00a08c04"
+    },
+    {
+      "logical_path": "july13/rep2.out",
+      "original_bytes": 22163,
+      "original_path": "research/results/dystrophin-2026-07-13/rep2.out",
+      "original_sha256": "bf14bdcc18f0245c8289efdfa9759e0c48e80b3090d40d273c033b8b71cc0980",
+      "stored_bytes": 5187,
+      "stored_path": "raw/july13/rep2.out.gz",
+      "stored_sha256": "8d19978ce06d4ebf696f2c97f601bdd412521317d3e588a737b3ad2dcda0e934"
+    },
+    {
+      "logical_path": "july13/rep2.time",
+      "original_bytes": 925,
+      "original_path": "research/results/dystrophin-2026-07-13/rep2.time",
+      "original_sha256": "4b5be6f1c86e8e5209da735e5242b578c2768757f507b2b8395a2e448ea4eb01",
+      "stored_bytes": 485,
+      "stored_path": "raw/july13/rep2.time.gz",
+      "stored_sha256": "5cd9ea074b41ea04d730734379eaeac9f4cfaee7d921fd413a47d4b5338edfae"
+    },
+    {
+      "logical_path": "july13/rep3.out",
+      "original_bytes": 22163,
+      "original_path": "research/results/dystrophin-2026-07-13/rep3.out",
+      "original_sha256": "bf14bdcc18f0245c8289efdfa9759e0c48e80b3090d40d273c033b8b71cc0980",
+      "stored_bytes": 5187,
+      "stored_path": "raw/july13/rep3.out.gz",
+      "stored_sha256": "8d19978ce06d4ebf696f2c97f601bdd412521317d3e588a737b3ad2dcda0e934"
+    },
+    {
+      "logical_path": "july13/rep3.time",
+      "original_bytes": 925,
+      "original_path": "research/results/dystrophin-2026-07-13/rep3.time",
+      "original_sha256": "fe8a827da60dd75e5db653621e70257fa91d8d0d5be2387aa4520a03cf473ccf",
+      "stored_bytes": 487,
+      "stored_path": "raw/july13/rep3.time.gz",
+      "stored_sha256": "7df0d653dd82cee081fed0eedab25c2ad71aa20c6fcd69c72c9e0581e523c5a8"
+    },
+    {
+      "logical_path": "july13/rep4.out",
+      "original_bytes": 22163,
+      "original_path": "research/results/dystrophin-2026-07-13/rep4.out",
+      "original_sha256": "bf14bdcc18f0245c8289efdfa9759e0c48e80b3090d40d273c033b8b71cc0980",
+      "stored_bytes": 5187,
+      "stored_path": "raw/july13/rep4.out.gz",
+      "stored_sha256": "8d19978ce06d4ebf696f2c97f601bdd412521317d3e588a737b3ad2dcda0e934"
+    },
+    {
+      "logical_path": "july13/rep4.time",
+      "original_bytes": 926,
+      "original_path": "research/results/dystrophin-2026-07-13/rep4.time",
+      "original_sha256": "c902aff5808e8b24878b81d81b15ff8b14e16d2bd0c5179b718ba6dbbe27ec13",
+      "stored_bytes": 488,
+      "stored_path": "raw/july13/rep4.time.gz",
+      "stored_sha256": "55a592ad35e846d09c2605ce92c4af67381bf71ced735f001e52b9619640dac9"
+    },
+    {
+      "logical_path": "july13/rep5.out",
+      "original_bytes": 22163,
+      "original_path": "research/results/dystrophin-2026-07-13/rep5.out",
+      "original_sha256": "bf14bdcc18f0245c8289efdfa9759e0c48e80b3090d40d273c033b8b71cc0980",
+      "stored_bytes": 5187,
+      "stored_path": "raw/july13/rep5.out.gz",
+      "stored_sha256": "8d19978ce06d4ebf696f2c97f601bdd412521317d3e588a737b3ad2dcda0e934"
+    },
+    {
+      "logical_path": "july13/rep5.time",
+      "original_bytes": 925,
+      "original_path": "research/results/dystrophin-2026-07-13/rep5.time",
+      "original_sha256": "db14c4ad267ea3c54c9e15d13de7b5cb1f3a1f5e4b6431002f6709935dcdc100",
+      "stored_bytes": 484,
+      "stored_path": "raw/july13/rep5.time.gz",
+      "stored_sha256": "31b4353944a7c9b2ea3977a633ecd531cd7f5c34cff5e902d68c2af95addead5"
+    },
+    {
+      "logical_path": "july13/repeats.sh",
+      "original_bytes": 1712,
+      "original_path": "research/results/dystrophin-2026-07-13/repeats.sh",
+      "original_sha256": "1fcae7c95ea92e7911b5a29751ffed54951573c53c97c78f298e879619c2dc9a",
+      "stored_bytes": 993,
+      "stored_path": "raw/july13/repeats.sh.gz",
+      "stored_sha256": "7af482cb4a870a443d19f561c3761fdeb6368f7f2084d8968d9fb91d20c3b2cb"
+    },
+    {
+      "logical_path": "july13/run.sh",
+      "original_bytes": 1764,
+      "original_path": "research/results/dystrophin-2026-07-13/run.sh",
+      "original_sha256": "b74180d28506715d1bf27e041b85fd218c9ce13f931546c8b86bfedc0a2baf12",
+      "stored_bytes": 910,
+      "stored_path": "raw/july13/run.sh.gz",
+      "stored_sha256": "7f15af9a89e42782d32252dba0bc3c7db1c4796a64fdff1dd0c941ae94c7e76d"
+    },
+    {
+      "logical_path": "july23/clean_j16.err",
+      "original_bytes": 0,
+      "original_path": "research/results/dystrophin-node1-j16-2026-07-23/clean_j16.err",
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stored_bytes": 20,
+      "stored_path": "raw/july23/clean_j16.err.gz",
+      "stored_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    },
+    {
+      "logical_path": "july23/clean_j16.out",
+      "original_bytes": 22211,
+      "original_path": "research/results/dystrophin-node1-j16-2026-07-23/clean_j16.out",
+      "original_sha256": "61d9df110022fa43803ad969df3618a5ee49a7a4eb098afedef44c8ce2f28752",
+      "stored_bytes": 5253,
+      "stored_path": "raw/july23/clean_j16.out.gz",
+      "stored_sha256": "37dcb5c3cda574bb450d981e5b22ad4983b601f6fb2cb7cb295f291cfa58cce9"
+    },
+    {
+      "logical_path": "july23/clean_j16.time",
+      "original_bytes": 1027,
+      "original_path": "research/results/dystrophin-node1-j16-2026-07-23/clean_j16.time",
+      "original_sha256": "e8c900d52c392a8314ead1335c86c99f1fe227e7feabbc26717cc1801ffb5a67",
+      "stored_bytes": 566,
+      "stored_path": "raw/july23/clean_j16.time.gz",
+      "stored_sha256": "fb0db8a04c96f6784e7e62fb318a0e030fef2b27c7fdbb90d1c900663cc4d1f4"
+    },
+    {
+      "logical_path": "july23/clean_j16.validation.md",
+      "original_bytes": 2022,
+      "original_path": "research/results/dystrophin-node1-j16-2026-07-23/clean_j16.validation.md",
+      "original_sha256": "e5f8310a4d0495f5711c0d4059d1e42abec227192f461f73d7db58e5de966ea3",
+      "stored_bytes": 1027,
+      "stored_path": "raw/july23/clean_j16.validation.md.gz",
+      "stored_sha256": "bc791a7d24f05a8e6add51bf50ae9f1363fd6ac74cae9ec9dbc3e4f3d91dfec2"
+    },
+    {
+      "logical_path": "july23/lineardesign_j16.err",
+      "original_bytes": 0,
+      "original_path": "research/results/dystrophin-node1-j16-2026-07-23/lineardesign_j16.err",
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stored_bytes": 20,
+      "stored_path": "raw/july23/lineardesign_j16.err.gz",
+      "stored_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    },
+    {
+      "logical_path": "july23/lineardesign_j16.out",
+      "original_bytes": 99358,
+      "original_path": "research/results/dystrophin-node1-j16-2026-07-23/lineardesign_j16.out",
+      "original_sha256": "e42995562bbde60f9f118b1217380325e8915a86c96322243aa75292b47b446c",
+      "stored_bytes": 30640,
+      "stored_path": "raw/july23/lineardesign_j16.out.gz",
+      "stored_sha256": "7879d342c19b8fcda63a5451b06bf79314f54549755fc9eff3be469fbb8ec23e"
+    },
+    {
+      "logical_path": "july23/lineardesign_j16.time",
+      "original_bytes": 938,
+      "original_path": "research/results/dystrophin-node1-j16-2026-07-23/lineardesign_j16.time",
+      "original_sha256": "943296465141a6bfff436dedc687dc67d94e5fb4113379af7a3d1c792025a27a",
+      "stored_bytes": 546,
+      "stored_path": "raw/july23/lineardesign_j16.time.gz",
+      "stored_sha256": "36d8b6d9c89936db2c7dfe4eb278e348c8c92c82d3868940b65908a7e7e3bef8"
+    },
+    {
+      "logical_path": "july23/lineardesign_j16.validation.md",
+      "original_bytes": 2022,
+      "original_path": "research/results/dystrophin-node1-j16-2026-07-23/lineardesign_j16.validation.md",
+      "original_sha256": "c0527630e4726fff7e434035a339b1755bcbe27e996e75b9b2d045e6cad45faf",
+      "stored_bytes": 1025,
+      "stored_path": "raw/july23/lineardesign_j16.validation.md.gz",
+      "stored_sha256": "227a303a75d99834cd11322fe6ca8dcd5a758e38e8ccd11f0966131f86aca3e3"
+    },
+    {
+      "logical_path": "july23/progress.log",
+      "original_bytes": 208,
+      "original_path": "research/results/dystrophin-node1-j16-2026-07-23/progress.log",
+      "original_sha256": "39c2e49450860b3d221b49dc9854a587ecee15afaa47c87d5da8488c7eda9455",
+      "stored_bytes": 123,
+      "stored_path": "raw/july23/progress.log.gz",
+      "stored_sha256": "e6fd23e005c9ba39180f7dd850d9c4e982f5448b9a162049992cf1c84c3a70d3"
+    },
+    {
+      "logical_path": "july23/provenance.txt",
+      "original_bytes": 918,
+      "original_path": "research/results/dystrophin-node1-j16-2026-07-23/provenance.txt",
+      "original_sha256": "23fbbf37457ea36f02202c9ce9afe65a92294afa51b40e9f2c36365a02863947",
+      "stored_bytes": 472,
+      "stored_path": "raw/july23/provenance.txt.gz",
+      "stored_sha256": "bb6cb92091a285737f16e2d074580f63c4f279ffc2c865708894afd381197d6c"
+    },
+    {
+      "logical_path": "july23/status.txt",
+      "original_bytes": 37,
+      "original_path": "research/results/dystrophin-node1-j16-2026-07-23/status.txt",
+      "original_sha256": "f63eaff4b8eceb86463186c03ebbea2094eef062a98009fd5c6b25135a835c71",
+      "stored_bytes": 48,
+      "stored_path": "raw/july23/status.txt.gz",
+      "stored_sha256": "c638a5de7044df94e2e135d57597a226df9c781327e39c48deb9c3647ee760bf"
+    },
+    {
+      "logical_path": "packed/SHA256SUMS",
+      "original_bytes": 3130,
+      "original_path": "research/results/packed-layout-2026-07-14/SHA256SUMS",
+      "original_sha256": "3fcf286847c9eae223ff4d74db989a818211d07360b9182e66a9a9b745a9fa3f",
+      "stored_bytes": 817,
+      "stored_path": "raw/packed/SHA256SUMS.gz",
+      "stored_sha256": "fbe04b24cca2dcf037dd02f7e2385e1eb2ec1ddd7d1d9df6997f024895906526"
+    },
+    {
+      "logical_path": "packed/dmd-01-B-square.err",
+      "original_bytes": 0,
+      "original_path": "research/results/packed-layout-2026-07-14/dmd-01-B-square.err",
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stored_bytes": 20,
+      "stored_path": "raw/packed/dmd-01-B-square.err.gz",
+      "stored_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    },
+    {
+      "logical_path": "packed/dmd-01-B-square.meta",
+      "original_bytes": 1118,
+      "original_path": "research/results/packed-layout-2026-07-14/dmd-01-B-square.meta",
+      "original_sha256": "581d1dc6b3ebbb5b6dce7f2fe0868fbf280472bcdd1f33e4834f12cce629da91",
+      "stored_bytes": 636,
+      "stored_path": "raw/packed/dmd-01-B-square.meta.gz",
+      "stored_sha256": "5bada0b15d642ffbaf8e38d6d945f252e62baa098a257a46f44f6270b88fe479"
+    },
+    {
+      "logical_path": "packed/dmd-01-B-square.out",
+      "original_bytes": 169,
+      "original_path": "research/results/packed-layout-2026-07-14/dmd-01-B-square.out",
+      "original_sha256": "fa7c539d0a8e56df229adb81614f79874b334b590d2facd9fa961a079d726143",
+      "stored_bytes": 151,
+      "stored_path": "raw/packed/dmd-01-B-square.out.gz",
+      "stored_sha256": "3923bd73fcb415d8ed64f1324ef9e4a1178b5fd469e7caa79a845562b5bd6dac"
+    },
+    {
+      "logical_path": "packed/dmd-01-B-square.time",
+      "original_bytes": 1140,
+      "original_path": "research/results/packed-layout-2026-07-14/dmd-01-B-square.time",
+      "original_sha256": "026074b41cf479b6cd52719085fd18ab303e4dfbf9353c7e981b09e435bc38a0",
+      "stored_bytes": 642,
+      "stored_path": "raw/packed/dmd-01-B-square.time.gz",
+      "stored_sha256": "ba3ad3d5624df39d8ebfcaa693239fb813d2f3796ef04a1556695d320f435f64"
+    },
+    {
+      "logical_path": "packed/dmd-02-D-packed.err",
+      "original_bytes": 0,
+      "original_path": "research/results/packed-layout-2026-07-14/dmd-02-D-packed.err",
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stored_bytes": 20,
+      "stored_path": "raw/packed/dmd-02-D-packed.err.gz",
+      "stored_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    },
+    {
+      "logical_path": "packed/dmd-02-D-packed.meta",
+      "original_bytes": 1118,
+      "original_path": "research/results/packed-layout-2026-07-14/dmd-02-D-packed.meta",
+      "original_sha256": "a1646d8d1244214497777f2bdd97b99ad4e11a1fca74a77135754ea17253de74",
+      "stored_bytes": 633,
+      "stored_path": "raw/packed/dmd-02-D-packed.meta.gz",
+      "stored_sha256": "ecea1b76c1a54d8edcb2fb4793206790325f4194a38f8f2f246103a531ce4fb1"
+    },
+    {
+      "logical_path": "packed/dmd-02-D-packed.out",
+      "original_bytes": 169,
+      "original_path": "research/results/packed-layout-2026-07-14/dmd-02-D-packed.out",
+      "original_sha256": "b9b3df4f1b8bd3d04ce8a67be45010c5131a4e4ab3265f538c0dfa9df25fe47d",
+      "stored_bytes": 150,
+      "stored_path": "raw/packed/dmd-02-D-packed.out.gz",
+      "stored_sha256": "09491da6790f6b00015cab89aae550f3e3b8ec7ba30fb794ea93758ca2dcadf0"
+    },
+    {
+      "logical_path": "packed/dmd-02-D-packed.time",
+      "original_bytes": 1140,
+      "original_path": "research/results/packed-layout-2026-07-14/dmd-02-D-packed.time",
+      "original_sha256": "83cd2dac61e628499bf1683a890c2e7c03b386c97f6e48fd167675c95612896d",
+      "stored_bytes": 641,
+      "stored_path": "raw/packed/dmd-02-D-packed.time.gz",
+      "stored_sha256": "0b6e3217832436ed351c36075344e9ead78cdd6e846d3051903206afe01adb05"
+    },
+    {
+      "logical_path": "packed/dmd-03-D-packed.err",
+      "original_bytes": 0,
+      "original_path": "research/results/packed-layout-2026-07-14/dmd-03-D-packed.err",
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stored_bytes": 20,
+      "stored_path": "raw/packed/dmd-03-D-packed.err.gz",
+      "stored_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    },
+    {
+      "logical_path": "packed/dmd-03-D-packed.meta",
+      "original_bytes": 1118,
+      "original_path": "research/results/packed-layout-2026-07-14/dmd-03-D-packed.meta",
+      "original_sha256": "52326f10c95de04e5a87c8f5aaf1afadc0145c7846cab61ed44296879faed5b3",
+      "stored_bytes": 635,
+      "stored_path": "raw/packed/dmd-03-D-packed.meta.gz",
+      "stored_sha256": "5c5cbbe00c0337e9877ad6ac441febf7e09f413194e39bf558382b978aab964d"
+    },
+    {
+      "logical_path": "packed/dmd-03-D-packed.out",
+      "original_bytes": 169,
+      "original_path": "research/results/packed-layout-2026-07-14/dmd-03-D-packed.out",
+      "original_sha256": "9dd89b435d7be0f2db07761b6fafe6d0558d85645e55a3a199908fdf1d5e310f",
+      "stored_bytes": 150,
+      "stored_path": "raw/packed/dmd-03-D-packed.out.gz",
+      "stored_sha256": "27abd249238643dd2eb7eec9ba668c9e902dafe0ee9723e240471680e632c2b2"
+    },
+    {
+      "logical_path": "packed/dmd-03-D-packed.time",
+      "original_bytes": 1140,
+      "original_path": "research/results/packed-layout-2026-07-14/dmd-03-D-packed.time",
+      "original_sha256": "b69ea4c5c608f877bfcefd9cb32fd758aa8afbaf63168677199b07c2b5ca9a72",
+      "stored_bytes": 641,
+      "stored_path": "raw/packed/dmd-03-D-packed.time.gz",
+      "stored_sha256": "a85763a1da2f66a41fcb11823e4b77b08e2cf0413d50c3af264d3e2344604321"
+    },
+    {
+      "logical_path": "packed/dmd-04-B-square.err",
+      "original_bytes": 0,
+      "original_path": "research/results/packed-layout-2026-07-14/dmd-04-B-square.err",
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stored_bytes": 20,
+      "stored_path": "raw/packed/dmd-04-B-square.err.gz",
+      "stored_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    },
+    {
+      "logical_path": "packed/dmd-04-B-square.meta",
+      "original_bytes": 1119,
+      "original_path": "research/results/packed-layout-2026-07-14/dmd-04-B-square.meta",
+      "original_sha256": "5e411184fd3f5fe45d9d18fa0615e8410cf0c1e02b32556f24305219f665c1d8",
+      "stored_bytes": 639,
+      "stored_path": "raw/packed/dmd-04-B-square.meta.gz",
+      "stored_sha256": "fd5eb7a77707dfaca0cbba3c3de12eba8fdb31190046210378e44fd302623b58"
+    },
+    {
+      "logical_path": "packed/dmd-04-B-square.out",
+      "original_bytes": 169,
+      "original_path": "research/results/packed-layout-2026-07-14/dmd-04-B-square.out",
+      "original_sha256": "42a1733778552b48e266f6b2868814e40fb2908b2c91afe206afa321e89c6dcc",
+      "stored_bytes": 150,
+      "stored_path": "raw/packed/dmd-04-B-square.out.gz",
+      "stored_sha256": "ecaf1c95de994d13fd2ec56291dec72f81ecaba5292458c94d5fc20c39c66596"
+    },
+    {
+      "logical_path": "packed/dmd-04-B-square.time",
+      "original_bytes": 1139,
+      "original_path": "research/results/packed-layout-2026-07-14/dmd-04-B-square.time",
+      "original_sha256": "6df4ec0293f7c154398aa55e87c2e18def755d7c023995170533e2a5fbdf02dc",
+      "stored_bytes": 640,
+      "stored_path": "raw/packed/dmd-04-B-square.time.gz",
+      "stored_sha256": "d17d17081feb1e7e086847d46169e4a04101b74fc5405bd20cffef52e1604612"
+    },
+    {
+      "logical_path": "packed/dmd-05-D-packed-full.err",
+      "original_bytes": 0,
+      "original_path": "research/results/packed-layout-2026-07-14/dmd-05-D-packed-full.err",
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stored_bytes": 20,
+      "stored_path": "raw/packed/dmd-05-D-packed-full.err.gz",
+      "stored_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    },
+    {
+      "logical_path": "packed/dmd-05-D-packed-full.meta",
+      "original_bytes": 1127,
+      "original_path": "research/results/packed-layout-2026-07-14/dmd-05-D-packed-full.meta",
+      "original_sha256": "396fb7c8db9fa959c337465ea40b0a13bf454c1d547b1318a3f78783602adb1b",
+      "stored_bytes": 634,
+      "stored_path": "raw/packed/dmd-05-D-packed-full.meta.gz",
+      "stored_sha256": "035557d965628157fce322fc3256b42f5e1a70b8462f725921a72a75b0764383"
+    },
+    {
+      "logical_path": "packed/dmd-05-D-packed-full.out",
+      "original_bytes": 22211,
+      "original_path": "research/results/packed-layout-2026-07-14/dmd-05-D-packed-full.out",
+      "original_sha256": "61d9df110022fa43803ad969df3618a5ee49a7a4eb098afedef44c8ce2f28752",
+      "stored_bytes": 5253,
+      "stored_path": "raw/packed/dmd-05-D-packed-full.out.gz",
+      "stored_sha256": "37dcb5c3cda574bb450d981e5b22ad4983b601f6fb2cb7cb295f291cfa58cce9"
+    },
+    {
+      "logical_path": "packed/dmd-05-D-packed-full.time",
+      "original_bytes": 1058,
+      "original_path": "research/results/packed-layout-2026-07-14/dmd-05-D-packed-full.time",
+      "original_sha256": "0b40f828bcfd37b7b54750e13c6e6d8181260441c062dacc3e2c33a26916ff14",
+      "stored_bytes": 602,
+      "stored_path": "raw/packed/dmd-05-D-packed-full.time.gz",
+      "stored_sha256": "1e7b99551e8640064b281498e28dac5d258efb1cd9226dd9979e32ce3edc3796"
+    },
+    {
+      "logical_path": "packed/frozen-BIN_SHA256SUMS",
+      "original_bytes": 616,
+      "original_path": "research/results/packed-layout-2026-07-14/frozen-BIN_SHA256SUMS",
+      "original_sha256": "762c8cc1d2e0234f070b3e18aa304f1baaa50d273f22242cca9508cbe6e9b2f3",
+      "stored_bytes": 373,
+      "stored_path": "raw/packed/frozen-BIN_SHA256SUMS.gz",
+      "stored_sha256": "16cce0e6f05aa256998ad1705a66c2b48f7b2dabd3cb9b993d94e7e161346665"
+    },
+    {
+      "logical_path": "packed/frozen-BUILD_FLAGS",
+      "original_bytes": 459,
+      "original_path": "research/results/packed-layout-2026-07-14/frozen-BUILD_FLAGS",
+      "original_sha256": "f665c6fdbe5aa9ac96ebc12b3531c195d49eeec102b9f3bce900f7c939663b45",
+      "stored_bytes": 313,
+      "stored_path": "raw/packed/frozen-BUILD_FLAGS.gz",
+      "stored_sha256": "f116dc764c82267ff60d88495ee86b0e8b9145ff1c8443317f9fef6a4ae8faae"
+    },
+    {
+      "logical_path": "packed/frozen-MANIFEST_SHA256SUMS",
+      "original_bytes": 320,
+      "original_path": "research/results/packed-layout-2026-07-14/frozen-MANIFEST_SHA256SUMS",
+      "original_sha256": "3684991e875f7ad0e0a839b56b9769ff6a7a744145d7c084606c13f50ef611c1",
+      "stored_bytes": 239,
+      "stored_path": "raw/packed/frozen-MANIFEST_SHA256SUMS.gz",
+      "stored_sha256": "6db24fc6a2ee9ed533b52054fe4936b8c3abb75a488e7561c3334650b8dbaf7f"
+    },
+    {
+      "logical_path": "packed/frozen-SOURCE_SHA256SUMS",
+      "original_bytes": 1122,
+      "original_path": "research/results/packed-layout-2026-07-14/frozen-SOURCE_SHA256SUMS",
+      "original_sha256": "f63f19747ce97d7ca95a7d4dc93ae5998cafcbdda8d072190f7489cf53128d44",
+      "stored_bytes": 578,
+      "stored_path": "raw/packed/frozen-SOURCE_SHA256SUMS.gz",
+      "stored_sha256": "0d494a072c1cd52d08657962ced77056baf531178c0e417e533067baa5422f75"
+    },
+    {
+      "logical_path": "packed/frozen-VALIDATION",
+      "original_bytes": 1259,
+      "original_path": "research/results/packed-layout-2026-07-14/frozen-VALIDATION",
+      "original_sha256": "89bc2e06e23ab4b456347195a05cb77cccbf4bd1b9e8e0c3ebb73fe28d7ff7b9",
+      "stored_bytes": 807,
+      "stored_path": "raw/packed/frozen-VALIDATION.gz",
+      "stored_sha256": "07d48cbb76e55b32efd1732c5478b6341817768510ee85dfea6887a1f4a838f0"
+    },
+    {
+      "logical_path": "packed/packed-layout-2026-07-14-run.md",
+      "original_bytes": 4872,
+      "original_path": "research/results/packed-layout-2026-07-14-run.md",
+      "original_sha256": "f7d63a9e2ef54859deb278523c03f5d7662c05efbf40b3784b676b86faec7b08",
+      "stored_bytes": 2574,
+      "stored_path": "raw/packed/packed-layout-2026-07-14-run.md.gz",
+      "stored_sha256": "76c3e194e698eec6f26ea6cc84709979ae955c972c6571db81d20d6f6ef9d350"
+    },
+    {
+      "logical_path": "packed/packed-layout-2026-07-14-validation.json",
+      "original_bytes": 3650,
+      "original_path": "research/results/packed-layout-2026-07-14-validation.json",
+      "original_sha256": "522c2c06ee2ade13ee3418440b26fc11c503b7fc58393a563c7070570b638fcc",
+      "stored_bytes": 1403,
+      "stored_path": "raw/packed/packed-layout-2026-07-14-validation.json.gz",
+      "stored_sha256": "9c8449d3e120fc919f2e78e6c5f8ce13c6915302fea51542f306caf57fabb285"
+    },
+    {
+      "logical_path": "packed/packed-layout-2026-07-14-validation.md",
+      "original_bytes": 2151,
+      "original_path": "research/results/packed-layout-2026-07-14-validation.md",
+      "original_sha256": "76f4fbe39b6916785ae03331ec8471370471158fbdab93cafebd9665bd3e8274",
+      "stored_bytes": 1105,
+      "stored_path": "raw/packed/packed-layout-2026-07-14-validation.md.gz",
+      "stored_sha256": "54b5290774f37fce2d86677d46938741ec41071afa610f0dae6e77cac702263d"
+    },
+    {
+      "logical_path": "packed/run-dystrophin-j16.sh",
+      "original_bytes": 3040,
+      "original_path": "research/results/packed-layout-2026-07-14/run-dystrophin-j16.sh",
+      "original_sha256": "97c707d56e490dfac0afd86d4dbb8bb7276507076c8a3ffac6c131e4a186fc45",
+      "stored_bytes": 1013,
+      "stored_path": "raw/packed/run-dystrophin-j16.sh.gz",
+      "stored_sha256": "f614a909881561dea6d620a510d442c12887a384f722df7c7f6a13dcfc61162e"
+    }
+  ],
+  "schema": "historical-input-bundle-v1",
+  "scope": "Original numeric, output, timing and provenance records only; no solver binaries or solver sources. Historical launch scripts are compressed documentation, never executed by the analyzer."
+}

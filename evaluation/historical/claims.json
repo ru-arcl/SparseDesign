@@ -1,0 +1,21 @@
+{
+  "HistAblationNoisyHigh": 1.6746847857650282,
+  "HistAblationNoisyLow": 0.8713702250169107,
+  "HistAblationPairs": 24,
+  "HistAblationRSSMiB": 160.27734375,
+  "HistAblationSolveHigh": 1.607455356967637,
+  "HistAblationSolveLow": 1.4075101893456734,
+  "HistDystrophinAA": 3677,
+  "HistDystrophinMFE": -7161.4,
+  "HistDystrophinNT": 11031,
+  "HistDystrophinNodes": 12824,
+  "HistJulyThirteenRatio": 7.558011689138359,
+  "HistJulyTwentyThreeRatio": 9.019330426914536,
+  "HistPackedRSSGiB": 14.416744232177734,
+  "HistPackedRSSReductionPercent": 28.212717944431887,
+  "HistPackedSolveIncreasePercent": 8.179629251638797,
+  "HistParallelEfficiencyPercent": 42.99067617614721,
+  "HistParallelGain": 6.878508188183554,
+  "HistRepeatMax": 342.13,
+  "HistRepeatMin": 232.58
+}

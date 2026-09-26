@@ -1,0 +1,11 @@
+Amino acid file: /common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/inputs/P08311.fasta
+Codon usage table: /common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/data/codon_usage_freq_table_human.csv
+Objective function: LinearDesign
+Search mode: Exact search
+Lambda: 4.000
+Coding sequence and its secondary structure:
+AUGCAGCCACUGCUGCUCCUGCUGGCCUUCCUGCUGCCCACCGGGGCCGAGGCCGGCGAGAUCAUCGGGGGCCGGGAGUCCCGGCCCCACAGCCGGCCUUACAUGGCCUACCUGCAGAUCCAGUCCCCAGCCGGCCAGAGCCGGUGCGGAGGGUUCCUGGUGCGCGAGGACUUCGUGCUGACCGCCGCCCACUGUUGGGGCUCCAACAUCAACGUGACCCUGGGAGCCCACAACAUCCAGCGGCGGGAGAACACUCAGCAGCACAUUACCGCCCGCCGCGCCAUCCGGCACCCUCAGUACAACCAGCGGACUAUCCAGAACGAUAUCAUGCUGCUGCAGCUGAGCCGGAGGGUGCGGCGGAACCGGAAUGUGAAUCCUGUGGCCCUGCCAAGGGCCCAGGAGGGCCUGCGCCCAGGAACCCUCUGCACCGUGGCCGGCUGGGGACGGGUGAGCAUGCGCAGGGGCACCGACACCCUGCGCGAGGUGCAGCUGAGGGUCCAGCGGGACCGGCAGUGCCUGCGGAUCUUCGGGUCCUAUGACCCCCGGCGGCAGAUCUGCGUGGGGGACCGGCGGGAGCGGAAGGCUGCUUUCAAGGGGGACAGCGGGGGGCCCCUGCUGUGCAACAACGUGGCUCACGGCAUCGUGAGCUACGGCAAGAGCAGCGGGGUGCCCCCCGAGGUGUUCACCCGGGUGAGCAGCUUUCUGCCCUGGAUCCGGACCACCAUGCGGAGCUUCAAGCUGCUGGACCAGAUGGAGACCCCCCUG
+.(((((.((((((((.((((((((((((((..(((((((....((((((((((((((..........(((((((((...)))))))))...)))))))))....)))))...(((..((((.(((((((((((((((....(((((((((((((((((((.((((.(((.(((..(((((((((((((....((((((((((((....(((...))).....))))))).)))))....)))))))........)))))).((((((.(((.((((((((((.((((((....(((((.....(((((((.((((......)))))).))))).....))))))))))).))))))))))...)))))))))..(((((.((((((....)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))..)))(((((((((.........))))))))).)).))))).))))).))))))))).)))))))).))))).......(((((((((.....((((((((((.(((((((((.((.((((((((.((((((((((((((.(..((((((((.(((((((((((((((((.......(((((((((((....)))))))))))......))))))))).))))))))...))))).)))..).))))))))))))))))))...)))).)).))))))))).))....)))))))).....)))).))))).....
+Folding free energy: -492.600 kcal/mol
+CAI: 0.954
+Total runtime: 97.758 s

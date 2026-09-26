@@ -1,0 +1,4 @@
+>Q54J90 entry=Y7835_DICDI protein=Uncharacterized protein DDB_G0288213 OS=Dictyostelium discoideum (Social amoeba) OX=44689
+mRNA sequence:  AUGGUCUCAACUAACAACGAGUUGAGCACCGAGAAGAAGUUGAAUAACCUUGAGUAUUUCCCCAUGAACAACAAUGAAAACUUCAACAGGGAUGAGAUGCGUCGAAUCCGUCGACAACGUCAACAGCAGCACCUUCAGCAGCAGUAUCAAAUACGGCAGAUAAAGAAGGAGCUGAAGGAGAACAAGUCGACGGGUUCGAAGAUUCUCAACUUCCUGAAGAAGUUCAUUGAAAAUGAUGGGGAGAACCAAACACAAACGCUCAAGGUUAAAAUGAACUUCGUCUAC
+mRNA structure: .(((((((((((.......))))))).))))(((.((((((.(.(((((((((((.(((((((((.(....((((((..(((((..(((((((((((..(.((((((((((((((....((..(..((((.(((((..(.((.((((...)))).)).).....))))).))))..)..))....)))))))))))))).)..)))))..))))))..)))))))))))....).))))))))).............)))))))))))...).)))))).)))..
+mRNA folding free energy: -114.30 kcal/mol; mRNA CAI: 0.727

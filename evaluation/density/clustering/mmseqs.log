@@ -1,0 +1,262 @@
+Create directory /tmp/sparsedesign-density-cluster-wjgb57pp/work
+easy-cluster /tmp/sparsedesign-density-cluster-wjgb57pp/panel.fasta /tmp/sparsedesign-density-cluster-wjgb57pp/cluster /tmp/sparsedesign-density-cluster-wjgb57pp/work --min-seq-id 0.3 -c 0.8 --cov-mode 0 --cluster-mode 2 --single-step-clustering 1 --alignment-mode 3 --seq-id-mode 0 -e 0.001 -s 7.5 --max-seqs 3000 --threads 4 --split-memory-limit 4G --dbtype 1 --createdb-mode 0 --remove-tmp-files 1 
+
+MMseqs Version:                            	eec9c354be4276d2373996af2e50808b1390d527
+Substitution matrix                        	aa:blosum62.out,nucl:nucleotide.out
+Seed substitution matrix                   	aa:VTML80.out,nucl:nucleotide.out
+Sensitivity                                	7.5
+k-mer length                               	0
+Target search mode                         	0
+k-score                                    	seq:2147483647,prof:2147483647
+Alphabet size                              	aa:21,nucl:5
+Max sequence length                        	65535
+Max results per query                      	3000
+Split database                             	0
+Split mode                                 	2
+Split memory limit                         	4G
+Coverage threshold                         	0.8
+Coverage mode                              	0
+Compositional bias                         	1
+Compositional bias scale                   	1
+Diagonal scoring                           	true
+Exact k-mer matching                       	0
+Mask residues                              	1
+Mask residues probability                  	0.9
+Mask lower case residues                   	0
+Mask lower letter repeating N times        	0
+Minimum diagonal score                     	15
+Selected taxa                              	
+Include identical seq. id.                 	false
+Spaced k-mers                              	1
+Preload mode                               	0
+Pseudo count a                             	substitution:1.100,context:1.400
+Pseudo count b                             	substitution:4.100,context:5.800
+Spaced k-mer pattern                       	
+Local temporary path                       	
+Threads                                    	4
+Compressed                                 	0
+Verbosity                                  	3
+Add backtrace                              	false
+Alignment mode                             	3
+Alignment mode                             	0
+Allow wrapped scoring                      	false
+E-value threshold                          	0.001
+Seq. id. threshold                         	0.3
+Min alignment length                       	0
+Seq. id. mode                              	0
+Alternative alignments                     	0
+Max reject                                 	2147483647
+Max accept                                 	2147483647
+Score bias                                 	0
+Realign hits                               	false
+Realign score bias                         	-0.2
+Realign max seqs                           	2147483647
+Correlation score weight                   	0
+Gap open cost                              	aa:11,nucl:5
+Gap extension cost                         	aa:1,nucl:2
+Zdrop                                      	40
+Rescore mode                               	0
+Remove hits by seq. id. and coverage       	false
+Sort results                               	0
+Cluster mode                               	2
+Max connected component depth              	1000
+Similarity type                            	2
+Weight file name                           	
+Cluster Weight threshold                   	0.9
+Set mode                                   	false
+Single step clustering                     	true
+Cascaded clustering steps                  	3
+Cluster reassign                           	false
+Remove temporary files                     	true
+Force restart with latest tmp              	false
+MPI runner                                 	
+Cluster version                            	1
+k-mers per sequence                        	21
+Scale k-mers per sequence                  	aa:0.000,nucl:0.200
+Adjust k-mer length                        	false
+Shift hash                                 	67
+Include only extendable                    	false
+Skip repeating k-mers                      	false
+Include count table                        	true
+Number of count table based center swapping	2
+Include adjacency based center swapping    	true
+Number of adjacency based center swapping  	3
+Use parallelism                            	false
+Linclust version                           	2
+Filter cluDB file                          	
+Filter seqDB file                          	
+Switch to consensus representatives        	false
+Cluster hash                               	false
+Database type                              	1
+Shuffle input database                     	true
+Createdb mode                              	0
+Write lookup file                          	0
+Offset of numeric ids                      	0
+Use GPU                                    	0
+
+createdb /tmp/sparsedesign-density-cluster-wjgb57pp/panel.fasta /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/input --dbtype 1 --createdb-mode 0 --write-lookup 0 --threads 4 
+
+Converting sequences
+[
+Time for merging to input_h: 0h 0m 0s 0ms
+Time for merging to input: 0h 0m 0s 1ms
+Database type: Aminoacid
+Time for processing: 0h 0m 0s 7ms
+Create directory /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp
+cluster /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/input /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp -s 7.5 --max-seqs 3000 --split-memory-limit 4G -c 0.8 --cov-mode 0 --spaced-kmer-mode 1 --threads 4 --alignment-mode 3 -e 0.001 --min-seq-id 0.3 --seq-id-mode 0 --cluster-mode 2 --single-step-clustering 1 --remove-tmp-files 1 
+
+Set cluster iterations to 3
+clusthash /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/input /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp/4165723740561116949/aln_redundancy --sub-mat 'aa:blosum62.out,nucl:nucleotide.out' --alph-size aa:3,nucl:5 --min-seq-id 0.99 --max-seq-len 65535 --db-load-mode 0 --threads 4 --compressed 0 -v 3 
+
+Reduced amino acid alphabet: (A B C D E G K N P Q R S T Z) (F H I J L M V W Y) (X) 
+Hashing sequences...
+[=================================================================] 2.00K 0s 0ms
+Found 1967 unique hashes
+===============================================================Time for merging to aln_redundancy: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 6ms
+clust /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/input /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp/4165723740561116949/aln_redundancy /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp/4165723740561116949/clu_redundancy --cluster-mode 2 --max-iterations 1000 --similarity-type 2 --threads 4 --compressed 0 -v 3 --cluster-weight-threshold 0.9 --set-mode 0 
+
+Clustering mode: Greedy
+Total time: 0h 0m 0s 1ms
+
+Size of the sequence database: 2000
+Size of the alignment database: 2000
+Number of clusters: 1999
+
+Writing results 0h 0m 0s 0ms
+Time for merging to clu_redundancy: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 2ms
+createsubdb /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp/4165723740561116949/clu_redundancy /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/input /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp/4165723740561116949/input_step_redundancy -v 3 --subdb-mode 1 
+
+Time for merging to input_step_redundancy: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 0ms
+prefilter /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp/4165723740561116949/input_step_redundancy /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp/4165723740561116949/input_step_redundancy /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp/4165723740561116949/pref --sub-mat 'aa:blosum62.out,nucl:nucleotide.out' --seed-sub-mat 'aa:VTML80.out,nucl:nucleotide.out' -s 7.5 -k 0 --target-search-mode 0 --k-score seq:2147483647,prof:2147483647 --alph-size aa:21,nucl:5 --max-seq-len 65535 --max-seqs 3000 --split 0 --split-mode 2 --split-memory-limit 4G -c 0.8 --cov-mode 0 --comp-bias-corr 1 --comp-bias-corr-scale 1 --diag-score 1 --exact-kmer-matching 0 --mask 1 --mask-prob 0.9 --mask-lower-case 0 --mask-n-repeat 0 --min-ungapped-score 15 --add-self-matches 0 --spaced-kmer-mode 1 --db-load-mode 0 --pca substitution:1.100,context:1.400 --pcb substitution:4.100,context:5.800 --threads 4 --compressed 0 -v 3 
+
+Query database size: 1999 type: Aminoacid
+Estimated memory consumption: 991M
+Target database size: 1999 type: Aminoacid
+Index table k-mer threshold: 96 at k-mer size 6 
+Index table: counting k-mers
+[=================================================================] 2.00K 0s 36ms
+Index table: Masked residues: 55253
+Index table: fill
+[=================================================================] 2.00K 0s 44ms
+Index statistics
+Entries:          1880916
+DB size:          499 MB
+Avg k-mer size:   0.029389
+Top 10 k-mers
+    AHTTGD	33
+    SGVTLN	21
+    AARGGR	21
+    LGRLEA	20
+    FELFED	20
+    LNMKKD	20
+    QQVKVD	20
+    EFAGNE	20
+    GKEKEF	20
+    MWGREF	20
+Time for index table init: 0h 0m 0s 312ms
+Process prefiltering step 1 of 1
+
+k-mer similarity threshold: 96
+Starting prefiltering scores calculation (step 1 of 1)
+Query db start 1 to 1999
+Target db start 1 to 1999
+[=================================================================] 2.00K 8s 942ms
+
+1387.613559 k-mers per position
+44390 DB matches per sequence
+0 overflows
+338 sequences passed prefiltering per query sequence
+280 median result list length
+0 sequences with 0 size result lists
+Time for merging to pref: 0h 0m 0s 0ms
+Time for processing: 0h 0m 9s 640ms
+align /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp/4165723740561116949/input_step_redundancy /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp/4165723740561116949/input_step_redundancy /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp/4165723740561116949/pref /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp/4165723740561116949/aln --sub-mat 'aa:blosum62.out,nucl:nucleotide.out' -a 0 --alignment-mode 3 --alignment-output-mode 0 --wrapped-scoring 0 -e 0.001 --min-seq-id 0.3 --min-aln-len 0 --seq-id-mode 0 --alt-ali 0 -c 0.8 --cov-mode 0 --max-seq-len 65535 --comp-bias-corr 1 --comp-bias-corr-scale 1 --max-rejected 2147483647 --max-accept 2147483647 --add-self-matches 0 --db-load-mode 0 --pca substitution:1.100,context:1.400 --pcb substitution:4.100,context:5.800 --score-bias 0 --realign 0 --realign-score-bias -0.2 --realign-max-seqs 2147483647 --corr-score-weight 0 --gap-open aa:11,nucl:5 --gap-extend aa:1,nucl:2 --zdrop 40 --threads 4 --compressed 0 -v 3 
+
+Compute score, coverage and sequence identity
+Query database size: 1999 type: Aminoacid
+Target database size: 1999 type: Aminoacid
+Calculation of alignments
+[=================================================================] 2.00K 6s 981ms
+Time for merging to aln: 0h 0m 0s 0ms
+124034 alignments calculated
+4412 sequence pairs passed the thresholds (0.035571 of overall calculated)
+2.207103 hits per query sequence
+Time for processing: 0h 0m 7s 30ms
+clust /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp/4165723740561116949/input_step_redundancy /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp/4165723740561116949/aln /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp/4165723740561116949/clu_step0 --cluster-mode 2 --max-iterations 1000 --similarity-type 2 --threads 4 --compressed 0 -v 3 --cluster-weight-threshold 0.9 --set-mode 0 
+
+Clustering mode: Greedy
+Total time: 0h 0m 0s 1ms
+
+Size of the sequence database: 1999
+Size of the alignment database: 1999
+Number of clusters: 1565
+
+Writing results 0h 0m 0s 0ms
+Time for merging to clu_step0: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 1ms
+mergeclusters /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/input /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp/4165723740561116949/clu_redundancy /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp/4165723740561116949/clu_step0 --threads 4 --compressed 0 -v 3 
+
+Clustering step 1
+[=================================================================] 2.00K 0s 0ms
+Clustering step 2
+[=================================================================] 1.57K 0s 0ms
+Write merged clustering
+[=================================================================] 2.00K 0s 0ms
+Time for merging to clu: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 1ms
+rmdb /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp/4165723740561116949/pref -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp/4165723740561116949/aln -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp/4165723740561116949/clu_step0 -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp/4165723740561116949/clu_redundancy -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp/4165723740561116949/aln_redundancy -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_tmp/4165723740561116949/input_step_redundancy -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+createtsv /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/input /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/input /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/cluster.tsv --threads 4 -v 3 
+
+Time for merging to cluster.tsv: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 1ms
+result2repseq /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/input /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_rep --db-load-mode 0 --compressed 0 --threads 4 -v 3 
+
+[=================================================================] 1.57K 0s 0ms
+Time for merging to clu_rep: 0h 0m 0s 1ms
+Time for processing: 0h 0m 0s 2ms
+result2flat /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/input /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/input /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_rep /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/rep_seq.fasta --use-fasta-header -v 3 
+
+Time for processing: 0h 0m 0s 2ms
+createseqfiledb /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/input /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_seqs --threads 4 -v 3 
+
+[=================================================================] 1.57K 0s 0ms
+Time for merging to clu_seqs: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 1ms
+result2flat /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/input /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/input /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_seqs /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/all_seqs.fasta -v 3 
+
+Time for processing: 0h 0m 0s 4ms
+rmdb /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/input -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/input_h -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_seqs -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu_rep -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb /tmp/sparsedesign-density-cluster-wjgb57pp/work/7249505138482720502/clu -v 3 
+
+Time for processing: 0h 0m 0s 0ms

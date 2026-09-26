@@ -1,0 +1,4222 @@
+{
+  "completion": {
+    "feasibility": {
+      "complete": true,
+      "metadata_sha256": "a54613bcd0647260cf5e581b643f9c337c03ee078fb016030caf3b7eb0db9471",
+      "missing_task_keys": [],
+      "planned": 96,
+      "planned_manifest_sha256": "e867007b2c7fb20ad9d1b0afa4c6e98c5deb471cb94cddc3aaff2b4edc65c80e",
+      "recorded": 96
+    },
+    "repeated": {
+      "complete": true,
+      "metadata_sha256": "3c5b5f7f9f1aab2e29c4afe0c11f18b73de78182b5172810a106bf112c7fa9a3",
+      "missing_task_keys": [],
+      "planned": 210,
+      "planned_manifest_sha256": "a49fe914b5b221e7d85fef96dea51c741d8d71c8f9238005a30999c92d808e93",
+      "recorded": 210
+    }
+  },
+  "groups": [
+    {
+      "aa_length": 619,
+      "accession": "A8MTY0",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "timeout": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "derna"
+    },
+    {
+      "aa_length": 619,
+      "accession": "A8MTY0",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "derna"
+    },
+    {
+      "aa_length": 1462,
+      "accession": "E9Q3G8",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "derna"
+    },
+    {
+      "aa_length": 1462,
+      "accession": "E9Q3G8",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "derna"
+    },
+    {
+      "aa_length": 255,
+      "accession": "P08311",
+      "common_cai": {
+        "maximum": 0.709826109675448,
+        "median": 0.709826109675448,
+        "minimum": 0.709826109675448,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -576.9,
+        "median": -576.9,
+        "minimum": -576.9,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 1052720.0,
+        "median": 1052720.0,
+        "minimum": 1052720.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -576.9000244140625,
+        "median": -576.9000244140625,
+        "minimum": -576.9000244140625,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "derna",
+      "wall_seconds": {
+        "maximum": 70.51,
+        "median": 70.51,
+        "minimum": 70.51,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 255,
+      "accession": "P08311",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "timeout": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "derna"
+    },
+    {
+      "aa_length": 1574,
+      "accession": "P19524",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "derna"
+    },
+    {
+      "aa_length": 1574,
+      "accession": "P19524",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "derna"
+    },
+    {
+      "aa_length": 95,
+      "accession": "Q54J90",
+      "common_cai": {
+        "maximum": 0.7186529318089602,
+        "median": 0.7186529318089602,
+        "minimum": 0.7186529318089602,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -114.3,
+        "median": -114.3,
+        "minimum": -114.3,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 96056.0,
+        "median": 96056.0,
+        "minimum": 96056.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -114.30000305175781,
+        "median": -114.30000305175781,
+        "minimum": -114.30000305175781,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "derna",
+      "wall_seconds": {
+        "maximum": 3.16,
+        "median": 3.16,
+        "minimum": 3.16,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 95,
+      "accession": "Q54J90",
+      "common_cai": {
+        "maximum": 0.9773175279753558,
+        "median": 0.9773175279753558,
+        "minimum": 0.9773175279753558,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -90.18140285551851,
+        "median": -90.18140285551851,
+        "minimum": -90.18140285551851,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 187728.0,
+        "median": 187728.0,
+        "minimum": 187728.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -98.9000015258789,
+        "median": -98.9000015258789,
+        "minimum": -98.9000015258789,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "derna",
+      "wall_seconds": {
+        "maximum": 18.68,
+        "median": 18.68,
+        "minimum": 18.68,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 925,
+      "accession": "Q54TT4",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "derna"
+    },
+    {
+      "aa_length": 925,
+      "accession": "Q54TT4",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "derna"
+    },
+    {
+      "aa_length": 1976,
+      "accession": "Q61879",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "derna"
+    },
+    {
+      "aa_length": 1976,
+      "accession": "Q61879",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "derna"
+    },
+    {
+      "aa_length": 652,
+      "accession": "Q7TMA2",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "derna"
+    },
+    {
+      "aa_length": 652,
+      "accession": "Q7TMA2",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "derna"
+    },
+    {
+      "aa_length": 1809,
+      "accession": "Q8VIM6",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "derna"
+    },
+    {
+      "aa_length": 1809,
+      "accession": "Q8VIM6",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "derna"
+    },
+    {
+      "aa_length": 915,
+      "accession": "Q9ERV7",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "derna"
+    },
+    {
+      "aa_length": 915,
+      "accession": "Q9ERV7",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "derna"
+    },
+    {
+      "aa_length": 310,
+      "accession": "Q9SFX6",
+      "common_cai": {
+        "maximum": 0.7759955621867329,
+        "median": 0.7759955621867329,
+        "minimum": 0.7759955621867329,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -583.8,
+        "median": -583.8,
+        "minimum": -583.8,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 1133480.0,
+        "median": 1133480.0,
+        "minimum": 1133480.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -583.7999877929688,
+        "median": -583.7999877929688,
+        "minimum": -583.7999877929688,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "derna",
+      "wall_seconds": {
+        "maximum": 70.82,
+        "median": 70.82,
+        "minimum": 70.82,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 310,
+      "accession": "Q9SFX6",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "derna"
+    },
+    {
+      "aa_length": 82,
+      "accession": "Q9TM30",
+      "common_cai": {
+        "maximum": 0.736811445470754,
+        "median": 0.736811445470754,
+        "minimum": 0.736811445470754,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -188.1,
+        "median": -188.1,
+        "minimum": -188.1,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 119148.0,
+        "median": 119148.0,
+        "minimum": 119148.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -188.10000610351562,
+        "median": -188.10000610351562,
+        "minimum": -188.10000610351562,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "derna",
+      "wall_seconds": {
+        "maximum": 6.32,
+        "median": 6.32,
+        "minimum": 6.32,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 82,
+      "accession": "Q9TM30",
+      "common_cai": {
+        "maximum": 0.9335144374031467,
+        "median": 0.9335144374031467,
+        "minimum": 0.9335144374031467,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -140.53397712275867,
+        "median": -140.53397712275867,
+        "minimum": -140.53397712275867,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 233936.0,
+        "median": 233936.0,
+        "minimum": 233936.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -163.10000610351562,
+        "median": -163.10000610351562,
+        "minimum": -163.10000610351562,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "derna",
+      "wall_seconds": {
+        "maximum": 86.03,
+        "median": 86.03,
+        "minimum": 86.03,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 619,
+      "accession": "A8MTY0",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "timeout": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "linearcdsfold"
+    },
+    {
+      "aa_length": 619,
+      "accession": "A8MTY0",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "timeout": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "linearcdsfold"
+    },
+    {
+      "aa_length": 1462,
+      "accession": "E9Q3G8",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "linearcdsfold"
+    },
+    {
+      "aa_length": 1462,
+      "accession": "E9Q3G8",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "linearcdsfold"
+    },
+    {
+      "aa_length": 255,
+      "accession": "P08311",
+      "common_cai": {
+        "maximum": 0.7222511867051266,
+        "median": 0.7222511867051266,
+        "minimum": 0.7222511867051266,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -576.9,
+        "median": -576.9,
+        "minimum": -576.9,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 475112.0,
+        "median": 475112.0,
+        "minimum": 475112.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -576.9000244140625,
+        "median": -576.9000244140625,
+        "minimum": -576.9000244140625,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "linearcdsfold",
+      "wall_seconds": {
+        "maximum": 91.88,
+        "median": 91.88,
+        "minimum": 91.88,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 255,
+      "accession": "P08311",
+      "common_cai": {
+        "maximum": 0.9536588847287207,
+        "median": 0.9536588847287207,
+        "minimum": 0.9536588847287207,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -444.2017806547076,
+        "median": -444.2017806547076,
+        "minimum": -444.2017806547076,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 475112.0,
+        "median": 475112.0,
+        "minimum": 475112.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -492.6000061035156,
+        "median": -492.6000061035156,
+        "minimum": -492.6000061035156,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "linearcdsfold",
+      "wall_seconds": {
+        "maximum": 98.11,
+        "median": 98.11,
+        "minimum": 98.11,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 1574,
+      "accession": "P19524",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "linearcdsfold"
+    },
+    {
+      "aa_length": 1574,
+      "accession": "P19524",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "linearcdsfold"
+    },
+    {
+      "aa_length": 95,
+      "accession": "Q54J90",
+      "common_cai": {
+        "maximum": 0.7638300992731861,
+        "median": 0.7638300992731861,
+        "minimum": 0.7638300992731861,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -114.3,
+        "median": -114.3,
+        "minimum": -114.3,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 50608.0,
+        "median": 50608.0,
+        "minimum": 50608.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -114.30000305175781,
+        "median": -114.30000305175781,
+        "minimum": -114.30000305175781,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "linearcdsfold",
+      "wall_seconds": {
+        "maximum": 3.33,
+        "median": 3.33,
+        "minimum": 3.33,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 95,
+      "accession": "Q54J90",
+      "common_cai": {
+        "maximum": 0.9773175279753558,
+        "median": 0.9773175279753558,
+        "minimum": 0.9773175279753558,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -90.18140285551851,
+        "median": -90.18140285551851,
+        "minimum": -90.18140285551851,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 50648.0,
+        "median": 50648.0,
+        "minimum": 50648.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -98.9000015258789,
+        "median": -98.9000015258789,
+        "minimum": -98.9000015258789,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "linearcdsfold",
+      "wall_seconds": {
+        "maximum": 3.66,
+        "median": 3.66,
+        "minimum": 3.66,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 925,
+      "accession": "Q54TT4",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "linearcdsfold"
+    },
+    {
+      "aa_length": 925,
+      "accession": "Q54TT4",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "linearcdsfold"
+    },
+    {
+      "aa_length": 1976,
+      "accession": "Q61879",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "linearcdsfold"
+    },
+    {
+      "aa_length": 1976,
+      "accession": "Q61879",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "linearcdsfold"
+    },
+    {
+      "aa_length": 652,
+      "accession": "Q7TMA2",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "linearcdsfold"
+    },
+    {
+      "aa_length": 652,
+      "accession": "Q7TMA2",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "linearcdsfold"
+    },
+    {
+      "aa_length": 1809,
+      "accession": "Q8VIM6",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "linearcdsfold"
+    },
+    {
+      "aa_length": 1809,
+      "accession": "Q8VIM6",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "linearcdsfold"
+    },
+    {
+      "aa_length": 915,
+      "accession": "Q9ERV7",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "linearcdsfold"
+    },
+    {
+      "aa_length": 915,
+      "accession": "Q9ERV7",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "linearcdsfold"
+    },
+    {
+      "aa_length": 310,
+      "accession": "Q9SFX6",
+      "common_cai": {
+        "maximum": 0.7791234677319709,
+        "median": 0.7791234677319709,
+        "minimum": 0.7791234677319709,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -583.8,
+        "median": -583.8,
+        "minimum": -583.8,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 532820.0,
+        "median": 532820.0,
+        "minimum": 532820.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -583.7999877929688,
+        "median": -583.7999877929688,
+        "minimum": -583.7999877929688,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "linearcdsfold",
+      "wall_seconds": {
+        "maximum": 73.89,
+        "median": 73.89,
+        "minimum": 73.89,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 310,
+      "accession": "Q9SFX6",
+      "common_cai": {
+        "maximum": 0.9528445525528517,
+        "median": 0.9528445525528517,
+        "minimum": 0.9528445525528517,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -429.20365698931045,
+        "median": -429.20365698931045,
+        "minimum": -429.20365698931045,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 532828.0,
+        "median": 532828.0,
+        "minimum": 532828.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -489.1000061035156,
+        "median": -489.1000061035156,
+        "minimum": -489.1000061035156,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "linearcdsfold",
+      "wall_seconds": {
+        "maximum": 80.53,
+        "median": 80.53,
+        "minimum": 80.53,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 82,
+      "accession": "Q9TM30",
+      "common_cai": {
+        "maximum": 0.7502995850627161,
+        "median": 0.7502995850627161,
+        "minimum": 0.7502995850627161,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -188.1,
+        "median": -188.1,
+        "minimum": -188.1,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 52676.0,
+        "median": 52676.0,
+        "minimum": 52676.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -188.10000610351562,
+        "median": -188.10000610351562,
+        "minimum": -188.10000610351562,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "linearcdsfold",
+      "wall_seconds": {
+        "maximum": 7.14,
+        "median": 7.14,
+        "minimum": 7.14,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 82,
+      "accession": "Q9TM30",
+      "common_cai": {
+        "maximum": 0.9335144374031467,
+        "median": 0.9335144374031467,
+        "minimum": 0.9335144374031467,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -140.53397712275867,
+        "median": -140.53397712275867,
+        "minimum": -140.53397712275867,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 52504.0,
+        "median": 52504.0,
+        "minimum": 52504.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -163.10000610351562,
+        "median": -163.10000610351562,
+        "minimum": -163.10000610351562,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "linearcdsfold",
+      "wall_seconds": {
+        "maximum": 8.05,
+        "median": 8.05,
+        "minimum": 8.05,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 619,
+      "accession": "A8MTY0",
+      "common_cai": {
+        "maximum": 0.7808414532199849,
+        "median": 0.7808414532199849,
+        "minimum": 0.7808414532199849,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -1044.5,
+        "median": -1044.5,
+        "minimum": -1044.5,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 11822924.0,
+        "median": 11822924.0,
+        "minimum": 11822924.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -1044.5,
+        "median": -1044.5,
+        "minimum": -1044.5,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "lineardesign",
+      "wall_seconds": {
+        "maximum": 79.83,
+        "median": 79.83,
+        "minimum": 79.83,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 619,
+      "accession": "A8MTY0",
+      "common_cai": {
+        "maximum": 0.9357154316731444,
+        "median": 0.9357154316731444,
+        "minimum": 0.9357154316731444,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -713.684966193166,
+        "median": -713.684966193166,
+        "minimum": -713.684966193166,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 11822808.0,
+        "median": 11822808.0,
+        "minimum": 11822808.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -878.2000122070312,
+        "median": -878.2000122070312,
+        "minimum": -878.2000122070312,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "lineardesign",
+      "wall_seconds": {
+        "maximum": 79.32,
+        "median": 79.32,
+        "minimum": 79.32,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 1462,
+      "accession": "E9Q3G8",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "lineardesign"
+    },
+    {
+      "aa_length": 1462,
+      "accession": "E9Q3G8",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "lineardesign"
+    },
+    {
+      "aa_length": 255,
+      "accession": "P08311",
+      "common_cai": {
+        "maximum": 0.7230961102399817,
+        "median": 0.7230961102399817,
+        "minimum": 0.7230961102399817,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -576.9,
+        "median": -576.9,
+        "minimum": -576.9,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 2021576.0,
+        "median": 2021576.0,
+        "minimum": 2021576.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -576.9000244140625,
+        "median": -576.9000244140625,
+        "minimum": -576.9000244140625,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "lineardesign",
+      "wall_seconds": {
+        "maximum": 29.12,
+        "median": 29.12,
+        "minimum": 29.12,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 255,
+      "accession": "P08311",
+      "common_cai": {
+        "maximum": 0.9536588847287207,
+        "median": 0.9536588847287207,
+        "minimum": 0.9536588847287207,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -442.80178065470756,
+        "median": -442.80178065470756,
+        "minimum": -442.80178065470756,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 2021668.0,
+        "median": 2021668.0,
+        "minimum": 2021668.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -491.20001220703125,
+        "median": -491.20001220703125,
+        "minimum": -491.20001220703125,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "lineardesign",
+      "wall_seconds": {
+        "maximum": 28.86,
+        "median": 28.86,
+        "minimum": 28.86,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 1574,
+      "accession": "P19524",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "lineardesign"
+    },
+    {
+      "aa_length": 1574,
+      "accession": "P19524",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "lineardesign"
+    },
+    {
+      "aa_length": 95,
+      "accession": "Q54J90",
+      "common_cai": {
+        "maximum": 0.788971758488821,
+        "median": 0.788971758488821,
+        "minimum": 0.788971758488821,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -114.3,
+        "median": -114.3,
+        "minimum": -114.3,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 288840.0,
+        "median": 288840.0,
+        "minimum": 288840.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -114.30000305175781,
+        "median": -114.30000305175781,
+        "minimum": -114.30000305175781,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "lineardesign",
+      "wall_seconds": {
+        "maximum": 1.52,
+        "median": 1.52,
+        "minimum": 1.52,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 95,
+      "accession": "Q54J90",
+      "common_cai": {
+        "maximum": 0.9773175279753558,
+        "median": 0.9773175279753558,
+        "minimum": 0.9773175279753558,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -90.18140285551851,
+        "median": -90.18140285551851,
+        "minimum": -90.18140285551851,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 288744.0,
+        "median": 288744.0,
+        "minimum": 288744.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -98.9000015258789,
+        "median": -98.9000015258789,
+        "minimum": -98.9000015258789,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "lineardesign",
+      "wall_seconds": {
+        "maximum": 1.52,
+        "median": 1.52,
+        "minimum": 1.52,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 925,
+      "accession": "Q54TT4",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "lineardesign"
+    },
+    {
+      "aa_length": 925,
+      "accession": "Q54TT4",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "lineardesign"
+    },
+    {
+      "aa_length": 1976,
+      "accession": "Q61879",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "lineardesign"
+    },
+    {
+      "aa_length": 1976,
+      "accession": "Q61879",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "lineardesign"
+    },
+    {
+      "aa_length": 652,
+      "accession": "Q7TMA2",
+      "common_cai": {
+        "maximum": 0.6837190724429997,
+        "median": 0.6837190724429997,
+        "minimum": 0.6837190724429997,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -1720.3,
+        "median": -1720.3,
+        "minimum": -1720.3,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 13103540.0,
+        "median": 13103540.0,
+        "minimum": 13103540.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -1720.300048828125,
+        "median": -1720.300048828125,
+        "minimum": -1720.300048828125,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "lineardesign",
+      "wall_seconds": {
+        "maximum": 219.41,
+        "median": 219.41,
+        "minimum": 219.41,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 652,
+      "accession": "Q7TMA2",
+      "common_cai": {
+        "maximum": 0.9251908962037699,
+        "median": 0.9251908962037699,
+        "minimum": 0.9251908962037699,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -1218.0144684243205,
+        "median": -1218.0144684243205,
+        "minimum": -1218.0144684243205,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 13104072.0,
+        "median": 13104072.0,
+        "minimum": 13104072.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -1420.800048828125,
+        "median": -1420.800048828125,
+        "minimum": -1420.800048828125,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "lineardesign",
+      "wall_seconds": {
+        "maximum": 217.2,
+        "median": 217.2,
+        "minimum": 217.2,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 1809,
+      "accession": "Q8VIM6",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "lineardesign"
+    },
+    {
+      "aa_length": 1809,
+      "accession": "Q8VIM6",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "lineardesign"
+    },
+    {
+      "aa_length": 915,
+      "accession": "Q9ERV7",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "timeout": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "lineardesign"
+    },
+    {
+      "aa_length": 915,
+      "accession": "Q9ERV7",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "timeout": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "lineardesign"
+    },
+    {
+      "aa_length": 310,
+      "accession": "Q9SFX6",
+      "common_cai": {
+        "maximum": 0.7989978951485623,
+        "median": 0.7989978951485623,
+        "minimum": 0.7989978951485623,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -583.8,
+        "median": -583.8,
+        "minimum": -583.8,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 2984580.0,
+        "median": 2984580.0,
+        "minimum": 2984580.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -583.7999877929688,
+        "median": -583.7999877929688,
+        "minimum": -583.7999877929688,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "lineardesign",
+      "wall_seconds": {
+        "maximum": 24.54,
+        "median": 24.54,
+        "minimum": 24.54,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 310,
+      "accession": "Q9SFX6",
+      "common_cai": {
+        "maximum": 0.9528445525528517,
+        "median": 0.9528445525528517,
+        "minimum": 0.9528445525528517,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -429.20365698931045,
+        "median": -429.20365698931045,
+        "minimum": -429.20365698931045,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 2984880.0,
+        "median": 2984880.0,
+        "minimum": 2984880.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -489.1000061035156,
+        "median": -489.1000061035156,
+        "minimum": -489.1000061035156,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "lineardesign",
+      "wall_seconds": {
+        "maximum": 24.27,
+        "median": 24.27,
+        "minimum": 24.27,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 82,
+      "accession": "Q9TM30",
+      "common_cai": {
+        "maximum": 0.7546272675888132,
+        "median": 0.7546272675888132,
+        "minimum": 0.7546272675888132,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -188.1,
+        "median": -188.1,
+        "minimum": -188.1,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 217264.0,
+        "median": 217264.0,
+        "minimum": 217264.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -188.10000610351562,
+        "median": -188.10000610351562,
+        "minimum": -188.10000610351562,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "lineardesign",
+      "wall_seconds": {
+        "maximum": 3.18,
+        "median": 3.18,
+        "minimum": 3.18,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 82,
+      "accession": "Q9TM30",
+      "common_cai": {
+        "maximum": 0.9335144374031467,
+        "median": 0.9335144374031467,
+        "minimum": 0.9335144374031467,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -140.53397712275867,
+        "median": -140.53397712275867,
+        "minimum": -140.53397712275867,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 217256.0,
+        "median": 217256.0,
+        "minimum": 217256.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -163.10000610351562,
+        "median": -163.10000610351562,
+        "minimum": -163.10000610351562,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "lineardesign",
+      "wall_seconds": {
+        "maximum": 3.2,
+        "median": 3.2,
+        "minimum": 3.2,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 619,
+      "accession": "A8MTY0",
+      "common_cai": {
+        "maximum": 0.7667376524005981,
+        "median": 0.7667376524005981,
+        "minimum": 0.7667376524005981,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -1044.5,
+        "median": -1044.5,
+        "minimum": -1044.5,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 524628.0,
+        "median": 524628.0,
+        "minimum": 524628.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -1044.5,
+        "median": -1044.5,
+        "minimum": -1044.5,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 37.51,
+        "median": 37.51,
+        "minimum": 37.51,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 619,
+      "accession": "A8MTY0",
+      "common_cai": {
+        "maximum": 0.9357154316731444,
+        "median": 0.9357154316731444,
+        "minimum": 0.9357154316731444,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -713.684966193166,
+        "median": -713.684966193166,
+        "minimum": -713.684966193166,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 523472.0,
+        "median": 523472.0,
+        "minimum": 523472.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -878.2000122070312,
+        "median": -878.2000122070312,
+        "minimum": -878.2000122070312,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 37.35,
+        "median": 37.35,
+        "minimum": 37.35,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 1462,
+      "accession": "E9Q3G8",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "timeout": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "sparsedesign"
+    },
+    {
+      "aa_length": 1462,
+      "accession": "E9Q3G8",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "timeout": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "sparsedesign"
+    },
+    {
+      "aa_length": 255,
+      "accession": "P08311",
+      "common_cai": {
+        "maximum": 0.7064044506409003,
+        "median": 0.7064044506409003,
+        "minimum": 0.7064044506409003,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -576.9,
+        "median": -576.9,
+        "minimum": -576.9,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 117344.0,
+        "median": 117344.0,
+        "minimum": 117344.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -576.9000244140625,
+        "median": -576.9000244140625,
+        "minimum": -576.9000244140625,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 12.71,
+        "median": 12.71,
+        "minimum": 12.71,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 255,
+      "accession": "P08311",
+      "common_cai": {
+        "maximum": 0.9536588847287207,
+        "median": 0.9536588847287207,
+        "minimum": 0.9536588847287207,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -444.2017806547076,
+        "median": -444.2017806547076,
+        "minimum": -444.2017806547076,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 117100.0,
+        "median": 117100.0,
+        "minimum": 117100.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -492.6000061035156,
+        "median": -492.6000061035156,
+        "minimum": -492.6000061035156,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 12.65,
+        "median": 12.65,
+        "minimum": 12.65,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 1574,
+      "accession": "P19524",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "sparsedesign"
+    },
+    {
+      "aa_length": 1574,
+      "accession": "P19524",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "sparsedesign"
+    },
+    {
+      "aa_length": 95,
+      "accession": "Q54J90",
+      "common_cai": {
+        "maximum": 0.726694542678162,
+        "median": 0.726694542678162,
+        "minimum": 0.726694542678162,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -114.3,
+        "median": -114.3,
+        "minimum": -114.3,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 17260.0,
+        "median": 17260.0,
+        "minimum": 17260.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -114.30000305175781,
+        "median": -114.30000305175781,
+        "minimum": -114.30000305175781,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 0.7,
+        "median": 0.7,
+        "minimum": 0.7,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 95,
+      "accession": "Q54J90",
+      "common_cai": {
+        "maximum": 0.9773175279753558,
+        "median": 0.9773175279753558,
+        "minimum": 0.9773175279753558,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -90.18140285551851,
+        "median": -90.18140285551851,
+        "minimum": -90.18140285551851,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 17504.0,
+        "median": 17504.0,
+        "minimum": 17504.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -98.9000015258789,
+        "median": -98.9000015258789,
+        "minimum": -98.9000015258789,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 0.7,
+        "median": 0.7,
+        "minimum": 0.7,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 925,
+      "accession": "Q54TT4",
+      "common_cai": {
+        "maximum": 0.74832225652853,
+        "median": 0.74832225652853,
+        "minimum": 0.74832225652853,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -1378.7,
+        "median": -1378.7,
+        "minimum": -1378.7,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 1309256.0,
+        "median": 1309256.0,
+        "minimum": 1309256.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -1378.699951171875,
+        "median": -1378.699951171875,
+        "minimum": -1378.699951171875,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 114.86,
+        "median": 114.86,
+        "minimum": 114.86,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 925,
+      "accession": "Q54TT4",
+      "common_cai": {
+        "maximum": 0.9514877817376288,
+        "median": 0.9514877817376288,
+        "minimum": 0.9514877817376288,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -917.9047964871769,
+        "median": -917.9047964871769,
+        "minimum": -917.9047964871769,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 1311044.0,
+        "median": 1311044.0,
+        "minimum": 1311044.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -1101.9000244140625,
+        "median": -1101.9000244140625,
+        "minimum": -1101.9000244140625,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 114.2,
+        "median": 114.2,
+        "minimum": 114.2,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 1976,
+      "accession": "Q61879",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "sparsedesign"
+    },
+    {
+      "aa_length": 1976,
+      "accession": "Q61879",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "sparsedesign"
+    },
+    {
+      "aa_length": 652,
+      "accession": "Q7TMA2",
+      "common_cai": {
+        "maximum": 0.6787231609432497,
+        "median": 0.6787231609432497,
+        "minimum": 0.6787231609432497,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -1720.3,
+        "median": -1720.3,
+        "minimum": -1720.3,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 720036.0,
+        "median": 720036.0,
+        "minimum": 720036.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -1720.300048828125,
+        "median": -1720.300048828125,
+        "minimum": -1720.300048828125,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 94.93,
+        "median": 94.93,
+        "minimum": 94.93,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 652,
+      "accession": "Q7TMA2",
+      "common_cai": {
+        "maximum": 0.9251908962037699,
+        "median": 0.9251908962037699,
+        "minimum": 0.9251908962037699,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -1218.0144684243205,
+        "median": -1218.0144684243205,
+        "minimum": -1218.0144684243205,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 719336.0,
+        "median": 719336.0,
+        "minimum": 719336.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -1420.800048828125,
+        "median": -1420.800048828125,
+        "minimum": -1420.800048828125,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 94.01,
+        "median": 94.01,
+        "minimum": 94.01,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 1809,
+      "accession": "Q8VIM6",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 0.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "sparsedesign"
+    },
+    {
+      "aa_length": 1809,
+      "accession": "Q8VIM6",
+      "distinct_rna_outputs": 0,
+      "lambda_value": 4.0,
+      "outcomes": {
+        "not_attempted_after_cap": 1
+      },
+      "phase": "feasibility",
+      "successful": 0,
+      "tool": "sparsedesign"
+    },
+    {
+      "aa_length": 915,
+      "accession": "Q9ERV7",
+      "common_cai": {
+        "maximum": 0.7046437033477813,
+        "median": 0.7046437033477813,
+        "minimum": 0.7046437033477813,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -2192.7,
+        "median": -2192.7,
+        "minimum": -2192.7,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 1504188.0,
+        "median": 1504188.0,
+        "minimum": 1504188.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -2192.699951171875,
+        "median": -2192.699951171875,
+        "minimum": -2192.699951171875,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 211.11,
+        "median": 211.11,
+        "minimum": 211.11,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 915,
+      "accession": "Q9ERV7",
+      "common_cai": {
+        "maximum": 0.9369491273402475,
+        "median": 0.9369491273402475,
+        "minimum": 0.9369491273402475,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -1627.2377736795802,
+        "median": -1627.2377736795802,
+        "minimum": -1627.2377736795802,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 1504136.0,
+        "median": 1504136.0,
+        "minimum": 1504136.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -1865.5999755859375,
+        "median": -1865.5999755859375,
+        "minimum": -1865.5999755859375,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 209.84,
+        "median": 209.84,
+        "minimum": 209.84,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 310,
+      "accession": "Q9SFX6",
+      "common_cai": {
+        "maximum": 0.7842834312066729,
+        "median": 0.7842834312066729,
+        "minimum": 0.7842834312066729,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -583.8,
+        "median": -583.8,
+        "minimum": -583.8,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 145436.0,
+        "median": 145436.0,
+        "minimum": 145436.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -583.7999877929688,
+        "median": -583.7999877929688,
+        "minimum": -583.7999877929688,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 11.51,
+        "median": 11.51,
+        "minimum": 11.51,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 310,
+      "accession": "Q9SFX6",
+      "common_cai": {
+        "maximum": 0.9528445525528517,
+        "median": 0.9528445525528517,
+        "minimum": 0.9528445525528517,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -429.20365698931045,
+        "median": -429.20365698931045,
+        "minimum": -429.20365698931045,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 145268.0,
+        "median": 145268.0,
+        "minimum": 145268.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -489.1000061035156,
+        "median": -489.1000061035156,
+        "minimum": -489.1000061035156,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 11.49,
+        "median": 11.49,
+        "minimum": 11.49,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 82,
+      "accession": "Q9TM30",
+      "common_cai": {
+        "maximum": 0.7241748853017896,
+        "median": 0.7241748853017896,
+        "minimum": 0.7241748853017896,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -188.1,
+        "median": -188.1,
+        "minimum": -188.1,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 15884.0,
+        "median": 15884.0,
+        "minimum": 15884.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -188.10000610351562,
+        "median": -188.10000610351562,
+        "minimum": -188.10000610351562,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 1.25,
+        "median": 1.25,
+        "minimum": 1.25,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 82,
+      "accession": "Q9TM30",
+      "common_cai": {
+        "maximum": 0.9335144374031467,
+        "median": 0.9335144374031467,
+        "minimum": 0.9335144374031467,
+        "n": 1
+      },
+      "common_objective_kcal": {
+        "maximum": -140.53397712275867,
+        "median": -140.53397712275867,
+        "minimum": -140.53397712275867,
+        "n": 1
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 15844.0,
+        "median": 15844.0,
+        "minimum": 15844.0,
+        "n": 1
+      },
+      "outcomes": {
+        "ok": 1
+      },
+      "phase": "feasibility",
+      "structure_energy_kcal": {
+        "maximum": -163.10000610351562,
+        "median": -163.10000610351562,
+        "minimum": -163.10000610351562,
+        "n": 1
+      },
+      "successful": 1,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 1.25,
+        "median": 1.25,
+        "minimum": 1.25,
+        "n": 1
+      }
+    },
+    {
+      "aa_length": 255,
+      "accession": "P08311",
+      "common_cai": {
+        "maximum": 0.709826109675448,
+        "median": 0.709826109675448,
+        "minimum": 0.709826109675448,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -576.9,
+        "median": -576.9,
+        "minimum": -576.9,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 1052796.0,
+        "median": 1052648.0,
+        "minimum": 1052532.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -576.9000244140625,
+        "median": -576.9000244140625,
+        "minimum": -576.9000244140625,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "derna",
+      "wall_seconds": {
+        "maximum": 70.56,
+        "median": 69.92,
+        "minimum": 69.76,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 95,
+      "accession": "Q54J90",
+      "common_cai": {
+        "maximum": 0.7186529318089602,
+        "median": 0.7186529318089602,
+        "minimum": 0.7186529318089602,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -114.3,
+        "median": -114.3,
+        "minimum": -114.3,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 95992.0,
+        "median": 95976.0,
+        "minimum": 95944.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -114.30000305175781,
+        "median": -114.30000305175781,
+        "minimum": -114.30000305175781,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "derna",
+      "wall_seconds": {
+        "maximum": 3.34,
+        "median": 3.3,
+        "minimum": 3.16,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 95,
+      "accession": "Q54J90",
+      "common_cai": {
+        "maximum": 0.9773175279753558,
+        "median": 0.9773175279753558,
+        "minimum": 0.9773175279753558,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -90.18140285551851,
+        "median": -90.18140285551851,
+        "minimum": -90.18140285551851,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 187764.0,
+        "median": 187692.0,
+        "minimum": 187596.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -98.9000015258789,
+        "median": -98.9000015258789,
+        "minimum": -98.9000015258789,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "derna",
+      "wall_seconds": {
+        "maximum": 18.77,
+        "median": 18.62,
+        "minimum": 18.5,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 310,
+      "accession": "Q9SFX6",
+      "common_cai": {
+        "maximum": 0.7759955621867329,
+        "median": 0.7759955621867329,
+        "minimum": 0.7759955621867329,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -583.8,
+        "median": -583.8,
+        "minimum": -583.8,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 1133624.0,
+        "median": 1133576.0,
+        "minimum": 1133424.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -583.7999877929688,
+        "median": -583.7999877929688,
+        "minimum": -583.7999877929688,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "derna",
+      "wall_seconds": {
+        "maximum": 70.84,
+        "median": 70.04,
+        "minimum": 69.64,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 82,
+      "accession": "Q9TM30",
+      "common_cai": {
+        "maximum": 0.736811445470754,
+        "median": 0.736811445470754,
+        "minimum": 0.736811445470754,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -188.1,
+        "median": -188.1,
+        "minimum": -188.1,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 119320.0,
+        "median": 119280.0,
+        "minimum": 119156.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -188.10000610351562,
+        "median": -188.10000610351562,
+        "minimum": -188.10000610351562,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "derna",
+      "wall_seconds": {
+        "maximum": 6.43,
+        "median": 6.35,
+        "minimum": 6.34,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 82,
+      "accession": "Q9TM30",
+      "common_cai": {
+        "maximum": 0.9335144374031467,
+        "median": 0.9335144374031467,
+        "minimum": 0.9335144374031467,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -140.53397712275867,
+        "median": -140.53397712275867,
+        "minimum": -140.53397712275867,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 234088.0,
+        "median": 234064.0,
+        "minimum": 233988.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -163.10000610351562,
+        "median": -163.10000610351562,
+        "minimum": -163.10000610351562,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "derna",
+      "wall_seconds": {
+        "maximum": 84.73,
+        "median": 84.62,
+        "minimum": 84.38,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 255,
+      "accession": "P08311",
+      "common_cai": {
+        "maximum": 0.7222511867051266,
+        "median": 0.7222511867051266,
+        "minimum": 0.7222511867051266,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -576.9,
+        "median": -576.9,
+        "minimum": -576.9,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 475160.0,
+        "median": 475084.0,
+        "minimum": 475032.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -576.9000244140625,
+        "median": -576.9000244140625,
+        "minimum": -576.9000244140625,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "linearcdsfold",
+      "wall_seconds": {
+        "maximum": 98.23,
+        "median": 90.71,
+        "minimum": 90.07,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 255,
+      "accession": "P08311",
+      "common_cai": {
+        "maximum": 0.9536588847287207,
+        "median": 0.9536588847287207,
+        "minimum": 0.9536588847287207,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -444.2017806547076,
+        "median": -444.2017806547076,
+        "minimum": -444.2017806547076,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 475268.0,
+        "median": 475160.0,
+        "minimum": 475064.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -492.6000061035156,
+        "median": -492.6000061035156,
+        "minimum": -492.6000061035156,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "linearcdsfold",
+      "wall_seconds": {
+        "maximum": 99.32,
+        "median": 98.82,
+        "minimum": 98.14,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 95,
+      "accession": "Q54J90",
+      "common_cai": {
+        "maximum": 0.7638300992731861,
+        "median": 0.7638300992731861,
+        "minimum": 0.7638300992731861,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -114.3,
+        "median": -114.3,
+        "minimum": -114.3,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 50720.0,
+        "median": 50636.0,
+        "minimum": 50564.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -114.30000305175781,
+        "median": -114.30000305175781,
+        "minimum": -114.30000305175781,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "linearcdsfold",
+      "wall_seconds": {
+        "maximum": 3.46,
+        "median": 3.41,
+        "minimum": 3.34,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 95,
+      "accession": "Q54J90",
+      "common_cai": {
+        "maximum": 0.9773175279753558,
+        "median": 0.9773175279753558,
+        "minimum": 0.9773175279753558,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -90.18140285551851,
+        "median": -90.18140285551851,
+        "minimum": -90.18140285551851,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 50728.0,
+        "median": 50580.0,
+        "minimum": 50528.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -98.9000015258789,
+        "median": -98.9000015258789,
+        "minimum": -98.9000015258789,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "linearcdsfold",
+      "wall_seconds": {
+        "maximum": 3.82,
+        "median": 3.74,
+        "minimum": 3.65,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 310,
+      "accession": "Q9SFX6",
+      "common_cai": {
+        "maximum": 0.7791234677319709,
+        "median": 0.7791234677319709,
+        "minimum": 0.7791234677319709,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -583.8,
+        "median": -583.8,
+        "minimum": -583.8,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 532916.0,
+        "median": 532788.0,
+        "minimum": 532688.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -583.7999877929688,
+        "median": -583.7999877929688,
+        "minimum": -583.7999877929688,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "linearcdsfold",
+      "wall_seconds": {
+        "maximum": 76.0,
+        "median": 74.36,
+        "minimum": 74.04,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 310,
+      "accession": "Q9SFX6",
+      "common_cai": {
+        "maximum": 0.9528445525528517,
+        "median": 0.9528445525528517,
+        "minimum": 0.9528445525528517,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -429.20365698931045,
+        "median": -429.20365698931045,
+        "minimum": -429.20365698931045,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 532852.0,
+        "median": 532820.0,
+        "minimum": 532608.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -489.1000061035156,
+        "median": -489.1000061035156,
+        "minimum": -489.1000061035156,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "linearcdsfold",
+      "wall_seconds": {
+        "maximum": 80.4,
+        "median": 79.84,
+        "minimum": 79.64,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 82,
+      "accession": "Q9TM30",
+      "common_cai": {
+        "maximum": 0.7502995850627161,
+        "median": 0.7502995850627161,
+        "minimum": 0.7502995850627161,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -188.1,
+        "median": -188.1,
+        "minimum": -188.1,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 52760.0,
+        "median": 52644.0,
+        "minimum": 52536.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -188.10000610351562,
+        "median": -188.10000610351562,
+        "minimum": -188.10000610351562,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "linearcdsfold",
+      "wall_seconds": {
+        "maximum": 7.19,
+        "median": 7.16,
+        "minimum": 7.15,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 82,
+      "accession": "Q9TM30",
+      "common_cai": {
+        "maximum": 0.9335144374031467,
+        "median": 0.9335144374031467,
+        "minimum": 0.9335144374031467,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -140.53397712275867,
+        "median": -140.53397712275867,
+        "minimum": -140.53397712275867,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 52752.0,
+        "median": 52620.0,
+        "minimum": 52508.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -163.10000610351562,
+        "median": -163.10000610351562,
+        "minimum": -163.10000610351562,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "linearcdsfold",
+      "wall_seconds": {
+        "maximum": 8.08,
+        "median": 8.05,
+        "minimum": 8.02,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 619,
+      "accession": "A8MTY0",
+      "common_cai": {
+        "maximum": 0.7808414532199849,
+        "median": 0.7808414532199849,
+        "minimum": 0.7808414532199849,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -1044.5,
+        "median": -1044.5,
+        "minimum": -1044.5,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 11822952.0,
+        "median": 11822860.0,
+        "minimum": 11822800.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -1044.5,
+        "median": -1044.5,
+        "minimum": -1044.5,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "lineardesign",
+      "wall_seconds": {
+        "maximum": 80.36,
+        "median": 78.99,
+        "minimum": 78.91,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 619,
+      "accession": "A8MTY0",
+      "common_cai": {
+        "maximum": 0.9357154316731444,
+        "median": 0.9357154316731444,
+        "minimum": 0.9357154316731444,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -713.684966193166,
+        "median": -713.684966193166,
+        "minimum": -713.684966193166,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 11823240.0,
+        "median": 11822760.0,
+        "minimum": 11822716.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -878.2000122070312,
+        "median": -878.2000122070312,
+        "minimum": -878.2000122070312,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "lineardesign",
+      "wall_seconds": {
+        "maximum": 80.64,
+        "median": 79.32,
+        "minimum": 78.83,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 255,
+      "accession": "P08311",
+      "common_cai": {
+        "maximum": 0.7230961102399817,
+        "median": 0.7230961102399817,
+        "minimum": 0.7230961102399817,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -576.9,
+        "median": -576.9,
+        "minimum": -576.9,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 2021632.0,
+        "median": 2021576.0,
+        "minimum": 2021496.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -576.9000244140625,
+        "median": -576.9000244140625,
+        "minimum": -576.9000244140625,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "lineardesign",
+      "wall_seconds": {
+        "maximum": 28.81,
+        "median": 28.7,
+        "minimum": 28.63,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 255,
+      "accession": "P08311",
+      "common_cai": {
+        "maximum": 0.9536588847287207,
+        "median": 0.9536588847287207,
+        "minimum": 0.9536588847287207,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -442.80178065470756,
+        "median": -442.80178065470756,
+        "minimum": -442.80178065470756,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 2021888.0,
+        "median": 2021568.0,
+        "minimum": 2021468.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -491.20001220703125,
+        "median": -491.20001220703125,
+        "minimum": -491.20001220703125,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "lineardesign",
+      "wall_seconds": {
+        "maximum": 28.96,
+        "median": 28.8,
+        "minimum": 28.7,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 95,
+      "accession": "Q54J90",
+      "common_cai": {
+        "maximum": 0.788971758488821,
+        "median": 0.788971758488821,
+        "minimum": 0.788971758488821,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -114.3,
+        "median": -114.3,
+        "minimum": -114.3,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 288856.0,
+        "median": 288840.0,
+        "minimum": 288728.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -114.30000305175781,
+        "median": -114.30000305175781,
+        "minimum": -114.30000305175781,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "lineardesign",
+      "wall_seconds": {
+        "maximum": 1.6,
+        "median": 1.59,
+        "minimum": 1.5,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 95,
+      "accession": "Q54J90",
+      "common_cai": {
+        "maximum": 0.9773175279753558,
+        "median": 0.9773175279753558,
+        "minimum": 0.9773175279753558,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -90.18140285551851,
+        "median": -90.18140285551851,
+        "minimum": -90.18140285551851,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 288896.0,
+        "median": 288836.0,
+        "minimum": 288724.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -98.9000015258789,
+        "median": -98.9000015258789,
+        "minimum": -98.9000015258789,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "lineardesign",
+      "wall_seconds": {
+        "maximum": 1.6,
+        "median": 1.59,
+        "minimum": 1.54,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 652,
+      "accession": "Q7TMA2",
+      "common_cai": {
+        "maximum": 0.6837190724429997,
+        "median": 0.6837190724429997,
+        "minimum": 0.6837190724429997,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -1720.3,
+        "median": -1720.3,
+        "minimum": -1720.3,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 13103520.0,
+        "median": 13103512.0,
+        "minimum": 13103472.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -1720.300048828125,
+        "median": -1720.300048828125,
+        "minimum": -1720.300048828125,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "lineardesign",
+      "wall_seconds": {
+        "maximum": 222.89,
+        "median": 219.21,
+        "minimum": 216.85,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 652,
+      "accession": "Q7TMA2",
+      "common_cai": {
+        "maximum": 0.9251908962037699,
+        "median": 0.9251908962037699,
+        "minimum": 0.9251908962037699,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -1218.0144684243205,
+        "median": -1218.0144684243205,
+        "minimum": -1218.0144684243205,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 13104092.0,
+        "median": 13104080.0,
+        "minimum": 13103680.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -1420.800048828125,
+        "median": -1420.800048828125,
+        "minimum": -1420.800048828125,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "lineardesign",
+      "wall_seconds": {
+        "maximum": 219.87,
+        "median": 218.82,
+        "minimum": 216.22,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 310,
+      "accession": "Q9SFX6",
+      "common_cai": {
+        "maximum": 0.7989978951485623,
+        "median": 0.7989978951485623,
+        "minimum": 0.7989978951485623,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -583.8,
+        "median": -583.8,
+        "minimum": -583.8,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 2984684.0,
+        "median": 2984636.0,
+        "minimum": 2984584.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -583.7999877929688,
+        "median": -583.7999877929688,
+        "minimum": -583.7999877929688,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "lineardesign",
+      "wall_seconds": {
+        "maximum": 24.89,
+        "median": 24.66,
+        "minimum": 24.54,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 310,
+      "accession": "Q9SFX6",
+      "common_cai": {
+        "maximum": 0.9528445525528517,
+        "median": 0.9528445525528517,
+        "minimum": 0.9528445525528517,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -429.20365698931045,
+        "median": -429.20365698931045,
+        "minimum": -429.20365698931045,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 2984880.0,
+        "median": 2984844.0,
+        "minimum": 2984612.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -489.1000061035156,
+        "median": -489.1000061035156,
+        "minimum": -489.1000061035156,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "lineardesign",
+      "wall_seconds": {
+        "maximum": 24.98,
+        "median": 24.63,
+        "minimum": 24.38,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 82,
+      "accession": "Q9TM30",
+      "common_cai": {
+        "maximum": 0.7546272675888132,
+        "median": 0.7546272675888132,
+        "minimum": 0.7546272675888132,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -188.1,
+        "median": -188.1,
+        "minimum": -188.1,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 217264.0,
+        "median": 217220.0,
+        "minimum": 217112.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -188.10000610351562,
+        "median": -188.10000610351562,
+        "minimum": -188.10000610351562,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "lineardesign",
+      "wall_seconds": {
+        "maximum": 3.27,
+        "median": 3.26,
+        "minimum": 3.21,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 82,
+      "accession": "Q9TM30",
+      "common_cai": {
+        "maximum": 0.9335144374031467,
+        "median": 0.9335144374031467,
+        "minimum": 0.9335144374031467,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -140.53397712275867,
+        "median": -140.53397712275867,
+        "minimum": -140.53397712275867,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 217392.0,
+        "median": 217304.0,
+        "minimum": 217268.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -163.10000610351562,
+        "median": -163.10000610351562,
+        "minimum": -163.10000610351562,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "lineardesign",
+      "wall_seconds": {
+        "maximum": 3.31,
+        "median": 3.26,
+        "minimum": 3.25,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 619,
+      "accession": "A8MTY0",
+      "common_cai": {
+        "maximum": 0.7667376524005981,
+        "median": 0.7667376524005981,
+        "minimum": 0.7667376524005981,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -1044.5,
+        "median": -1044.5,
+        "minimum": -1044.5,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 524756.0,
+        "median": 524640.0,
+        "minimum": 524480.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -1044.5,
+        "median": -1044.5,
+        "minimum": -1044.5,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 38.5,
+        "median": 37.65,
+        "minimum": 37.24,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 619,
+      "accession": "A8MTY0",
+      "common_cai": {
+        "maximum": 0.9357154316731444,
+        "median": 0.9357154316731444,
+        "minimum": 0.9357154316731444,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -713.684966193166,
+        "median": -713.684966193166,
+        "minimum": -713.684966193166,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 523680.0,
+        "median": 523448.0,
+        "minimum": 523372.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -878.2000122070312,
+        "median": -878.2000122070312,
+        "minimum": -878.2000122070312,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 38.68,
+        "median": 37.62,
+        "minimum": 36.86,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 255,
+      "accession": "P08311",
+      "common_cai": {
+        "maximum": 0.7064044506409003,
+        "median": 0.7064044506409003,
+        "minimum": 0.7064044506409003,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -576.9,
+        "median": -576.9,
+        "minimum": -576.9,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 117372.0,
+        "median": 117348.0,
+        "minimum": 117292.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -576.9000244140625,
+        "median": -576.9000244140625,
+        "minimum": -576.9000244140625,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 12.93,
+        "median": 12.68,
+        "minimum": 12.62,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 255,
+      "accession": "P08311",
+      "common_cai": {
+        "maximum": 0.9536588847287207,
+        "median": 0.9536588847287207,
+        "minimum": 0.9536588847287207,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -444.2017806547076,
+        "median": -444.2017806547076,
+        "minimum": -444.2017806547076,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 117216.0,
+        "median": 117184.0,
+        "minimum": 117096.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -492.6000061035156,
+        "median": -492.6000061035156,
+        "minimum": -492.6000061035156,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 30.75,
+        "median": 12.84,
+        "minimum": 12.57,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 95,
+      "accession": "Q54J90",
+      "common_cai": {
+        "maximum": 0.726694542678162,
+        "median": 0.726694542678162,
+        "minimum": 0.726694542678162,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -114.3,
+        "median": -114.3,
+        "minimum": -114.3,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 17304.0,
+        "median": 17276.0,
+        "minimum": 17224.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -114.30000305175781,
+        "median": -114.30000305175781,
+        "minimum": -114.30000305175781,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 0.71,
+        "median": 0.7,
+        "minimum": 0.69,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 95,
+      "accession": "Q54J90",
+      "common_cai": {
+        "maximum": 0.9773175279753558,
+        "median": 0.9773175279753558,
+        "minimum": 0.9773175279753558,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -90.18140285551851,
+        "median": -90.18140285551851,
+        "minimum": -90.18140285551851,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 17476.0,
+        "median": 17152.0,
+        "minimum": 17096.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -98.9000015258789,
+        "median": -98.9000015258789,
+        "minimum": -98.9000015258789,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 0.71,
+        "median": 0.7,
+        "minimum": 0.69,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 925,
+      "accession": "Q54TT4",
+      "common_cai": {
+        "maximum": 0.74832225652853,
+        "median": 0.74832225652853,
+        "minimum": 0.74832225652853,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -1378.7,
+        "median": -1378.7,
+        "minimum": -1378.7,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 1309284.0,
+        "median": 1309256.0,
+        "minimum": 1309120.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -1378.699951171875,
+        "median": -1378.699951171875,
+        "minimum": -1378.699951171875,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 117.03,
+        "median": 114.7,
+        "minimum": 112.49,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 925,
+      "accession": "Q54TT4",
+      "common_cai": {
+        "maximum": 0.9514877817376288,
+        "median": 0.9514877817376288,
+        "minimum": 0.9514877817376288,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -917.9047964871769,
+        "median": -917.9047964871769,
+        "minimum": -917.9047964871769,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 1311044.0,
+        "median": 1310924.0,
+        "minimum": 1310812.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -1101.9000244140625,
+        "median": -1101.9000244140625,
+        "minimum": -1101.9000244140625,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 114.95,
+        "median": 113.78,
+        "minimum": 112.46,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 652,
+      "accession": "Q7TMA2",
+      "common_cai": {
+        "maximum": 0.6787231609432497,
+        "median": 0.6787231609432497,
+        "minimum": 0.6787231609432497,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -1720.3,
+        "median": -1720.3,
+        "minimum": -1720.3,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 719880.0,
+        "median": 719840.0,
+        "minimum": 719760.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -1720.300048828125,
+        "median": -1720.300048828125,
+        "minimum": -1720.300048828125,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 96.97,
+        "median": 95.76,
+        "minimum": 93.03,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 652,
+      "accession": "Q7TMA2",
+      "common_cai": {
+        "maximum": 0.9251908962037699,
+        "median": 0.9251908962037699,
+        "minimum": 0.9251908962037699,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -1218.0144684243205,
+        "median": -1218.0144684243205,
+        "minimum": -1218.0144684243205,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 719316.0,
+        "median": 719248.0,
+        "minimum": 719180.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -1420.800048828125,
+        "median": -1420.800048828125,
+        "minimum": -1420.800048828125,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 97.4,
+        "median": 95.79,
+        "minimum": 93.21,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 915,
+      "accession": "Q9ERV7",
+      "common_cai": {
+        "maximum": 0.7046437033477813,
+        "median": 0.7046437033477813,
+        "minimum": 0.7046437033477813,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -2192.7,
+        "median": -2192.7,
+        "minimum": -2192.7,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 1504228.0,
+        "median": 1504176.0,
+        "minimum": 1503964.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -2192.699951171875,
+        "median": -2192.699951171875,
+        "minimum": -2192.699951171875,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 214.13,
+        "median": 213.9,
+        "minimum": 211.36,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 915,
+      "accession": "Q9ERV7",
+      "common_cai": {
+        "maximum": 0.9369491273402475,
+        "median": 0.9369491273402475,
+        "minimum": 0.9369491273402475,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -1627.2377736795802,
+        "median": -1627.2377736795802,
+        "minimum": -1627.2377736795802,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 1504172.0,
+        "median": 1504124.0,
+        "minimum": 1504012.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -1865.5999755859375,
+        "median": -1865.5999755859375,
+        "minimum": -1865.5999755859375,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 213.41,
+        "median": 212.92,
+        "minimum": 209.82,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 310,
+      "accession": "Q9SFX6",
+      "common_cai": {
+        "maximum": 0.7842834312066729,
+        "median": 0.7842834312066729,
+        "minimum": 0.7842834312066729,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -583.8,
+        "median": -583.8,
+        "minimum": -583.8,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 145576.0,
+        "median": 145396.0,
+        "minimum": 145368.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -583.7999877929688,
+        "median": -583.7999877929688,
+        "minimum": -583.7999877929688,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 11.67,
+        "median": 11.59,
+        "minimum": 11.45,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 310,
+      "accession": "Q9SFX6",
+      "common_cai": {
+        "maximum": 0.9528445525528517,
+        "median": 0.9528445525528517,
+        "minimum": 0.9528445525528517,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -429.20365698931045,
+        "median": -429.20365698931045,
+        "minimum": -429.20365698931045,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 145312.0,
+        "median": 145272.0,
+        "minimum": 145152.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -489.1000061035156,
+        "median": -489.1000061035156,
+        "minimum": -489.1000061035156,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 11.64,
+        "median": 11.5,
+        "minimum": 11.42,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 82,
+      "accession": "Q9TM30",
+      "common_cai": {
+        "maximum": 0.7241748853017896,
+        "median": 0.7241748853017896,
+        "minimum": 0.7241748853017896,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -188.1,
+        "median": -188.1,
+        "minimum": -188.1,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 0.0,
+      "max_rss_kib": {
+        "maximum": 16020.0,
+        "median": 15884.0,
+        "minimum": 15704.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -188.10000610351562,
+        "median": -188.10000610351562,
+        "minimum": -188.10000610351562,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 1.28,
+        "median": 1.25,
+        "minimum": 1.24,
+        "n": 5
+      }
+    },
+    {
+      "aa_length": 82,
+      "accession": "Q9TM30",
+      "common_cai": {
+        "maximum": 0.9335144374031467,
+        "median": 0.9335144374031467,
+        "minimum": 0.9335144374031467,
+        "n": 5
+      },
+      "common_objective_kcal": {
+        "maximum": -140.53397712275867,
+        "median": -140.53397712275867,
+        "minimum": -140.53397712275867,
+        "n": 5
+      },
+      "distinct_rna_outputs": 1,
+      "lambda_value": 4.0,
+      "max_rss_kib": {
+        "maximum": 15940.0,
+        "median": 15856.0,
+        "minimum": 15780.0,
+        "n": 5
+      },
+      "outcomes": {
+        "ok": 5
+      },
+      "phase": "repeated",
+      "structure_energy_kcal": {
+        "maximum": -163.10000610351562,
+        "median": -163.10000610351562,
+        "minimum": -163.10000610351562,
+        "n": 5
+      },
+      "successful": 5,
+      "tool": "sparsedesign",
+      "wall_seconds": {
+        "maximum": 1.27,
+        "median": 1.25,
+        "minimum": 1.24,
+        "n": 5
+      }
+    }
+  ],
+  "model": {
+    "dangles": 0,
+    "internal_loop_unpaired_cap": 30,
+    "min_loop_size": 3,
+    "noLP": false,
+    "parameter_string_sha256": "2a43345a495850cfd2e0a78c57c6e02085e6df3c53496fe3289dc294d21732ad",
+    "parameters": "Turner2004",
+    "salt": 1.021,
+    "special_hp": true,
+    "temperature": 37,
+    "viennarna": "2.7.2"
+  },
+  "non_compilation_source_changes": {},
+  "notes": [
+    "LD/LCD speed ratios are excluded because native grammars differ; DERNA lambda0 ratios require an explicit model audit and matching verified outputs.",
+    "Feasibility and pilot phases are excluded from repeated timing estimates.",
+    "GNU time reports centisecond wall resolution; zero observations are not valid ratio denominators.",
+    "DERNA lambda>0 reports native fixed-sequence refolding energy, which need not equal its traceback structure energy."
+  ],
+  "panel_sha256": "67ea49242cf351f2b523285fa7f6ad2275015aa0eea05b3e25f6fb4c4867ad9a",
+  "python": "3.10.12 | packaged by conda-forge | (main, Jun 23 2023, 22:40:32) [GCC 12.3.0]",
+  "refold_max_nt": 3000,
+  "script_sha256": "8e533bc61aca31832b1d700b68f8dfd738bdf0c527e918b9ab66b52b4774c07d",
+  "table_sha256": "e6c4a49036fe21f3266e7e53130011bd7725c62ebeabbe442f7f8f1cdf5890c4"
+}

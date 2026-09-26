@@ -1,0 +1,112 @@
+{
+  "compression": "gzip with mtime=0; decompressed bytes equal original archived files",
+  "files": [
+    {
+      "original_path": "research/results/sparse-balanced-codon-panel-2026-07-16/plan-final.json",
+      "path": "plan-final.json.gz",
+      "stored_sha256": "12fd56d60f7ceee824c2f2e95ec3a49084bf7cad1be25cf4e5370c2e69a11560",
+      "uncompressed_bytes": 4635741,
+      "uncompressed_sha256": "794aeaa49ed5ac04b656655e8144cc8321da3b188ca9ab0b4cd236c75fd776a2"
+    },
+    {
+      "original_path": "research/results/sparse-balanced-codon-panel-2026-07-16/merged/manifest.json",
+      "path": "merged/manifest.json",
+      "stored_sha256": "95912a54fe5eb5ec64d140b8899ba4f423dc8ecdaa7afeae1727dbfd8f0a15af",
+      "uncompressed_bytes": 4734,
+      "uncompressed_sha256": "95912a54fe5eb5ec64d140b8899ba4f423dc8ecdaa7afeae1727dbfd8f0a15af"
+    },
+    {
+      "original_path": "research/data/uniprot-sprot-2026_02-sparse-balanced-2000.manifest.csv",
+      "path": "panel-2000.csv.gz",
+      "stored_sha256": "a93e3341d1109639e4d9f2de863d6d79b7b11851900f89b9304c373fb4dfe716",
+      "uncompressed_bytes": 3717453,
+      "uncompressed_sha256": "f65051eb2a8d3e87d502cdcd6b45284773629743d63b284f802c50c8be36736d"
+    },
+    {
+      "original_path": "research/data/uniprot-sprot-2026_02-sparse-balanced-400.manifest.csv",
+      "path": "panel-400.csv.gz",
+      "stored_sha256": "1ff00ddb8af3065989f36b7c56ca5f541b9c1eeab0b7dfa5d4b02ef3bb5d04c5",
+      "uncompressed_bytes": 740680,
+      "uncompressed_sha256": "0f0797da13787e0fe05f29cb0d544ca129a8b7ac93170e7c2da6da6915904462"
+    },
+    {
+      "original_path": "research/results/sparse-balanced-codon-panel-2026-07-16/merged/human-lambda0.csv",
+      "path": "merged/human-lambda0.csv.gz",
+      "stored_sha256": "b62dc00e9757caa506f131ffb00037b9dc9000e1c85b92f953f18a7d42de97b0",
+      "uncompressed_bytes": 1078910,
+      "uncompressed_sha256": "e3182361bd6723de37af0f57bc84cbb46af1f9b3b2be5564be8b4278f4e560d8"
+    },
+    {
+      "original_path": "research/results/sparse-balanced-codon-panel-2026-07-16/merged/human-lambda4.csv",
+      "path": "merged/human-lambda4.csv.gz",
+      "stored_sha256": "b76758a6210830e0fabdaa36c805f71a4427127dbf8ca0200ba1df89e2dcc4ae",
+      "uncompressed_bytes": 1078142,
+      "uncompressed_sha256": "eceac0cafe81dbb52ad3073852a259f198ef2239fdfa7e157c2a0480a462e10f"
+    },
+    {
+      "original_path": "research/results/sparse-balanced-codon-panel-2026-07-16/merged/yeast-lambda4.csv",
+      "path": "merged/yeast-lambda4.csv.gz",
+      "stored_sha256": "cdebd843812881da8e519329866fed84fbc1976a5fdcc8f0eface45868619ff3",
+      "uncompressed_bytes": 214353,
+      "uncompressed_sha256": "508cfead3fd91649bf1c8b6258d7a91712fc9be6cde6f93c27d3dc98f0a284bb"
+    },
+    {
+      "original_path": "research/results/sparse-balanced-codon-panel-2026-07-16/merged/mouse-lambda4.csv",
+      "path": "merged/mouse-lambda4.csv.gz",
+      "stored_sha256": "c95cc3f80df16039e805ca8d1f0b43d94cfabab25cb83ce500edfb1859d61a74",
+      "uncompressed_bytes": 214541,
+      "uncompressed_sha256": "52f5b57186209736566af293e5d98f525f67e311dd9ec17c970bf6744178efa5"
+    },
+    {
+      "original_path": "research/results/sparse-balanced-codon-panel-2026-07-16/merged/zebrafish-lambda4.csv",
+      "path": "merged/zebrafish-lambda4.csv.gz",
+      "stored_sha256": "ea322f1ec3f25ad8e9dbf13ab8c01cc34ff353eb2536db75e40001c2fdd2fb33",
+      "uncompressed_bytes": 214504,
+      "uncompressed_sha256": "e9939ee881ce85f2e220f49ffa8dc6108207d688349e1aaaacae70413c5d6d0e"
+    },
+    {
+      "original_path": "research/results/sparse-balanced-codon-panel-2026-07-16/merged/drosophila-lambda4.csv",
+      "path": "merged/drosophila-lambda4.csv.gz",
+      "stored_sha256": "a1d61317ee16fdacc8a441e8030250d66ee1eaee28c688f42466664df1f69eb2",
+      "uncompressed_bytes": 214441,
+      "uncompressed_sha256": "e80fa6c5a32a91adfd2e40407df9113ca9b35f9c425982c0794c4c447258aefd"
+    },
+    {
+      "original_path": "research/results/sparse-balanced-codon-panel-2026-07-16/merged/celegans-lambda4.csv",
+      "path": "merged/celegans-lambda4.csv.gz",
+      "stored_sha256": "97b3e67431ff4c84711d34b352ad9d51f4fdd9f034b204b47259d8c33f707b67",
+      "uncompressed_bytes": 214399,
+      "uncompressed_sha256": "ec44f2c267861ad24aecdd7fb35c6e24992784491ccdeac5ece16e26380be46a"
+    },
+    {
+      "original_path": "research/results/sparse-balanced-codon-panel-2026-07-16/merged/arabidopsis-lambda4.csv",
+      "path": "merged/arabidopsis-lambda4.csv.gz",
+      "stored_sha256": "0f4f88a8760f946f34cdab872bc2890a35fde82e3963ba973b30a68a3163b0b0",
+      "uncompressed_bytes": 214406,
+      "uncompressed_sha256": "451af52081f263a380c7574707f03bd434b0fdd2f441981898913754d87d4fb4"
+    },
+    {
+      "original_path": "research/results/sparse-balanced-codon-panel-2026-07-16/merged/ecoli-o157-edl933-lambda4.csv",
+      "path": "merged/ecoli-o157-edl933-lambda4.csv.gz",
+      "stored_sha256": "382fa8a0ef38b2dba8a1a4a4b5a40aa2c2dba37a6c75df720a065a8ad7da1367",
+      "uncompressed_bytes": 214429,
+      "uncompressed_sha256": "440c3fca8bd192c24550734594e2a559d021496ec89baca027bf9fe15bfbb733"
+    },
+    {
+      "original_path": "research/results/sparse-balanced-codon-panel-2026-07-16/merged/bsubtilis-species-lambda4.csv",
+      "path": "merged/bsubtilis-species-lambda4.csv.gz",
+      "stored_sha256": "6d7315830fef4c25b147cf587d429bdfa45d0d87e5d9d8bd8a7c91a638775f2e",
+      "uncompressed_bytes": 214489,
+      "uncompressed_sha256": "0e07f7fae2665f26967d290e579eff52472702ee0d65efc5913997dc69e3e86b"
+    },
+    {
+      "original_path": "research/results/sparse-balanced-codon-panel-2026-07-16/merged/paeruginosa-pao1-lambda4.csv",
+      "path": "merged/paeruginosa-pao1-lambda4.csv.gz",
+      "stored_sha256": "c22dc5a49e250407325ce9827da9597e8a501a8a8b04bdae9aded03b3115e6b4",
+      "uncompressed_bytes": 214383,
+      "uncompressed_sha256": "8fd6f00ec5cf4441a5d830de5288c8c3988197915dfeaa98112d9e0d722ebcb0"
+    }
+  ],
+  "schema": "publication-density-v1",
+  "scope": "Existing candidate counts and provenance only; no new sequence designs."
+}

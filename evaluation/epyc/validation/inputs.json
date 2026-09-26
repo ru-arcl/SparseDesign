@@ -1,0 +1,1412 @@
+{
+  "cases": [
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A0A0A0MTA7-l0",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "SYNEQFFGPGTRLTVL",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A0A0A0MTA7-l0.25",
+      "lambda_user": 0.25,
+      "motifs": [],
+      "protein": "SYNEQFFGPGTRLTVL",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A0A0A0MTA7-l0.5",
+      "lambda_user": 0.5,
+      "motifs": [],
+      "protein": "SYNEQFFGPGTRLTVL",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A0A0A0MTA7-l1",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "SYNEQFFGPGTRLTVL",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A0A0A0MTA7-l2",
+      "lambda_user": 2,
+      "motifs": [],
+      "protein": "SYNEQFFGPGTRLTVL",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A0A0A0MTA7-l4",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "SYNEQFFGPGTRLTVL",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A0A0A0MTA7-l8",
+      "lambda_user": 8,
+      "motifs": [],
+      "protein": "SYNEQFFGPGTRLTVL",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A0A0B7P221-l0",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "MIRQKIFVFIVKSRRNSICPAIRRKEDY",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A0A0B7P221-l0.25",
+      "lambda_user": 0.25,
+      "motifs": [],
+      "protein": "MIRQKIFVFIVKSRRNSICPAIRRKEDY",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A0A0B7P221-l0.5",
+      "lambda_user": 0.5,
+      "motifs": [],
+      "protein": "MIRQKIFVFIVKSRRNSICPAIRRKEDY",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A0A0B7P221-l1",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "MIRQKIFVFIVKSRRNSICPAIRRKEDY",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A0A0B7P221-l2",
+      "lambda_user": 2,
+      "motifs": [],
+      "protein": "MIRQKIFVFIVKSRRNSICPAIRRKEDY",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A0A0B7P221-l4",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "MIRQKIFVFIVKSRRNSICPAIRRKEDY",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A0A0B7P221-l8",
+      "lambda_user": 8,
+      "motifs": [],
+      "protein": "MIRQKIFVFIVKSRRNSICPAIRRKEDY",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A7N011-l0",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A7N011-l0.25",
+      "lambda_user": 0.25,
+      "motifs": [],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A7N011-l0.5",
+      "lambda_user": 0.5,
+      "motifs": [],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A7N011-l1",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A7N011-l2",
+      "lambda_user": 2,
+      "motifs": [],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A7N011-l4",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A7N011-l8",
+      "lambda_user": 8,
+      "motifs": [],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A0L5J6-l0",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "MCQNGAQGSFRGAPPLSKEDVIEMEGTVLENLPNAMFKVELENKHSLLCHISGRMRKNYIRILPGDKVTVQLTPYDLTKGRISYRHK",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A0L5J6-l0.25",
+      "lambda_user": 0.25,
+      "motifs": [],
+      "protein": "MCQNGAQGSFRGAPPLSKEDVIEMEGTVLENLPNAMFKVELENKHSLLCHISGRMRKNYIRILPGDKVTVQLTPYDLTKGRISYRHK",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A0L5J6-l0.5",
+      "lambda_user": 0.5,
+      "motifs": [],
+      "protein": "MCQNGAQGSFRGAPPLSKEDVIEMEGTVLENLPNAMFKVELENKHSLLCHISGRMRKNYIRILPGDKVTVQLTPYDLTKGRISYRHK",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A0L5J6-l1",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "MCQNGAQGSFRGAPPLSKEDVIEMEGTVLENLPNAMFKVELENKHSLLCHISGRMRKNYIRILPGDKVTVQLTPYDLTKGRISYRHK",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A0L5J6-l2",
+      "lambda_user": 2,
+      "motifs": [],
+      "protein": "MCQNGAQGSFRGAPPLSKEDVIEMEGTVLENLPNAMFKVELENKHSLLCHISGRMRKNYIRILPGDKVTVQLTPYDLTKGRISYRHK",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A0L5J6-l4",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "MCQNGAQGSFRGAPPLSKEDVIEMEGTVLENLPNAMFKVELENKHSLLCHISGRMRKNYIRILPGDKVTVQLTPYDLTKGRISYRHK",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A0L5J6-l8",
+      "lambda_user": 8,
+      "motifs": [],
+      "protein": "MCQNGAQGSFRGAPPLSKEDVIEMEGTVLENLPNAMFKVELENKHSLLCHISGRMRKNYIRILPGDKVTVQLTPYDLTKGRISYRHK",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A2STQ8-l0",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A2STQ8-l0.25",
+      "lambda_user": 0.25,
+      "motifs": [],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A2STQ8-l0.5",
+      "lambda_user": 0.5,
+      "motifs": [],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A2STQ8-l1",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A2STQ8-l2",
+      "lambda_user": 2,
+      "motifs": [],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A2STQ8-l4",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "natural_lambda",
+      "id": "natural-A2STQ8-l8",
+      "lambda_user": 8,
+      "motifs": [],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "ward",
+      "historical_failure": "Crashed on failed assert; produced invalid codon sequence.",
+      "id": "ward-lineardesign-1",
+      "lambda_user": 0.0,
+      "motifs": [],
+      "protein": "MNCKVKDVRKFNWCGRSPFKREGPLGPVKF*",
+      "table": "ward-human-full"
+    },
+    {
+      "ensemble": true,
+      "group": "ward",
+      "historical_failure": "Crashed on failed assert; produced invalid codon sequence.",
+      "id": "ward-lineardesign-2",
+      "lambda_user": 0.0,
+      "motifs": [],
+      "protein": "MSIMSVKFTVQHAKHAKTDEHWRHWRLFFM*",
+      "table": "ward-human-full"
+    },
+    {
+      "ensemble": true,
+      "group": "ward",
+      "historical_failure": "MFE value is not consistent with ViennaRNA.",
+      "id": "ward-lineardesign-3",
+      "lambda_user": 1.0,
+      "motifs": [],
+      "protein": "MFPDGFIFISHAVPTPHDCFTLFHLHCHYP*",
+      "table": "ward-human-full"
+    },
+    {
+      "ensemble": true,
+      "group": "ward",
+      "historical_failure": "MFE value is not consistent with ViennaRNA.",
+      "id": "ward-lineardesign-4",
+      "lambda_user": 1.0,
+      "motifs": [],
+      "protein": "MNERMGIYNQPCPGMMNNKFYNIFSQPCSTHSAPMDKAVQTLFYKRCREHNPARMREIQCREMMWPEGIWDCVHLFEWQMINLNLRDFIEMMIVSHNYVL",
+      "table": "ward-human-full"
+    },
+    {
+      "ensemble": false,
+      "group": "ward",
+      "historical_failure": "Crashed on failed assert; produced invalid codon sequence.",
+      "id": "ward-lineardesign-5",
+      "lambda_user": 0.0,
+      "motifs": [],
+      "protein": "METWFPYKTNWAACSPWEWTHWEKCQSWATTVFNVWPLFKLRGGITQNCKHVNLTQWTHSHSEKHQIHPCYPSGWKWIVQCCGSAMEIQGHNPERTCPKAYVPRFDIIQTNIMSWKVRETCHHLNSVMFQDEQHLLMCDCRQQKSQMENGRLVAICVHKGHRQWIPQTMVECQIWTNPDFILSGLKKIEQPSTEWDEMHPFMIRWQALLALSKPQKPANWFPQHIANDACAGDLQLMSMHFYYFNMKSKRTIKGHALLTGDVWQVDNTAAVRPQKINNMCKDTKWQNVMDCDFSQCDWFATRNPKAHCRINHPKTTEKDEHCTFMGNCDSRSIPTMMDCFYLATYNGPHITSLFEKMQATGVNKVRLIGQGVANGQFWLQPNLVPYVRTICIDMLDTPAISMKYHFTAHDYLSRKDIQLNKAMVDSSFTKPEYPFEFMHKWHEFRTWPWSDMLPHSGDACSWPEWIVSRDVDRGPLRSFKDATDDKMADYHWFSDMKLQNFWNDSDTGHCHVTADMKCCDRDTKYRRMSRKGCGNMLEEHGIRPRHKETNQFVNDLMINCIKWCCFDCCIFLEGNDVQMLWYDRDFMNGDQDSRVIQVGQCPRCGWIRSTEKMTPMIPPSFDCWRSEDVHTDGWRLVDMFFVEGCDYTMRCCLQFHCQPIDCAMKLHQPAASIFVPCPGHEGGPRTMCFANPTGCVIPDDGRMTRPKTFSADWSQPGWLRPLHGLRHSILEWQDNPPSVQEGHAHMYLIVPWLWNTDSFEILYLFDCCWYARHKLFVASSPQNPASWDCEGVSECQGATGCENGGYKHCIAFEWYRGNPTSPQSCGVWTRHFTNSVMASQRNQDAGRGSAPQWKKYNHCGATAPLMAAQTYEYFHSEGTVFGAAMQQTFHGEWATGDEGLHSSYSQDKDHAMICCIMNHYLLQLDEPHMWVGTEPVDPHHHDREHNCLCW",
+      "table": "ward-human-full"
+    },
+    {
+      "ensemble": false,
+      "group": "ward",
+      "historical_failure": "Produced less optimal result that cdsfold/derna, probably due to beam search heuristic.",
+      "id": "ward-lineardesign-6",
+      "lambda_user": 0.0,
+      "motifs": [],
+      "protein": "MNIKCVMRWRIKTYEHLSIHMAFHKRMLGCLSAKRTAAYDNMTDDTEFWWEFCREHFYSLATDTMFQHGQHKNPYVYRTQTTRMIGFDFDDMPSVAVFSHGHETWNYHIPVTHPASGCMVGPMEVWCPKYYQAEGWHALASFFYCWLYHGSKTCKLCIKCATAMFSGIYFRGWPWMRYPHICPHHPIVRTENWNPHLMVQPYMRVFSNIEHSFCFGTKVQGHIAIIPTITQIAPSRLRMRLVMRTGHSAFTKIGWYQCFWKIKHSMYDHCYRAFEHVARLNRFQPMCKTHLSWWQVEPLFFKFQAVAIWSAEVMIYWRIYNKHIKQWDVKIEEEVHIPAHNGYMTCRMTHQHTQLHDPPMRPLMPGSFLKLHGRKQFSQMNTFHEMPNAESFFPIWDIVIQYQEKCPMKTSAYLFRMERETQECMGDRYLIPNFGQVPPWMQSSMGPRSWQCFARSQKMTQDSWIHQCHTHDQTIPAQGYVRMWHNPAYWCIVKGMAMLQMDEKQNEKNEKFWASVQTEICSQKLTCGSDRPHDEWLDFYMNYPWKHQFIESIWQECSHEWKKYKCCRWAVVAFQIGQNLMLHVNHYFNNKSKHMTRSYIHLSRTFNPTKKNDGRFVQCAEQPVNVKKGEVRHVYLPVLEMWGLGGKTIWAMAVRPSCDSIACSAGRWEVMQSNQDHECANKKFPEIFVHWDIRRTDHQSCDGHVSEMPHRVWEQAYEPTWHNNWTNAYVPVKNKYMIWCCYIVYNITDNLGRDRKYEMFCVNVVCHKTMNARGQDIKAGRSNWDLDPTNELMQDYWTSYLCNCYDKPGCCHQMQPELRCSMTCWNSYCYYFICTHKLSAMKQNIGQEVSHRISSNQQHKDARCCAICWNNCNHRCKKGCHWAGTLEESPNYVKVEAGKIWNGAMMMEWCYQGINNWTRYELAPILCGQGHPKVNRAMVLYNDARYAEWPILHVFDLFSKPWIATARQFVKFHGLGADPKCQFYRKAKLKRHINCMDFSN",
+      "table": "ward-human-full"
+    },
+    {
+      "ensemble": true,
+      "group": "ward",
+      "historical_failure": "mfe value did not match vienna rna",
+      "id": "ward-derna-1",
+      "lambda_user": 0.5,
+      "motifs": [],
+      "protein": "MEDAEVNTGQFMECQACKISGARSYCEAKK",
+      "table": "ward-human-full"
+    },
+    {
+      "ensemble": true,
+      "group": "ward",
+      "historical_failure": "mfe value did not match vienna rna",
+      "id": "ward-derna-2",
+      "lambda_user": 1.0,
+      "motifs": [],
+      "protein": "MRGPWYSNPQNLDESYFHLQVQEHDEMFPK",
+      "table": "ward-human-full"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A0A0A0MTA7-l0-full",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "SYNEQFFGPGTRLTVL",
+      "table": "ward-human-full"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A0A0A0MTA7-l0-rounded2",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "SYNEQFFGPGTRLTVL",
+      "table": "ward-human-rounded2"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A0A0A0MTA7-l1-full",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "SYNEQFFGPGTRLTVL",
+      "table": "ward-human-full"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A0A0A0MTA7-l1-rounded2",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "SYNEQFFGPGTRLTVL",
+      "table": "ward-human-rounded2"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A0A0A0MTA7-l4-full",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "SYNEQFFGPGTRLTVL",
+      "table": "ward-human-full"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A0A0A0MTA7-l4-rounded2",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "SYNEQFFGPGTRLTVL",
+      "table": "ward-human-rounded2"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A0A0B7P221-l0-full",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "MIRQKIFVFIVKSRRNSICPAIRRKEDY",
+      "table": "ward-human-full"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A0A0B7P221-l0-rounded2",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "MIRQKIFVFIVKSRRNSICPAIRRKEDY",
+      "table": "ward-human-rounded2"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A0A0B7P221-l1-full",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "MIRQKIFVFIVKSRRNSICPAIRRKEDY",
+      "table": "ward-human-full"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A0A0B7P221-l1-rounded2",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "MIRQKIFVFIVKSRRNSICPAIRRKEDY",
+      "table": "ward-human-rounded2"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A0A0B7P221-l4-full",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "MIRQKIFVFIVKSRRNSICPAIRRKEDY",
+      "table": "ward-human-full"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A0A0B7P221-l4-rounded2",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "MIRQKIFVFIVKSRRNSICPAIRRKEDY",
+      "table": "ward-human-rounded2"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A7N011-l0-full",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "ward-human-full"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A7N011-l0-rounded2",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "ward-human-rounded2"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A7N011-l1-full",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "ward-human-full"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A7N011-l1-rounded2",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "ward-human-rounded2"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A7N011-l4-full",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "ward-human-full"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A7N011-l4-rounded2",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "ward-human-rounded2"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A0L5J6-l0-full",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "MCQNGAQGSFRGAPPLSKEDVIEMEGTVLENLPNAMFKVELENKHSLLCHISGRMRKNYIRILPGDKVTVQLTPYDLTKGRISYRHK",
+      "table": "ward-human-full"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A0L5J6-l0-rounded2",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "MCQNGAQGSFRGAPPLSKEDVIEMEGTVLENLPNAMFKVELENKHSLLCHISGRMRKNYIRILPGDKVTVQLTPYDLTKGRISYRHK",
+      "table": "ward-human-rounded2"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A0L5J6-l1-full",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "MCQNGAQGSFRGAPPLSKEDVIEMEGTVLENLPNAMFKVELENKHSLLCHISGRMRKNYIRILPGDKVTVQLTPYDLTKGRISYRHK",
+      "table": "ward-human-full"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A0L5J6-l1-rounded2",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "MCQNGAQGSFRGAPPLSKEDVIEMEGTVLENLPNAMFKVELENKHSLLCHISGRMRKNYIRILPGDKVTVQLTPYDLTKGRISYRHK",
+      "table": "ward-human-rounded2"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A0L5J6-l4-full",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "MCQNGAQGSFRGAPPLSKEDVIEMEGTVLENLPNAMFKVELENKHSLLCHISGRMRKNYIRILPGDKVTVQLTPYDLTKGRISYRHK",
+      "table": "ward-human-full"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A0L5J6-l4-rounded2",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "MCQNGAQGSFRGAPPLSKEDVIEMEGTVLENLPNAMFKVELENKHSLLCHISGRMRKNYIRILPGDKVTVQLTPYDLTKGRISYRHK",
+      "table": "ward-human-rounded2"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A2STQ8-l0-full",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "ward-human-full"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A2STQ8-l0-rounded2",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "ward-human-rounded2"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A2STQ8-l1-full",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "ward-human-full"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A2STQ8-l1-rounded2",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "ward-human-rounded2"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A2STQ8-l4-full",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "ward-human-full"
+    },
+    {
+      "ensemble": true,
+      "group": "codon_precision",
+      "id": "precision-A2STQ8-l4-rounded2",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "ward-human-rounded2"
+    },
+    {
+      "ensemble": true,
+      "group": "synthetic_family",
+      "id": "family-S-32-l0",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "synthetic_family",
+      "id": "family-S-32-l1",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "synthetic_family",
+      "id": "family-S-32-l4",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "synthetic_family",
+      "id": "family-S-64-l0",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "synthetic_family",
+      "id": "family-S-64-l1",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "synthetic_family",
+      "id": "family-S-64-l4",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "synthetic_family",
+      "id": "family-S-128-l0",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "synthetic_family",
+      "id": "family-S-128-l1",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "synthetic_family",
+      "id": "family-S-128-l4",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "synthetic_family",
+      "id": "family-S-256-l0",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "synthetic_family",
+      "id": "family-S-256-l1",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "synthetic_family",
+      "id": "family-S-256-l4",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "synthetic_family",
+      "id": "family-YI-32-l0",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "YIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYI",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "synthetic_family",
+      "id": "family-YI-32-l1",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "YIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYI",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "synthetic_family",
+      "id": "family-YI-32-l4",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "YIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYI",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "synthetic_family",
+      "id": "family-YI-64-l0",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "YIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYI",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "synthetic_family",
+      "id": "family-YI-64-l1",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "YIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYI",
+      "table": "human"
+    },
+    {
+      "ensemble": true,
+      "group": "synthetic_family",
+      "id": "family-YI-64-l4",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "YIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYI",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "synthetic_family",
+      "id": "family-YI-128-l0",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "YIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYI",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "synthetic_family",
+      "id": "family-YI-128-l1",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "YIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYI",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "synthetic_family",
+      "id": "family-YI-128-l4",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "YIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYI",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "synthetic_family",
+      "id": "family-YI-256-l0",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "YIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYI",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "synthetic_family",
+      "id": "family-YI-256-l1",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "YIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYI",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "synthetic_family",
+      "id": "family-YI-256-l4",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "YIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYIYI",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A7N011-m0-l0",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A7N011-m0-l1",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A7N011-m0-l4",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A7N011-m1-l0",
+      "lambda_user": 0,
+      "motifs": [
+        "UUUUU"
+      ],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A7N011-m1-l1",
+      "lambda_user": 1,
+      "motifs": [
+        "UUUUU"
+      ],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A7N011-m1-l4",
+      "lambda_user": 4,
+      "motifs": [
+        "UUUUU"
+      ],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A7N011-m4-l0",
+      "lambda_user": 0,
+      "motifs": [
+        "UUUUU",
+        "UUUUUU",
+        "GGCGCC",
+        "GCGGCCGC"
+      ],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A7N011-m4-l1",
+      "lambda_user": 1,
+      "motifs": [
+        "UUUUU",
+        "UUUUUU",
+        "GGCGCC",
+        "GCGGCCGC"
+      ],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A7N011-m4-l4",
+      "lambda_user": 4,
+      "motifs": [
+        "UUUUU",
+        "UUUUUU",
+        "GGCGCC",
+        "GCGGCCGC"
+      ],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A7N011-m8-l0",
+      "lambda_user": 0,
+      "motifs": [
+        "UUUUU",
+        "UUUUUU",
+        "GGCGCC",
+        "GCGGCCGC",
+        "GAAUUC",
+        "GGUUCC",
+        "CUCGAG",
+        "AAGCUU"
+      ],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A7N011-m8-l1",
+      "lambda_user": 1,
+      "motifs": [
+        "UUUUU",
+        "UUUUUU",
+        "GGCGCC",
+        "GCGGCCGC",
+        "GAAUUC",
+        "GGUUCC",
+        "CUCGAG",
+        "AAGCUU"
+      ],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A7N011-m8-l4",
+      "lambda_user": 4,
+      "motifs": [
+        "UUUUU",
+        "UUUUUU",
+        "GGCGCC",
+        "GCGGCCGC",
+        "GAAUUC",
+        "GGUUCC",
+        "CUCGAG",
+        "AAGCUU"
+      ],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A7N011-m16-l0",
+      "lambda_user": 0,
+      "motifs": [
+        "UUUUU",
+        "UUUUUU",
+        "GGCGCC",
+        "GCGGCCGC",
+        "GAAUUC",
+        "GGUUCC",
+        "CUCGAG",
+        "AAGCUU",
+        "GGAUCC",
+        "CCCGGG",
+        "GUCGAC",
+        "ACCGGU",
+        "AGAUCU",
+        "UCUAGA",
+        "GGGCCC",
+        "CCUAGG"
+      ],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A7N011-m16-l1",
+      "lambda_user": 1,
+      "motifs": [
+        "UUUUU",
+        "UUUUUU",
+        "GGCGCC",
+        "GCGGCCGC",
+        "GAAUUC",
+        "GGUUCC",
+        "CUCGAG",
+        "AAGCUU",
+        "GGAUCC",
+        "CCCGGG",
+        "GUCGAC",
+        "ACCGGU",
+        "AGAUCU",
+        "UCUAGA",
+        "GGGCCC",
+        "CCUAGG"
+      ],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A7N011-m16-l4",
+      "lambda_user": 4,
+      "motifs": [
+        "UUUUU",
+        "UUUUUU",
+        "GGCGCC",
+        "GCGGCCGC",
+        "GAAUUC",
+        "GGUUCC",
+        "CUCGAG",
+        "AAGCUU",
+        "GGAUCC",
+        "CCCGGG",
+        "GUCGAC",
+        "ACCGGU",
+        "AGAUCU",
+        "UCUAGA",
+        "GGGCCC",
+        "CCUAGG"
+      ],
+      "protein": "MPKMKTNKGAAKRFKKTAGGIKYKHATKRHILTKRTTKNKRQLRPNALLPRCEVAAVVRMLPYA",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A2STQ8-m0-l0",
+      "lambda_user": 0,
+      "motifs": [],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A2STQ8-m0-l1",
+      "lambda_user": 1,
+      "motifs": [],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A2STQ8-m0-l4",
+      "lambda_user": 4,
+      "motifs": [],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A2STQ8-m1-l0",
+      "lambda_user": 0,
+      "motifs": [
+        "UUUUU"
+      ],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A2STQ8-m1-l1",
+      "lambda_user": 1,
+      "motifs": [
+        "UUUUU"
+      ],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A2STQ8-m1-l4",
+      "lambda_user": 4,
+      "motifs": [
+        "UUUUU"
+      ],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A2STQ8-m4-l0",
+      "lambda_user": 0,
+      "motifs": [
+        "UUUUU",
+        "UUUUUU",
+        "GGCGCC",
+        "GCGGCCGC"
+      ],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A2STQ8-m4-l1",
+      "lambda_user": 1,
+      "motifs": [
+        "UUUUU",
+        "UUUUUU",
+        "GGCGCC",
+        "GCGGCCGC"
+      ],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A2STQ8-m4-l4",
+      "lambda_user": 4,
+      "motifs": [
+        "UUUUU",
+        "UUUUUU",
+        "GGCGCC",
+        "GCGGCCGC"
+      ],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A2STQ8-m8-l0",
+      "lambda_user": 0,
+      "motifs": [
+        "UUUUU",
+        "UUUUUU",
+        "GGCGCC",
+        "GCGGCCGC",
+        "GAAUUC",
+        "GGUUCC",
+        "CUCGAG",
+        "AAGCUU"
+      ],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A2STQ8-m8-l1",
+      "lambda_user": 1,
+      "motifs": [
+        "UUUUU",
+        "UUUUUU",
+        "GGCGCC",
+        "GCGGCCGC",
+        "GAAUUC",
+        "GGUUCC",
+        "CUCGAG",
+        "AAGCUU"
+      ],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A2STQ8-m8-l4",
+      "lambda_user": 4,
+      "motifs": [
+        "UUUUU",
+        "UUUUUU",
+        "GGCGCC",
+        "GCGGCCGC",
+        "GAAUUC",
+        "GGUUCC",
+        "CUCGAG",
+        "AAGCUU"
+      ],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A2STQ8-m16-l0",
+      "lambda_user": 0,
+      "motifs": [
+        "UUUUU",
+        "UUUUUU",
+        "GGCGCC",
+        "GCGGCCGC",
+        "GAAUUC",
+        "GGUUCC",
+        "CUCGAG",
+        "AAGCUU",
+        "GGAUCC",
+        "CCCGGG",
+        "GUCGAC",
+        "ACCGGU",
+        "AGAUCU",
+        "UCUAGA",
+        "GGGCCC",
+        "CCUAGG"
+      ],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A2STQ8-m16-l1",
+      "lambda_user": 1,
+      "motifs": [
+        "UUUUU",
+        "UUUUUU",
+        "GGCGCC",
+        "GCGGCCGC",
+        "GAAUUC",
+        "GGUUCC",
+        "CUCGAG",
+        "AAGCUU",
+        "GGAUCC",
+        "CCCGGG",
+        "GUCGAC",
+        "ACCGGU",
+        "AGAUCU",
+        "UCUAGA",
+        "GGGCCC",
+        "CCUAGG"
+      ],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "group": "constraints",
+      "id": "motif-A2STQ8-m16-l4",
+      "lambda_user": 4,
+      "motifs": [
+        "UUUUU",
+        "UUUUUU",
+        "GGCGCC",
+        "GCGGCCGC",
+        "GAAUUC",
+        "GGUUCC",
+        "CUCGAG",
+        "AAGCUU",
+        "GGAUCC",
+        "CCCGGG",
+        "GUCGAC",
+        "ACCGGU",
+        "AGAUCU",
+        "UCUAGA",
+        "GGGCCC",
+        "CCUAGG"
+      ],
+      "protein": "MGRIENDNQDVSDDGSIIRVKLPNKRIREQFAQAELMLGSNHIRVRCSDGVTRLGRIKGKIKKRVWIREGDILIVVPWDFQDDKCDIIYRYTTPQVDWLRAHKYL",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "expected_infeasible": true,
+      "group": "constraint_edge",
+      "id": "constraint-M-infeasible",
+      "lambda_user": 1,
+      "motifs": [
+        "AUG"
+      ],
+      "protein": "MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "expected_infeasible": true,
+      "group": "constraint_edge",
+      "id": "constraint-K-infeasible",
+      "lambda_user": 1,
+      "motifs": [
+        "AAA",
+        "AAG"
+      ],
+      "protein": "KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
+      "table": "human"
+    },
+    {
+      "ensemble": false,
+      "expected_infeasible": false,
+      "group": "constraint_edge",
+      "id": "constraint-F-overlap-feasible",
+      "lambda_user": 1,
+      "motifs": [
+        "UUUU"
+      ],
+      "protein": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+      "table": "human"
+    }
+  ],
+  "natural_source": {
+    "archive_sha256": "a70d784fbc4d1054fecd16d24d5dacacf68a17e4e0c2f443d7e0c8deb2767574",
+    "manifest_sha256": "ab48b319aa4e35487c449de8336435b45496ac701c2ffad7fe79b35c7d99cf59"
+  },
+  "schema_version": 1,
+  "selection": "Prespecified deterministic manageable validation panel, not a representative performance sample.",
+  "table_sha256": {
+    "human": "e6c4a49036fe21f3266e7e53130011bd7725c62ebeabbe442f7f8f1cdf5890c4",
+    "ward-human-full": "b83f4e953058daea55dd65675d8280e572908b4565cc196e1b9ca4707879993f",
+    "ward-human-rounded2": "f97228f7169d69e45e5f2c5bd0006f0aaa31f5e3df4167fd0a141da8423a4ceb"
+  },
+  "tables": {
+    "human": "inputs/human-rounded-original.csv",
+    "ward-human-full": "inputs/ward-human-full.csv",
+    "ward-human-rounded2": "inputs/ward-human-rounded2.csv"
+  },
+  "ward_source": {
+    "commit": "1391cc795309b3da82ef1ba9b21516e8327134d9",
+    "license": "MIT; inputs/ward/LICENSE",
+    "paper": "https://doi.org/10.1093/bib/bbaf386",
+    "url": "https://github.com/maxhwardg/mrna_folding_comparison"
+  }
+}

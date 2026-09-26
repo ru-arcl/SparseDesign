@@ -1,0 +1,49 @@
+{
+  "aa_length": 95,
+  "accession": "Q54J90",
+  "command": [
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/baseline-sources/lineardesign/bin/LinearDesign_2D",
+    "4",
+    "1",
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/data/codon_usage_freq_table_human.csv"
+  ],
+  "common_cai": 0.9773175279753558,
+  "common_codon_penalty": 2.179649286120372,
+  "elapsed_observer_seconds": 1.6192017197608948,
+  "executable_sha256": "2908a87e5a2ba88b80e2bff31de233c3c8872ca051f0e77b44f4e18a9f656969",
+  "exit_status": 0.0,
+  "host_loadavg_started": "9.08 9.93 11.98 9/7787 2927242",
+  "input_fasta_sha256": "e7c5d096a8e4dfefda96d768b926afb5c3bcbbc700fbea3eafb828179b4de1c8",
+  "label": "Q54J90.lambda4.lineardesign.rep3",
+  "lambda_value": 4.0,
+  "max_rss_kib": 288724.0,
+  "native_mfe": -98.9,
+  "native_mfe_kind": "native reported folding score",
+  "native_temporary_bin_bytes": 0,
+  "raw_file_sha256": {
+    "stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "stdout.txt": "7d287af7b56123b3c7955effaa09a1bb8b63197e227cc65fbcb5539eef370278",
+    "time.txt": "b0e2e91b521a445f7c83674770b6c9e18179631942edfbdd6298c8ef7d29b154"
+  },
+  "repetition": 3,
+  "returncode": 0,
+  "rna": "AUGGUGAGCACCAACAACGAGCUGUCCACCGAGAAGAAGCUGAACAAUCUGGAGUAUUUCCCCAUGAACAACAACGAGAACUUCAACAGGGACGAGAUGAGGCGGAUCCGGCGGCAGCGGCAGCAGCAGCACCUGCAGCAGCAGUACCAGAUCCGCCAGAUCAAGAAGGAGCUGAAGGAGAACAAGUCCACCGGCUCCAAGAUCCUGAACUUCCUGAAGAAGUUCAUCGAGAACGAUGGGGAGAACCAGACUCAGACUCUGAAGGUGAAGAUGAACUUCGUGUAC",
+  "source_commit": "f0126ca89a8b853088b4bccfd2cc8c378d3678be",
+  "status": "ok",
+  "structure": ".((((....))))(((.((((.((((((((....(((..((((....(((((....(((((((((.........((((((((((..((((((...(((..((((((((.((..((.((.((.((((......)))).)).)).)).)).))))))))..))).....(((((((..(((.......)))..)))))))............))))))..))))))).)))......))))))))).))))).))))..)))...))))..))))...)))))))..",
+  "system_seconds": 0.18,
+  "table_sha256": "e6c4a49036fe21f3266e7e53130011bd7725c62ebeabbe442f7f8f1cdf5890c4",
+  "tool": "lineardesign",
+  "translation_valid": true,
+  "unix_started": 1790361100.275879,
+  "user_seconds": 1.32,
+  "validation_checks": {
+    "canonical_pairs_and_minimum_hairpin": true,
+    "dot_bracket_balanced": true,
+    "rna_length": true,
+    "structure_length": true,
+    "translation": true
+  },
+  "wall_seconds": 1.58,
+  "wrapper_sha256": "94b79eb0ef22681b1364d19e461fa76baec7ae064f45382855f8c0ab84a94f45"
+}

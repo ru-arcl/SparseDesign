@@ -1,0 +1,192 @@
+{
+  "all_canonical_constants_equal": true,
+  "checks": [
+    {
+      "all_entries_equal": true,
+      "all_mismatch_count": 0,
+      "canonical_entries_equal": true,
+      "canonical_mismatches": [],
+      "name": "stack37"
+    },
+    {
+      "all_entries_equal": true,
+      "all_mismatch_count": 0,
+      "canonical_entries_equal": true,
+      "canonical_mismatches": [],
+      "name": "hairpin37"
+    },
+    {
+      "all_entries_equal": true,
+      "all_mismatch_count": 0,
+      "canonical_entries_equal": true,
+      "canonical_mismatches": [],
+      "name": "bulge37"
+    },
+    {
+      "all_entries_equal": true,
+      "all_mismatch_count": 0,
+      "canonical_entries_equal": true,
+      "canonical_mismatches": [],
+      "name": "internal_loop37"
+    },
+    {
+      "all_entries_equal": true,
+      "all_mismatch_count": 0,
+      "canonical_entries_equal": true,
+      "canonical_mismatches": [],
+      "name": "mismatchH37"
+    },
+    {
+      "all_entries_equal": true,
+      "all_mismatch_count": 0,
+      "canonical_entries_equal": true,
+      "canonical_mismatches": [],
+      "name": "mismatchI37"
+    },
+    {
+      "all_entries_equal": true,
+      "all_mismatch_count": 0,
+      "canonical_entries_equal": true,
+      "canonical_mismatches": [],
+      "name": "mismatch1nI37"
+    },
+    {
+      "all_entries_equal": true,
+      "all_mismatch_count": 0,
+      "canonical_entries_equal": true,
+      "canonical_mismatches": [],
+      "name": "mismatch23I37"
+    },
+    {
+      "all_entries_equal": true,
+      "all_mismatch_count": 0,
+      "canonical_entries_equal": true,
+      "canonical_mismatches": [],
+      "name": "Triloop37"
+    },
+    {
+      "all_entries_equal": true,
+      "all_mismatch_count": 0,
+      "canonical_entries_equal": true,
+      "canonical_mismatches": [],
+      "name": "Tetraloop37"
+    },
+    {
+      "all_entries_equal": true,
+      "all_mismatch_count": 0,
+      "canonical_entries_equal": true,
+      "canonical_mismatches": [],
+      "name": "Hexaloop37"
+    },
+    {
+      "all_entries_equal": true,
+      "all_mismatch_count": 0,
+      "canonical_entries_equal": true,
+      "canonical_mismatches": [],
+      "name": "int11_37"
+    },
+    {
+      "all_entries_equal": true,
+      "all_mismatch_count": 0,
+      "canonical_entries_equal": true,
+      "canonical_mismatches": [],
+      "name": "int21_37"
+    },
+    {
+      "all_entries_equal": true,
+      "all_mismatch_count": 0,
+      "canonical_entries_equal": true,
+      "canonical_mismatches": [],
+      "name": "int22_37"
+    }
+  ],
+  "comparison": "Frozen SparseDesign versus pinned DERNA; canonical pairs 1..6, nucleotides1..4 where applicable",
+  "interpretation": "Parameter equality is necessary but does not prove recurrence or traceback correctness; outputs are independently translated and rescored.",
+  "pins": {
+    "derna": [
+      "https://github.com/elkebir-group/derna.git",
+      "adecda8277add8c0b75512434bd729f30b8fd7d6"
+    ],
+    "linearcdsfold": [
+      "https://github.com/ablab-nthu/LinearCDSfold.git",
+      "de1db7e6c8d0a4360bf4f1c9270f11525ad51ff6"
+    ],
+    "lineardesign": [
+      "https://github.com/LinearDesignSoftware/LinearDesign.git",
+      "f0126ca89a8b853088b4bccfd2cc8c378d3678be"
+    ]
+  },
+  "scalars": [
+    {
+      "derna": 107.856,
+      "equal": true,
+      "name": "lxc37",
+      "sparsedesign": 107.856
+    },
+    {
+      "derna": -90.0,
+      "equal": true,
+      "name": "ML_intern37",
+      "sparsedesign": -90.0
+    },
+    {
+      "derna": 930.0,
+      "equal": true,
+      "name": "ML_closing37",
+      "sparsedesign": 930.0
+    },
+    {
+      "derna": 0.0,
+      "equal": true,
+      "name": "ML_BASE37",
+      "sparsedesign": 0.0
+    },
+    {
+      "derna": 300.0,
+      "equal": true,
+      "name": "MAX_NINIO",
+      "sparsedesign": 300.0
+    },
+    {
+      "derna": 60.0,
+      "equal": true,
+      "name": "ninio37",
+      "sparsedesign": 60.0
+    },
+    {
+      "derna": 50.0,
+      "equal": true,
+      "name": "TerminalAU37",
+      "sparsedesign": 50.0
+    }
+  ],
+  "schema": "sparsedesign-native-model-audit-v1",
+  "script_sha256": "5a338b0ee8c4300724ed479516ad17cf1781c57d4c66fc7439530985e93ce57a",
+  "source_sha256": {
+    "research/results/epyc-node1-2026-09/baseline-sources/derna/src/default.cpp": "178a876515238341608afb8a9a0ba300e2acb32da080cbb421bc9952ecb3a5e7",
+    "research/results/epyc-node1-2026-09/baseline-sources/derna/src/params/intl11.h": "42ac9ccc2f8c8f83d86ff50e156ee8e0f54dc3ad1aa04b285d3c81d5dac51fcd",
+    "research/results/epyc-node1-2026-09/baseline-sources/derna/src/params/intl21.h": "667eca7f45e83e67429d1cd330afe0ca61c01b7438a999955f691dee120fe788",
+    "research/results/epyc-node1-2026-09/baseline-sources/derna/src/params/intl22.h": "3967b5f37e96c5475ffea8082186d51eb8c929c48d191f98f2ff79ccea936096",
+    "research/results/epyc-node1-2026-09/timings/source/src/vienna/energy_parameter.h": "683320cdf6b722db4768bf104ce31e4b86881b94477df5829d0e44806b129ff0",
+    "research/results/epyc-node1-2026-09/timings/source/src/vienna/intl11.h": "cd4f90e995096066834bf742f930cc5c512be69f2346c03bd9966e0b7e296e9b",
+    "research/results/epyc-node1-2026-09/timings/source/src/vienna/intl21.h": "1541c220cb712a4f9a56150db5a640e6c383a6795e602fc32cc8ce97c18e763a",
+    "research/results/epyc-node1-2026-09/timings/source/src/vienna/intl22.h": "84391186f9ac8d95cb9a7f845263fd32fb1562f31d0b60f628a071ecdaa09310"
+  },
+  "special_loop_motifs": [
+    {
+      "count": 2,
+      "kind": "tri",
+      "same_identities_and_order": true
+    },
+    {
+      "count": 16,
+      "kind": "tetra",
+      "same_identities_and_order": true
+    },
+    {
+      "count": 4,
+      "kind": "hexa",
+      "same_identities_and_order": true
+    }
+  ]
+}

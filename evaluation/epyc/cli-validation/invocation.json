@@ -1,0 +1,14 @@
+{
+  "argv": [
+    "research/epyc-node1/validate_cli.py",
+    "--input",
+    "research/results/epyc-node1-2026-09/timings",
+    "--output",
+    "research/results/epyc-node1-2026-09/analysis/cli-validation",
+    "--lock",
+    "research/results/epyc-node1-2026-09/compute.lock",
+    "--allow-partial"
+  ],
+  "adaptation": "Use analyze_node1.py for EPYC affinity, overlapping permitted j1 windows, and doubled caps.",
+  "partial_reason": "Five excluded pilot records are intentionally missing. All 70 selected CLI records are required to be present."
+}

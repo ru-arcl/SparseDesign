@@ -1,0 +1,49 @@
+{
+  "aa_length": 255,
+  "accession": "P08311",
+  "command": [
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/baseline-sources/derna/build/derna",
+    "-i",
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/inputs/P08311.fasta",
+    "-o",
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/public-baselines/chains/derna-l4/feasibility/P08311.lambda4.derna.rep1/native-result.txt",
+    "-m",
+    "1",
+    "-s",
+    "2",
+    "-c",
+    "/common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/public-baselines/chains/derna-l4/feasibility/codon-table-derna.csv",
+    "-l",
+    "0.0024937655860349127"
+  ],
+  "elapsed_observer_seconds": 240.00445383228362,
+  "executable_sha256": "68653d2efb9c244880d8e522edb437c8edcf04c7a0d2d0639d8191842b07ec5a",
+  "host_loadavg_started": "8.77 11.83 15.03 12/7728 2902080",
+  "input_fasta_sha256": "1bddce09569996e47dde4da33bad9b6fbd8e8238bc10cc7403967a8d7c4ee770",
+  "label": "P08311.lambda4.derna.rep1",
+  "lambda_value": 4.0,
+  "native_mfe_kind": "fixed-sequence refold",
+  "native_temporary_bin_bytes": 0,
+  "raw_file_sha256": {
+    "native-result.txt": "6b9e4bc8a64a5cb4a708bd4ef6cca6e0b6216510951b2cdca546f5cf59304cec",
+    "stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "stdout.txt": "dc60d8dd1275a90178ea516ccb67ef5b60e87542972919c32878bf040ca0c04f",
+    "time.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "repetition": 1,
+  "returncode": -15,
+  "source_commit": "adecda8277add8c0b75512434bd729f30b8fd7d6",
+  "status": "timeout",
+  "table_sha256": "e6c4a49036fe21f3266e7e53130011bd7725c62ebeabbe442f7f8f1cdf5890c4",
+  "tool": "derna",
+  "translation_valid": false,
+  "unix_started": 1790360306.5597172,
+  "validation_checks": {
+    "canonical_pairs_and_minimum_hairpin": true,
+    "dot_bracket_balanced": true,
+    "rna_length": false,
+    "structure_length": true,
+    "translation": false
+  },
+  "wrapper_sha256": "94b79eb0ef22681b1364d19e461fa76baec7ae064f45382855f8c0ab84a94f45"
+}

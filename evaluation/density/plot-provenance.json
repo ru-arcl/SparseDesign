@@ -1,0 +1,9 @@
+{
+  "figures": [
+    "density-sensitivity.pdf",
+    "host-comparison.pdf"
+  ],
+  "matplotlib": "3.10.6",
+  "script_sha256": "5bfe23790ddcee817e327761b3f9d67e1ecb560df1b6651e6a7006b7fc15994b",
+  "summary_sha256": "3ae2fae8d624f01f2e652a4ec747c65a4ab9ebd7f2fc42bf549396fa95313f12"
+}

@@ -1,0 +1,115 @@
+make: Entering directory '/home/jingjin/dev/rna-design/lineardesign-clean'
+CAI(P15421, lambda=0)        got=0.7337 want=0.7340  OK
+CAI(MFLMVF design)           got=1.0000 want=1.0000  OK
+
+spot-check w(c):
+  w(AUG) = 1.000  (aa=M)
+  w(UUC) = 1.000  (aa=F)
+  w(CUG) = 1.000  (aa=L)
+  w(GUG) = 1.000  (aa=V)
+  w(UAA) = 0.538  (aa=*)
+
+synonymous-codon counts: L=6 R=6 S=6 M=1 *=3
+all parsed costs finite/nonnegative: OK
+invalid frequency nan      rejected
+invalid frequency inf      rejected
+invalid frequency negative rejected
+zero frequency floor: OK
+
+ALL CHECKS PASSED
+position-major synonymous  : OK (bad_nodes=0 bad_edges=0 endpoints=OK)
+DFA paths: 12   distinct DFA seqs: 12   expected seqs: 12
+nodes: 12   rna_length: 9 (expected 9)
+language == synonymous space : OK
+no duplicate paths           : OK
+path weight == -L*log CAI    : OK (0 mismatches)
+all paths translate to MFL   : OK (0 bad)
+position-major large       : OK (bad_nodes=0 bad_edges=0 endpoints=OK)
+
+big protein nodes=59 rna_len=48 ; #designs=429981696 (<= 2n nodes? 59<=96 OK)
+position-major fixed       : OK (bad_nodes=0 bad_edges=0 endpoints=OK)
+position-major product     : OK (bad_nodes=0 bad_edges=0 endpoints=OK)
+position-major empty       : OK (bad_nodes=0 bad_edges=0 endpoints=OK)
+
+ALL CHECKS PASSED
+MF      λ=0.0 space=2       DP=-2.0000  brute=-2.0000  MATCH  self=ok  prot=ok
+MF      λ=0.5 space=2       DP=-2.0000  brute=-2.0000  MATCH  self=ok  prot=ok
+MF      λ=1.0 space=2       DP=-2.0000  brute=-2.0000  MATCH  self=ok  prot=ok
+MF      λ=3.0 space=2       DP=-2.0000  brute=-2.0000  MATCH  self=ok  prot=ok
+MLF     λ=0.0 space=12      DP=-4.0000  brute=-4.0000  MATCH  self=ok  prot=ok
+MLF     λ=0.5 space=12      DP=-3.1162  brute=-3.1162  MATCH  self=ok  prot=ok
+MLF     λ=1.0 space=12      DP=-3.0000  brute=-3.0000  MATCH  self=ok  prot=ok
+MLF     λ=3.0 space=12      DP=-3.0000  brute=-3.0000  MATCH  self=ok  prot=ok
+MWY     λ=0.0 space=2       DP=-5.0000  brute=-5.0000  MATCH  self=ok  prot=ok
+MWY     λ=0.5 space=2       DP=-5.0000  brute=-5.0000  MATCH  self=ok  prot=ok
+MWY     λ=1.0 space=2       DP=-5.0000  brute=-5.0000  MATCH  self=ok  prot=ok
+MWY     λ=3.0 space=2       DP=-5.0000  brute=-5.0000  MATCH  self=ok  prot=ok
+MFLK    λ=0.0 space=24      DP=-7.0000  brute=-7.0000  MATCH  self=ok  prot=ok
+MFLK    λ=0.5 space=24      DP=-6.4257  brute=-6.4257  MATCH  self=ok  prot=ok
+MFLK    λ=1.0 space=24      DP=-5.8514  brute=-5.8514  MATCH  self=ok  prot=ok
+MFLK    λ=3.0 space=24      DP=-5.0317  brute=-5.0317  MATCH  self=ok  prot=ok
+MDEYW   λ=0.0 space=8       DP=-7.0000  brute=-7.0000  MATCH  self=ok  prot=ok
+MDEYW   λ=0.5 space=8       DP=-7.0000  brute=-7.0000  MATCH  self=ok  prot=ok
+MDEYW   λ=1.0 space=8       DP=-7.0000  brute=-7.0000  MATCH  self=ok  prot=ok
+MDEYW   λ=3.0 space=8       DP=-7.0000  brute=-7.0000  MATCH  self=ok  prot=ok
+MKLVFR  λ=0.0 space=576     DP=-15.0000  brute=-15.0000  MATCH  self=ok  prot=ok
+MKLVFR  λ=0.5 space=576     DP=-14.2557  brute=-14.2557  MATCH  self=ok  prot=ok
+MKLVFR  λ=1.0 space=576     DP=-13.5115  brute=-13.5115  MATCH  self=ok  prot=ok
+MKLVFR  λ=3.0 space=576     DP=-11.8536  brute=-11.8536  MATCH  self=ok  prot=ok
+
+example MFLK λ=1.0:
+  AUGUUCUUGAAG
+  (...)((...))
+  cost=-5.851 (fold=-7.000, cai_cost=1.149) CAI=0.750
+
+ALL CHECKS PASSED
+energy thread-safety: PASS (24 threads, 250 rounds)
+protein=MFL paths=12 lambda=0.00 brute=0.000000000 dense=0.000000000 sparse=0.000000000 Z=9 direct=14 OK
+protein=MFL paths=12 lambda=0.30 brute=0.000000000 dense=0.000000000 sparse=0.000000000 Z=9 direct=14 OK
+protein=MFL paths=12 lambda=1.00 brute=0.000000000 dense=0.000000000 sparse=0.000000000 Z=9 direct=14 OK
+protein=MFL paths=12 lambda=3.00 brute=0.000000000 dense=0.000000000 sparse=0.000000000 Z=8 direct=14 OK
+protein=RSL paths=216 lambda=0.00 brute=0.000000000 dense=0.000000000 sparse=0.000000000 Z=24 direct=33 OK
+protein=RSL paths=216 lambda=0.30 brute=0.000000000 dense=0.000000000 sparse=0.000000000 Z=24 direct=33 OK
+protein=RSL paths=216 lambda=1.00 brute=0.000000000 dense=0.000000000 sparse=0.000000000 Z=21 direct=33 OK
+protein=RSL paths=216 lambda=3.00 brute=0.000000000 dense=0.000000000 sparse=0.000000000 Z=22 direct=33 OK
+protein=SSSS paths=1296 lambda=0.00 brute=-250.000000000 dense=-250.000000000 sparse=-250.000000000 Z=47 direct=63 OK
+protein=SSSS paths=1296 lambda=0.30 brute=-205.800827857 dense=-205.800827857 sparse=-205.800827857 Z=48 direct=63 OK
+protein=SSSS paths=1296 lambda=1.00 brute=-102.669426189 dense=-102.669426189 sparse=-102.669426189 Z=37 direct=63 OK
+protein=SSSS paths=1296 lambda=3.00 brute=-63.896586903 dense=-63.896586903 sparse=-63.896586903 Z=30 direct=63 OK
+protein=MWFMWF paths=4 lambda=0.00 brute=0.000000000 dense=0.000000000 sparse=0.000000000 Z=26 direct=52 OK
+protein=MWFMWF paths=4 lambda=0.30 brute=0.000000000 dense=0.000000000 sparse=0.000000000 Z=26 direct=52 OK
+protein=MWFMWF paths=4 lambda=1.00 brute=0.000000000 dense=0.000000000 sparse=0.000000000 Z=26 direct=52 OK
+protein=MWFMWF paths=4 lambda=3.00 brute=0.000000000 dense=0.000000000 sparse=0.000000000 Z=26 direct=52 OK
+protein=MSWFWFM paths=24 lambda=0.00 brute=-520.000000000 dense=-520.000000000 sparse=-520.000000000 Z=52 direct=99 OK
+protein=MSWFWFM paths=24 lambda=0.30 brute=-520.000000000 dense=-520.000000000 sparse=-520.000000000 Z=52 direct=99 OK
+protein=MSWFWFM paths=24 lambda=1.00 brute=-520.000000000 dense=-520.000000000 sparse=-520.000000000 Z=50 direct=99 OK
+protein=MSWFWFM paths=24 lambda=3.00 brute=-520.000000000 dense=-520.000000000 sparse=-520.000000000 Z=47 direct=99 OK
+high-lambda expected=2.00670695e+18 dense=2.00670695e+18 dense_wave=2.00670695e+18 sparse=2.00670695e+18 OK
+invalid-argument nan=rejected negative_min_loop=rejected OK
+overflow cost=+inf design=rejected OK
+exhaustive sparse checks: 23 comparisons, 0 failures
+motif product: base=1296 expected=217 actual=217 nodes=33 duplicates=0 bad_weights=0 each_motif_exercised=yes OK
+motif optimum lambda=0.00 brute=-40.000000000 dense=-40.000000000 sparse=-40.000000000 Z=61 OK
+motif optimum lambda=0.30 brute=-23.289549813 dense=-23.289549813 sparse=-23.289549813 Z=65 OK
+motif optimum lambda=1.00 brute=15.701500624 dense=15.701500624 sparse=15.701500624 Z=59 OK
+motif optimum lambda=3.00 brute=78.310239291 dense=78.310239291 sparse=78.310239291 Z=59 OK
+zero-loop product lambda=0.00 paths=1084 brute=-4380.000000000 dense=-4380.000000000 dense_wave_j4=-4380.000000000 sparse=-4380.000000000 OK
+zero-loop product lambda=1.00 paths=1084 brute=-4244.231429830 dense=-4244.231429830 dense_wave_j4=-4244.231429830 sparse=-4244.231429830 OK
+forbidden-motif checks: 0 failures
+Turner multiloop optimum (ML_BASE37=0): dense=-3217.900333371 sparse=-3217.900333371 realized=-3217.900333371 Z=282 direct=1911 trailing=0 translates=yes OK
+Turner multiloop optimum (ML_BASE37=37): dense=-3028.364060760 sparse=-3028.364060760 realized=-3028.364060760 Z=445 direct=1838 trailing=2 translates=yes OK
+thread-report requested=1 reported=1 observed=1 OK
+thread-report requested=2 reported=2 observed=2 OK
+thread-report requested=4 reported=4 observed=4 OK
+protein=MFL lambda=0.00 ML_BASE37=0 dense_ref=0.000000000 sparse=0.000000000 dense_wave_j1=0.000000000 dense_wave_j2=0.000000000 dense_wave_j4=0.000000000 OK
+protein=SSSS lambda=100.00 ML_BASE37=0 dense_ref=-102.669426189 sparse=-102.669426189 dense_wave_j1=-102.669426189 dense_wave_j2=-102.669426189 dense_wave_j4=-102.669426189 OK
+protein=MSWFWFM lambda=300.00 ML_BASE37=0 dense_ref=-520.000000000 sparse=-520.000000000 dense_wave_j1=-520.000000000 dense_wave_j2=-520.000000000 dense_wave_j4=-520.000000000 OK
+protein=WIPKKSAWCFEQQLCNLYSQLFMGV lambda=400.00 ML_BASE37=0 dense_ref=-3217.900333371 sparse=-3217.900333371 dense_wave_j1=-3217.900333371 dense_wave_j2=-3217.900333371 dense_wave_j4=-3217.900333371 OK
+protein=WIPKKSAWCFEQQLCNLYSQGFMGV lambda=400.00 ML_BASE37=37 dense_ref=-3028.364060760 sparse=-3028.364060760 dense_wave_j1=-3028.364060760 dense_wave_j2=-3028.364060760 dense_wave_j4=-3028.364060760 OK
+protein=SSSS constrained=yes lambda=100.00 dense_ref=-102.669426189 sparse=-102.669426189 dense_wave_j1=-102.669426189 dense_wave_j2=-102.669426189 dense_wave_j4=-102.669426189 OK
+dense-wavefront equivalence: 6 cases, 0 failures
+abstract sparse kernel: graphs=500 cells=38539 candidates=6814 discarded_ties=112 failures=0
+right-normal production cells: 72 cases, 181344 intervals, 0 failures
+CLI parsing/error tests: 36 passed
+asan suite: PASS
+make: Leaving directory '/home/jingjin/dev/rna-design/lineardesign-clean'

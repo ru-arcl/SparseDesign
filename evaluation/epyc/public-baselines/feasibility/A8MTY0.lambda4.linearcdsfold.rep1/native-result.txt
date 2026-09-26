@@ -1,0 +1,4 @@
+Amino acid file: /common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/inputs/A8MTY0.fasta
+Codon usage table: /common/home/jy512/dev/rna/research/results/epyc-node1-2026-09/timings/source/data/codon_usage_freq_table_human.csv
+Objective function: LinearDesign
+Search mode: Exact search

@@ -1,0 +1,1 @@
+diagnostics dp_cost=-373350 realized_cost=-373350 objective_delta=0 codon_penalty=558.53951384062157 cai=0.75377474877222617 cost_unit=centikcal_mol

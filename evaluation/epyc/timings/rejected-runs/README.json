@@ -1,0 +1,18 @@
+{
+  "note": "2026-09-24: user chose no retries. Original first attempts restored to timings/runs; retries archived here as superseded-retry-*.",
+  "contention_rerun_2026-09-24": {
+    "utc": "2026-09-24T14:14:26.355761+00:00",
+    "rule": "User: during a quiet period, rerun every 8/16-thread non-pilot run whose EPYC/i9 wall ratio exceeds 1.9; ablation blocks with any such kernel are rerun as whole three-kernel blocks. Originals kept as rejected-runs/<task>/contention-original.",
+    "tasks": 260
+  },
+  "contention_rerun_2026-09-25": {
+    "utc": "2026-09-25T04:15:46.710483+00:00",
+    "rule": "User: quiet period (about 3.5 busy CPUs); rerun every non-pilot j16 run still over 1.9x the i9, whole ablation blocks. Superseded records kept as contention-original (first time) or contention-rerun-1 (already rerun once on 2026-09-24).",
+    "tasks": 195
+  },
+  "contention_rerun_2026-09-25b": {
+    "utc": "2026-09-25T16:07:15.117249+00:00",
+    "rule": "User: very light load; rerun every non-pilot j16 run over 2.0x the i9, whole ablation blocks. Superseded records archived as contention-original / -rerun-1 / -rerun-2.",
+    "tasks": 73
+  }
+}

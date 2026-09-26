@@ -1,0 +1,11 @@
+g++ -std=c++11 -O3 -flto -Wall -fopenmp -DLDCLEAN_SQUARE_MEMOS src/main.cc src/fold_turner.cc src/energy.cc src/dfa.cc src/codon_table.cc -o /tmp/ldclean-publication-smoke.Hb5MCJ/lineardesign-clean
+lto-wrapper: warning: using serial compilation of 2 LTRANS jobs
+lto-wrapper: note: see the ‘-flto’ option documentation for more information
+CLI parsing/error tests: 36 passed
+inverse lambda tests: 3 passed
+ViennaRNA 2.7.2, parameter digest 2a43345a495850cf...
+  verified energy_parameter.h
+  verified intl11.h
+  verified intl21.h
+  verified intl22.h
+parameter verification: PASS (pinned source and all four headers)
