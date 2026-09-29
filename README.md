@@ -6,6 +6,24 @@ split work while preserving the specified dense recurrence; the complete solver 
 worst-case cubic in RNA length and quadratic in memory. See [DESIGN.md](DESIGN.md) for the
 model, algorithm, numerical contract and implementation lineage.
 
+## Paper and citation
+
+The method and evaluation are described in [Hao Lin and Jingjin Yu, *SparseDesign:
+Scaling Exact Coding-Sequence Design* (2026), arXiv:2609.32308](https://arxiv.org/abs/2609.32308).
+If you use SparseDesign in your research, please cite the paper:
+
+```bibtex
+@misc{lin2026sparsedesign,
+  title={SparseDesign: Scaling Exact Coding-Sequence Design},
+  author={Hao Lin and Jingjin Yu},
+  year={2026},
+  eprint={2609.32308},
+  archivePrefix={arXiv},
+  primaryClass={cs.DS},
+  url={https://arxiv.org/abs/2609.32308}
+}
+```
+
 [Benchmark reference results](BENCHMARKS.md) summarize the paper's primary AMD EPYC
 measurements, with links to raw evidence, plots and reproduction instructions. The separate
 commodity-PC example completes human Dp427c on a Core i9 workstation; its measurements
